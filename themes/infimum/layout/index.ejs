@@ -1,0 +1,22 @@
+<div class="image-header" style="background-image: url(<%- url_for('data/header.jpg') -%>);">
+    <h1><%-config.title -%></h1>
+</div>
+
+<div class="wrapper">
+    <% page.posts.each(function(post){ %>
+        <div class="post-tile" href="<%- url_for(post.path) %>">
+            <a href="<%- url_for(post.path) %>" class="tile-header" style="background-image: url(<%- url_for(post.path + post.featured) -%>);"></a>
+            <div class="tile-details">
+                <div class="tile-heading">
+                    <h3>
+                        <a href="<%- url_for(post.path) %>"><%= post.title %></a>
+                    </h3>
+                    <span class="date"><%= date(post.date) %></span>
+                </div>
+                <% if(post.excerpt) { %>
+                    <div class="excerpt"><%- post.excerpt %></div>
+                <% } %>
+            </div>
+        </div>
+    <% }) %>
+</div>
