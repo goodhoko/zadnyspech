@@ -16,18 +16,19 @@ h1, h2, h3 {
 	margin-top: 0;
 	margin-bottom: 0;
 }
-a {
-	word-wrap: break-word;
-}
-a:visited {
-    color: inherit;
-}
 h1 {
 	font-size: 3em;
 	font-weight: 800;
 }
 h2 {
 	font-size: 1.8em;
+}
+a {
+	color: inherit;
+	word-wrap: break-word;
+}
+a:visited {
+    color: inherit;
 }
 .image-header, .tile-header {
 	width: 100%;
@@ -110,10 +111,13 @@ article {
 		padding: 5px 0;
 	}
 	article .excerpt p {
-		margin: 0;
+		margin: 0 0 2em 0;
 		font-size: 1.4em;
 		font-weight: 500;
 		color: #555;
+	}
+	article h1 + p, article h2 + p, article h3 + p, article h4 + p, article h5 + p {
+		margin-top: 0;
 	}
 	article .video-wrapper {
 	    display:table;
