@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html lang="cs">
 <head>
-	<title><%= page.title ? page.title + ' | ' : '' %><%= config.title %></title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title><%= page.title ? page.title + ' | ' : '' %><%= config.title %></title>
+	<link rel="shortcut icon" type="image/png" href="<%- url_for('data/favicon.png') -%>"/>
+	
 	<link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab" rel="stylesheet">
 	<%- css('assets/css/style.css') %>
 	<%- css('assets/css/lightgallery.min.css') %>
+	
 	<!-- TODO: <%- //open_graph([options]) %> -->
 </head>
 <body>
