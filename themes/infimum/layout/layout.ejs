@@ -13,7 +13,8 @@
 
 	<%- open_graph({
 		image: page.featured || url_for('data/header.jpg'),
-		title: (page.title ? page.title + ' | ' : '') + config.title
+		title: (page.title ? page.title + ' | ' : '') + config.title,
+		description: is_home() ? config.description : null
 	}) %>
 </head>
 <body>
