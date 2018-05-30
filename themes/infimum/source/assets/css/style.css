@@ -115,6 +115,29 @@ article {
 		font-weight: 500;
 		color: #555;
 	}
+	article .video-wrapper {
+	    display:table;
+	    position:relative;
+	    width: 100%;
+	}
+	article .video-wrapper video {
+	    width: 100%;
+	    border: 1px solid #333;
+	}
+	article .video-wrapper .playpause {
+	    background-image:url('/blog/assets/img/playpause.svg');
+	    background-repeat:no-repeat;
+	    width:30%;
+	    height:30%;
+	    position:absolute;
+	    left:0%;
+	    right:0%;
+	    top:0%;
+	    bottom:0%;
+	    margin:auto;
+	    background-size:contain;
+	    background-position: center;
+	}
 
 
 
