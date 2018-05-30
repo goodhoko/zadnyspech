@@ -130,7 +130,7 @@ article {
 	    border: 1px solid #333;
 	}
 	article .video-wrapper .playpause {
-	    background-image:url('/blog/assets/img/playpause.svg');
+	    background-image:url('../img/playpause.svg');
 	    background-repeat:no-repeat;
 	    width:30%;
 	    height:30%;
