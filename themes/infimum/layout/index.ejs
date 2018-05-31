@@ -13,9 +13,9 @@
                     </h3>
                     <span class="date"><%= date(post.date) %></span>
                 </div>
-                <% if(post.excerpt) { %>
-                    <div class="excerpt"><%- post.excerpt %></div>
-                <% } %>
+                <div class="excerpt">
+                    <%- post.excerpt || truncate(post.content, {length: 250}) %>
+                </div>
             </div>
         </div>
     <% }) %>
