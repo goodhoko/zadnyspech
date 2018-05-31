@@ -2,6 +2,8 @@ function getFileExtenstion(filename){
 	return filename.substring(filename.lastIndexOf('.') + 1).toLowerCase();
 }
 
+
+
 hexo.extend.filter.register('after_post_render',function(data){
 	if (getFileExtenstion(data.source) !== 'md'){
 		return;
