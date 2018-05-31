@@ -20,6 +20,8 @@ hexo.extend.filter.register('after_post_render',function(data){
 	return data;
 }, 9);
 
+
+
 hexo.extend.tag.register('asset_video', function(args, content){
 	var file = args[0] || '',
 		ext = getFileExtenstion(file),
@@ -32,4 +34,23 @@ hexo.extend.tag.register('asset_video', function(args, content){
 				'</video>' +
 				'<div class="playpause"></div>' +
 			'</div>';
+});
+
+
+hexo.extend.helper.register('htmlUnescape',function(str){
+	var entities = {
+		'amp': '&',
+		'apos': '\'',
+		'#x27': '\'',
+		'#x2F': '/',
+		'#39': '\'',
+		'#47': '/',
+		'lt': '<',
+		'gt': '>',
+		'nbsp': ' ',
+		'quot': '"'
+	};
+	return str.replace(/&([^;]+);/gm, function (match, entity) {
+		return entities[entity] || match
+	});
 });
