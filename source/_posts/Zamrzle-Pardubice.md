@@ -20,12 +20,7 @@ Navlečení do svetrů, bund a kabátů postupujeme městem do centra a směrem 
 {% asset_img pub.JPG %}
 Přicházíme k levému přítoku Labe Chrudimce. Už je nám jasné, kam všichni lidé z města zmizeli. Na několik kilometrů dlouhém úseku se hromadně bruslí. Žel bez bruslí se přidáváme a míříme proti proudu. Chrudimka totiž protéká přávě skrz Červňák.
 {% asset_img chrudimka.JPG %}
-Přicházíme do území bývalého vjenského prostoru. Neudržovaný zarostlý kus města rozdělený vejpůl údolím s Chrudimkou uprostřed. Křoviny jsou protkané cestičkami. Postupně míjíme několik mostů, nebo jen zbytků po nich. Je tu klid.
+Přicházíme do území bývalého vojenského prostoru. Neudržovaný zarostlý kus města rozdělený vejpůl údolím s Chrudimkou uprostřed. Křoviny jsou protkané cestičkami. Postupně míjíme několik mostů, nebo jen zbytků po nich. Je tu klid.
 {% asset_img agata_v_korunach.jpg "Agáta v korunách stromů na vrcholu jednoho z betonových pilířů" %}
 {% asset_img setkani.JPG  %}
 {% asset_img cervenak.JPG  %}
-
-
-
-
-
