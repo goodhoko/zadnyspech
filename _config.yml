@@ -85,4 +85,3 @@ deploy:
   port: 2233
   privateKey: 'C:\Users\goodh\Google Drive\Security\SSHKeys\privatekey.ppk'
   passphrase: Chdmto15l
-  agent: 
