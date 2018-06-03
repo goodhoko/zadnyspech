@@ -37,6 +37,7 @@ hexo.extend.tag.register('asset_video', function(args, content){
 });
 
 
+
 hexo.extend.helper.register('htmlUnescape',function(str){
 	var entities = {
 		'amp': '&',
@@ -54,3 +55,26 @@ hexo.extend.helper.register('htmlUnescape',function(str){
 		return entities[entity] || match
 	});
 });
+
+
+hexo.extend.helper.register('headerImgs', function(arg, content){
+	if(!arg){
+		return;
+	}
+	var fs = require('hexo-fs');
+	if(!arg.match(/\/$/)){
+		arg = arg + '/';
+	}
+	imgs =  fs.listDirSync('source/' + arg);
+
+	for (var i = imgs.length - 1; i >= 0; i--) {
+		imgs[i] = arg + imgs[i];
+	}
+
+	return imgs;
+})
+
+
+hexo.extend.helper.register('random', function(array){
+	return array[Math.floor(Math.random() * array.length)];
+})
