@@ -89,11 +89,6 @@ a:visited {
 				color: #777;
 				white-space: nowrap;
 			}
-
-
-
-
-
 .navigation {
 	border-top: 1px solid #bbb;
 	padding-top: 1em;
@@ -182,4 +177,10 @@ article {
 		article .excerpt p{
 			font-size: 1.2em;
 		}
+	.navigation {
+		flex-direction: column;
+	}
+	.navigation a {
+		margin-top: 1em;
+	}
 }
