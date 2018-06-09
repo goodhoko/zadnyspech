@@ -31,7 +31,6 @@ $(document).ready(function() {
 	if(location.pathname == '/'){
 		var headers = $('.image-header').data('imgs')
 		var img = headers[Math.floor(Math.random() * headers.length)];
-		$('div.image-header').css('background-image', 'url(/' + img + ')')
+		$('div.image-header').css('background-image', 'url(/' + encodeURI(img) + ')')
 	}
-
 });
