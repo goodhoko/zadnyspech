@@ -92,7 +92,7 @@ Silniční průsmyk mezi skalníma masivama. Majestátnost krajiny zašlapává 
 Pláž, kde místo písku najdete drobounký štěrk čistě z rozdrolených mušlí. Sledujeme tuleně, jak se plácaj ve vodě a pak si hrajeme v neuvěřitelně silným větru. Stačí vyskočit, roztáhnout ruce a člověk letí.
 {% asset_img R1-9A.JPG "I believe I can fly!" %}
 
-### Monnen Bay ###
+### Neist Point ###
 Osamocený maják na konci světa. Oceán drtí drsné skály útesu. Stojíme těsně na řvoucím příbojem a užíváme si tu sílu. Nejradši bych si tady dal brko a převaloval si v hlavě nekonečnost moře – prostorovou i časovou. Z rozjímání mě ale vytrhne vlna, která nás oba celý spláchne. Kalhoty od Séger jsou ale dokonalý a do půl minuty jsou absolutně suchý.
 {% asset_img IMG_4260.JPG "MJ" %}
 {% asset_img IMG_4304.JPG %}
