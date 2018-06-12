@@ -3,7 +3,7 @@ title: {{ title }}
 date: {{ date }}
 featured: 
 tags:
-<!-- {% asset_img . "" %} -->
 ---
+<!-- {% asset_img . "" %} -->
 
 <!-- more -->
