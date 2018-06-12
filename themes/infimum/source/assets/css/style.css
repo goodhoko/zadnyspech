@@ -37,7 +37,8 @@ a:visited {
 	overflow: hidden;
 	background-size: cover;
 	background-position: center;
-	
+	transition: background 2s ease-in-out;
+
 	color: #fff;
 	display: flex;
 	flex-direction: column;
