@@ -32,7 +32,7 @@ _4:19.05_
 Nic moc.
 
 Přemlouvám majitele vedlejšího koupaliště, aby mě pustil do zatím ještě zavřenýho bazénu. Koupu se jen já a jeho dva synkové. Všímám si zajímavýho kopce kousek za městem. Tam musím vylízt!
-{% asset_img R1-20.JPG "Zbořeň" %}
+{% asset_img R1-20.JPG "Bořeň" %}
 
 Teď je ale čas vzít silničku a prozkoumat okolí. Vydávám se kolem dolu Bílina. Místní mu říkají prostě šachta. První vesnice po cestě je Duchcov. Nádherný starý domy, bohužel vybydlený, rozmlácený. Na některejch jsou ještě patrný německý nápisy.
 {% asset_img IMG_20180519_172305.jpg %}
@@ -58,12 +58,12 @@ Vracím se serpentinovým sjezdem do Bíliny. Na náměstí si sedám do podloub
 "Jde to do prdele. Minimalizujou doly. Ždímaj z dělníků moc práce v nelidskejch podmínkách. Může za to ta posraná ekoteroristická EU. Ta nás stejně jen vyždíme a odkopne."
 Už nenacházím energii, abych se zeptal, jak je možný, že ten nablejskanej Marcedes za 3 mega před náma je jejich.
 
-Přijíždí Jakub. Kluk, kterého jsem našel na couchsurfingu. Náš plán vylézt na Zbořeň (To je ten kopec, co jsem si vyhlídl u bazénu.) odkládáme na ráno, neb nakonec musíme dojet do Ústí pro Kubovu mámu. V Ústí vyjíždíme na Větruši, kde asi dvě hodiny diskutujeme o ... světě. Hlavně teda já s Kubovou mámou. Dost ezo žena. Ale je to zajímavý. Sdílíme hodně podobnejch pohledů na svět, ale oba jsme si k nim došli naprosto odlišnejma názorovejma cestama. Když se ale dozvídám, že _"Například je dokázáno, že když žena dítě nechce, tak ho prostě nemá."_ je čas jet zpátky do Bíliny.
+Přijíždí Jakub. Kluk, kterého jsem našel na couchsurfingu. Náš plán vylézt na Bořeň (To je ten kopec, co jsem si vyhlídl u bazénu.) odkládáme na ráno, neb nakonec musíme dojet do Ústí pro Kubovu mámu. V Ústí vyjíždíme na Větruši, kde asi dvě hodiny diskutujeme o ... světě. Hlavně teda já s Kubovou mámou. Dost ezo žena. Ale je to zajímavý. Sdílíme hodně podobnejch pohledů na svět, ale oba jsme si k nim došli naprosto odlišnejma názorovejma cestama. Když se ale dozvídám, že _"Například je dokázáno, že když žena dítě nechce, tak ho prostě nemá."_ je čas jet zpátky do Bíliny.
 
 Tahám Kubu ještě do místního, lehce moderního pajzlu na pár piv. Parádní povídaní. Jedna myšlenka: Mám jednoho kamaráda, kterej říkal, že je dobrý umět ušetřit peníze. O pár týdnů později, mi můj jiný kamarád říká, že umění není prachy uštřit ale vydělat. Povídám tohle Kubovi. Kuba opáčí: _"Umění je prachy nepotřebovat."_
 
 ## Bolavá neděle ##
-Budík mi v 3:55 drásá uši. Ve spacáku je teplo, ale Zbořeň čeká. Přímo od paneláku stoupáme rosou. Je ještě tma a světýlka Bíliny i záře elektrárny jsou níž a níž. Škrábeme se po kramlích na skálu abychom stanuli na vrcholu akorát před východem.
+Budík mi v 3:55 drásá uši. Ve spacáku je teplo, ale Bořeň čeká. Přímo od paneláku stoupáme rosou. Je ještě tma a světýlka Bíliny i záře elektrárny jsou níž a níž. Škrábeme se po kramlích na skálu abychom stanuli na vrcholu akorát před východem.
 {% asset_img IMG_20180520_043848.jpg %}
 
 Žlutej puchejř už pomalu vylejzá. Vídíme odsud na všechny strany: Krušný hory, Středhoří, Bílinu (město i důl), Děčínský Sněžník i Radovesickou výsypku.
