@@ -27,7 +27,7 @@ Obcházím staďák a fotím. Pak polousínám se sluchátkama na tartanu. Good 
 {% asset_img R1-13.JPG %}
 {% asset_img R1-18.JPG %}
 
-Rocvičení číslo dvě a jdu na start patnáctikila. Z půlky jsem slušně zadřenej, ale to se rozhejbe. Opatrně taktizuju okolo šestýho místa. Pak se ale podcenim, když si v posledním kole nechám utýct čelo. Na cílovce mě pak předběhne nějakej klučina, kterej na rozdíl ode mě ty svoje nohu umí ještě roztočit rychle.
+Rocvičení číslo dvě a jdu na start patnáctikila. Z půlky jsem slušně zadřenej, ale to se rozhejbe. Opatrně taktizuju okolo šestýho místa. Pak se ale podcenim, když si v posledním kole nechám utýct čelo. Na cílovce mě pak předběhne nějakej klučina, kterej na rozdíl ode mě ty svoje nohy umí ještě roztočit rychle.
 _4:19.05_
 Nic moc.
 
@@ -54,7 +54,7 @@ Akorát když dopíjím pivo mi sešit vrací. Dostal jsem nejlepší suvenýr z
 {% asset_img R1-27.JPG %}
 {% asset_img IMG_20180519_185008.jpg %}
 
-Vracím se serpentinovým sjezdem do Bíliny. Na náměstí si sedám do podloubí na večeři. Bavím se schlapama od protějšího stolu.
+Vracím se serpentinovým sjezdem do Bíliny. Na náměstí si sedám do podloubí na večeři. Bavím se s chlapama od protějšího stolu.
 "Jde to do prdele. Minimalizujou doly. Ždímaj z dělníků moc práce v nelidskejch podmínkách. Může za to ta posraná ekoteroristická EU. Ta nás stejně jen vyždíme a odkopne."
 Už nenacházím energii, abych se zeptal, jak je možný, že ten nablejskanej Marcedes za 3 mega před náma je jejich.
 
@@ -72,13 +72,13 @@ Budík mi v 3:55 drásá uši. Ve spacáku je teplo, ale Bořeň čeká. Přímo
 Radovesická výsypka je takovej menší oblej kopec pár kilometrů před námi. Kuba mi vysvětluje, že to je navežená zemina z dolu. Zaplnili tím celé údolí a zasypali 5 vesnic - divoký sedmdesátky. Je to vlastně ještě mocnější pohled než na důl samotný.
 {% asset_img IMG_20180520_050655.jpg "Výsypka je ten světle zelenej, prostřední ze tří obzorů, který se táhnou z pravý strany fotky." %}
 
-Odcházíme dospat spánkový deficit zpátky do tepla. V půl desátý mě budí telefon. Volá mi Petr, který mě z Terezína přijel vyzvednout, abychom spolu jeli na výlet. Mám dost, nemůžu chodit a nepomáhá ani kafe na náměstí. Místo výletu tak jen přejížíme právě přes Radovesickou výsypku a skrz Český středohoří míříme do Litoměřic a Terezína.
+Odcházíme dospat spánkový deficit zpátky do tepla. V půl desátý mě budí telefon. Volá mi Petr, který mě z Terezína přijel vyzvednout, abychom spolu jeli na výlet. Mám dost, nemůžu chodit a nepomáhá ani kafe na náměstí. Místo výletu tak jen přejíždíme právě přes Radovesickou výsypku a skrz Český středohoří míříme do Litoměřic a Terezína.
 {% asset_img 33098182_597033434000625_8720636854908485632_n.jpg %}
 
-Petr mě ničí v kopcích. Polykám pot a bolest ve výšlapu do Milešova. V Opařenu pak dáváme Březňáka a Špekový knedlíky. Dokonalost.
+Petr mě ničí v kopcích. Polykám pot a bolest ve výšlapu do Milešova. V Oparnu pak dáváme Březňáka a Špekový knedlíky. Dokonalost.
 {% asset_img IMG_20180520_113626.jpg %}
 
-Pak už jen sjezd "Únětickým udolím" k Labi a po rovince na ostrov v Liťáku. Pivní zahrádka, kde mají dobrý pivo, zpívají andulky a z rádia hraje jazz. Po všech těch fajn radiích a impulsech je to jako poklad. Zbytek odpoledne trávím u Vaverkovic na dvoře v Terezíně. Mají tu klid a pohodu. Pomáhám Petrovi s výrobou přebalovacího pultu. Přavážně ale ležím v trávě pod meruňkou.
+Pak už jen sjezd Oparenským údolím (který jakoby z oka vypadlo tomu Únětickýmu) k Labi a po rovince na ostrov v Liťáku. Pivní zahrádka, kde mají dobrý pivo, zpívají andulky a z rádia hraje jazz. Po všech těch fajn radiích a impulsech je to jako poklad. Zbytek odpoledne trávím u Vaverkovic na dvoře v Terezíně. Mají tu klid a pohodu. Pomáhám Petrovi s výrobou přebalovacího pultu. Přavážně ale ležím v trávě pod meruňkou.
 {% asset_img 0643460745130f17a848c2696114679f.0.jpg %}
 
 Vlak z Bohušovic do Prahy. Domov.
