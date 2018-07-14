@@ -13,14 +13,21 @@ S kamarádkou Agátou jsme se rozhodli prolomit zimní čekání na letní výle
 Pardubice mi padly do oka, když jsem potkal kamarádku Elišku na fakultě architektury. Ptal jsem se jí na její diplomku. Pracuje na návrhu na revitalizaci opuštěného území kousek od centra Pardubic. Říká se mu [Červeňák](https://mapy.cz/s/2CcNk). Je to bývalý Vojenský prostor. Cvičili tady vojenští železničáři. Učili se stavět a rozebírat mosty a kolejnice. 
 
 Pardubické nádraží je krásný ale dá práci to prohlídnout skrz vrstvy reklam, plakátů, cedulek a dalšího vizuálního bordelu.
+
 {% asset_img nadrazi.jpg "V pozadí jedna ze dvou (dle mě) povedených mozaiek." %}
+
 Navlečení do svetrů, bund a kabátů postupujeme městem do centra a směrem k Červeňáku. Město je příjemně ospalé. Mráz štípe do tváří a ostré sluníčko mhouří oči.
+
 {% asset_img csob.jpg %}
 {% asset_img pav.jpg "Na zámeckém dvoře žijí pávi, kteří se rádi fotí." %}
 {% asset_img pub.jpg %}
+
 Přicházíme k levému přítoku Labe Chrudimce. Už je nám jasné, kam všichni lidé z města zmizeli. Na několik kilometrů dlouhém úseku se hromadně bruslí. Žel bez bruslí se přidáváme a míříme proti proudu. Chrudimka totiž protéká přávě skrz Červňák.
+
 {% asset_img chrudimka.jpg %}
+
 Přicházíme do území bývalého vojenského prostoru. Neudržovaný zarostlý kus města rozdělený vejpůl údolím s Chrudimkou uprostřed. Křoviny jsou protkané cestičkami. Postupně míjíme několik mostů, nebo jen zbytků po nich. Je tu klid.
+
 {% asset_img agata_v_korunach.jpg "Agáta v korunách stromů na vrcholu jednoho z betonových pilířů" %}
 {% asset_img setkani.jpg  %}
 {% asset_img cervenak.jpg  %}

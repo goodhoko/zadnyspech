@@ -24,6 +24,7 @@ _2:04.91_
 Čas OK. To šestý místo ale mohlo být lepší.
 
 Obcházím staďák a fotím. Pak polousínám se sluchátkama na tartanu. Good Ol' Days! Paráda.
+
 {% asset_img R1-09.jpg %}
 {% asset_img R1-13.jpg %}
 {% asset_img R1-18.jpg %}
@@ -33,9 +34,11 @@ _4:19.05_
 Nic moc.
 
 Přemlouvám majitele vedlejšího koupaliště, aby mě pustil do zatím ještě zavřenýho bazénu. Koupu se jen já a jeho dva synkové. Všímám si zajímavýho kopce kousek za městem. Tam musím vylízt!
+
 {% asset_img R1-20.jpg "Bořeň" %}
 
 Teď je ale čas vzít silničku a prozkoumat okolí. Vydávám se kolem dolu Bílina. Místní mu říkají prostě šachta. První vesnice po cestě je Duchcov. Nádherný starý domy, bohužel vybydlený, rozmlácený. Na některejch jsou ještě patrný německý nápisy.
+
 {% asset_img IMG_20180519_172305.jpg %}
 
 Na náměstí lížu kopeček zmrzliny a poslouchám asi 8letou holčičku opodál.
@@ -45,12 +48,15 @@ _"...Teto, a můj táta mi nevěří, že jsem babičce řekla, že je kráva!"_
 O.K.
 
 Pokračuju do další vesnice jménem Lom. V parádním pajzlu ještě s vývěskou restaurantu Jednota si dávám pivko. Chlapi probíraj fotbal, matky opejkaj buřty a děti lítaj okolo. Jeden chlapeček mi chce něco nakreslit do sešitu, kam si zrovna píšu tenhle text. Říká, že umí moc pekně kreslit. Předávám tužku a blog.
+
 {% asset_img IMG_20180519_181434.jpg %}
 
 Akorát když dopíjím pivo mi sešit vrací. Dostal jsem nejlepší suvenýr z vesnice Lom, který jsem si mohl odvézt:
+
 {% asset_img IMG_20180521_154814.jpg %}
 
 Šlapu dál. Konečně se přede mnou otevírá výhled na celou šachtu. Páni! Fotky jen těžko zachytí velikost tý prázdnoty, která nahradila krajinu.
+
 {% asset_img R1-25.jpg %}
 {% asset_img R1-27.jpg %}
 {% asset_img IMG_20180519_185008.jpg %}
@@ -65,21 +71,27 @@ Tahám Kubu ještě do místního, lehce moderního pajzlu na pár piv. Parádn�
 
 ## Bolavá neděle ##
 Budík mi v 3:55 drásá uši. Ve spacáku je teplo, ale Bořeň čeká. Přímo od paneláku stoupáme rosou. Je ještě tma a světýlka Bíliny i záře elektrárny jsou níž a níž. Škrábeme se po kramlích na skálu abychom stanuli na vrcholu akorát před východem.
+
 {% asset_img IMG_20180520_043848.jpg %}
 
 Žlutej puchejř už pomalu vylejzá. Vídíme odsud na všechny strany: Krušný hory, Středhoří, Bílinu (město i důl), Děčínský Sněžník i Radovesickou výsypku.
+
 {% asset_img IMG_20180520_052221.jpg %}
 
 Radovesická výsypka je takovej menší oblej kopec pár kilometrů před námi. Kuba mi vysvětluje, že to je navežená zemina z dolu. Zaplnili tím celé údolí a zasypali 5 vesnic - divoký sedmdesátky. Je to vlastně ještě mocnější pohled než na důl samotný.
+
 {% asset_img IMG_20180520_050655.jpg "Výsypka je ten světle zelenej, prostřední ze tří obzorů, který se táhnou z pravý strany fotky." %}
 
 Odcházíme dospat spánkový deficit zpátky do tepla. V půl desátý mě budí telefon. Volá mi Petr, který mě z Terezína přijel vyzvednout, abychom spolu jeli na výlet. Mám dost, nemůžu chodit a nepomáhá ani kafe na náměstí. Místo výletu tak jen přejíždíme právě přes Radovesickou výsypku a skrz Český středohoří míříme do Litoměřic a Terezína.
+
 {% asset_img 33098182_597033434000625_8720636854908485632_n.jpg %}
 
 Petr mě ničí v kopcích. Polykám pot a bolest ve výšlapu do Milešova. V Oparnu pak dáváme Březňáka a Špekový knedlíky. Dokonalost.
+
 {% asset_img IMG_20180520_113626.jpg %}
 
 Pak už jen sjezd Oparenským údolím (který jakoby z oka vypadlo tomu Únětickýmu) k Labi a po rovince na ostrov v Liťáku. Pivní zahrádka, kde mají dobrý pivo, zpívají andulky a z rádia hraje jazz. Po všech těch fajn radiích a impulsech je to jako poklad. Zbytek odpoledne trávím u Vaverkovic na dvoře v Terezíně. Mají tu klid a pohodu. Pomáhám Petrovi s výrobou přebalovacího pultu. Přavážně ale ležím v trávě pod meruňkou.
+
 {% asset_img 0643460745130f17a848c2696114679f.0.jpg %}
 
 Vlak z Bohušovic do Prahy. Domov.
