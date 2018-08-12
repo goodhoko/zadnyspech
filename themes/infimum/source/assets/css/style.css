@@ -31,6 +31,13 @@ a {
 a:visited {
     color: inherit;
 }
+hr{
+	width: 45%;
+	border-top: none;
+	border-bottom: 1px solid #bbb;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
 .image-header, .tile-header {
 	width: 100%;
 	height: 60vh;
