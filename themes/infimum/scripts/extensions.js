@@ -32,7 +32,6 @@ hexo.extend.tag.register('asset_video', function(args, content){
 					'<source src="./' + file + '"type="video/' + ext + '">' +
 					alt +
 				'</video>' +
-				'<div class="playpause"></div>' +
 			'</div>';
 });
 
