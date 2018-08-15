@@ -1,3 +1,8 @@
+/*
+	font-color: #333;
+	light-grey: #bbb;
+*/
+
 body{
 	padding: 0;
 	width: 100%;
@@ -6,6 +11,13 @@ body{
 	font-family: roboto;
 	color: #333;
 	background-color: #F6F6F6;
+}
+::-moz-selection {
+	background-color: #bbb;
+}
+
+::selection {
+	background-color: #bbb;
 }
 .wrapper {
 	max-width: 800px;
