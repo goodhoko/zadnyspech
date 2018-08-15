@@ -6,6 +6,7 @@ tags:
 - Bílina
 - atletika
 - povrchové doly
+- kolo
 ---
 Na tohle léto jsem přislíbil atletickému klubu Triatlet Karlovy Vary, že za ně budu běhat v 2. lize. První kolo ligy v Bílině jsem spojil s výletem, který přinesl nečekanou spoustu zážitků.
 
