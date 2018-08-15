@@ -4,7 +4,9 @@ $(document).ready(function() {
 
 
 	//enable lightGallery
-	$('article').lightGallery({selector: '.gallery-item'});
+	$('article').lightGallery({
+		selector: '.gallery-item',
+		hideBarsDelay: 1000});
 
 
 
