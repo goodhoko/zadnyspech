@@ -72,7 +72,7 @@ hr{
 	margin-right: auto;
 	margin-left: auto;
 }
-.info-header, .navigation {
+.info-header {
 	display: flex;
 	justify-content: space-between;
 	color: #777;
@@ -109,14 +109,12 @@ hr{
 				color: #777;
 				white-space: nowrap;
 			}
-.navigation {
+.footer {
+	display: flex;
+	justify-content: space-around;
 	border-top: 1px solid #bbb;
 	padding-top: 1em;
 	padding-bottom: 50px;
-}
-.navigation a {
-	margin-right: auto;
-	margin-left: auto;
 }
 article {
 	line-height: 1.5;
@@ -183,10 +181,11 @@ article {
 		article .excerpt p{
 			font-size: 1.2em;
 		}
-	.navigation {
+	.footer {
 		flex-direction: column;
+		align-items: center;
 	}
-	.navigation a {
+	.footer a {
 		margin-top: 1em;
 	}
 }
