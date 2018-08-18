@@ -16,6 +16,12 @@
 		<% } %>
 	</article>
 
+	<div class="tags">
+		<% page.tags.each(function(tag){ %>
+			<span>#<%- tag.name %></span>
+		<% }) %>
+	</div>
+
 	<div class="footer">
 		<% if (page.prev){ %>
 			<a href="<%- url_for(page.prev.path) %>" class="previous">předchozí zápisek</a>
@@ -25,5 +31,4 @@
 			<a href="<%- url_for(page.next.path) %>" class="previous">další zápisek</a>
 		<% } %>
 	</div>
-
 </div>
