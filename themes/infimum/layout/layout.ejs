@@ -13,7 +13,7 @@
 
 	<%- open_graph({
 		image: page.featured || url_for(headerImgs('data/headers')[0]),
-		title: htmlUnescape((page.title ? page.title + ' | ' : '') + config.title),
+		title: htmlUnescape((page.title ? page.title + ' • ' : '') + config.title),
 		description: is_home() ? config.description : null,
 		site_name: htmlUnescape(config.title)
 	}) %>
