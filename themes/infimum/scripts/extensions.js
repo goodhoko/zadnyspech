@@ -37,6 +37,12 @@ hexo.extend.tag.register('asset_video', function(args, content){
 
 
 
+hexo.extend.tag.register('quote', function(args, content){
+	return  '„' + content + '“';
+}, {ends: true});
+
+
+
 hexo.extend.helper.register('htmlUnescape',function(str){
 	var entities = {
 		'amp': '&',
