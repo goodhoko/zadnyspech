@@ -11,7 +11,7 @@ tags:
 - Košice
 - kickbike
 ---
-Zase jsme se jednou potkali s Kubou a Michalem, abychom vymysleli další epickou trasu, kterou během několika dní zdoláme na koloběžkách. Koukli jsme na naši loňskou expedici z Košic do Prahy a bylo jasno: navážeme a budeme pokračovat v cestě kolem světa. Koupili jsme si lístek na vlak z Košic do Prahy, udělali na mapě kružnici o poloměru 800 km a bylo jasno. Pojedeme z Bukurešti.
+Zase jsme se jednou potkali s Kubou a Michalem, abychom vymysleli další epickou trasu, kterou během několika dní zdoláme na koloběžkách. Koukli jsme na naši [loňskou expedici](/Kosice-Praha-na-kolobezce/) z Košic do Prahy a bylo jasno: navážeme a budeme pokračovat v cestě kolem světa. Koupili jsme si lístek na vlak z Košic do Prahy, udělali na mapě kružnici o poloměru 800 km a bylo jasno. Pojedeme z Bukurešti.
 <!-- more -->
 
 ## Logistika ##
@@ -107,7 +107,7 @@ Závodíme se stmíváním, nakonec ale světla stejně musíme vzít. Ve sjezdu
 
 Mezi rodinami na slavnostních večeřích rozkládáme naše hokynářství a objednáváme polévky, čaje, piva, jídla a samozřejmě papanasi. Máme najeto asi 160 km, musíme pokračovat.
 
-Vydáváme se na malé okresky a krájíme si pole čelovkami. Občas projedeme spící vesnicí, nikde nikdo, jen za každými vraty štěká pes. Když jsme zrovna v kopečcích, kde široko daleko není žádná vesnice, skrz pole se k nám začne blížit smečka psů. Štěkají už z dálky a řítí se přímo na nás. Naštěstí nemám čelovku, takže na rozdíl od kluků nevidím ty zuřivé páry oči, které se na nás ženou. Stačí mi jen ty zvuky, abych měl pěkně nahnáno. Jsou blíž a blíž. Už jsou skoro u nás, když se z protisměru vyřítí černé Audi. Mine nás a prudce zabrzdí přímo u psů. Chvílí tam stojí a my zběsile pokračujeme do zdánlivého bezpečí. Zachránil nás Anděl.
+Vydáváme se na malé okresky a krájíme si pole čelovkami. Občas projedeme spící vesnicí, nikde nikdo, jen za každými vraty štěká pes. Když jsme zrovna v kopečcích, kde široko daleko není žádná vesnice, skrz pole se k nám začne blížit smečka psů. Štěkají už z dálky a řítí se přímo na nás. Naštěstí nemám čelovku, takže na rozdíl od kluků nevidím ty zuřivé páry očí, které se na nás ženou. Stačí mi jen ty zvuky, abych měl pěkně nahnáno. Jsou blíž a blíž. Už jsou skoro u nás, když se z protisměru vyřítí černé Audi. Mine nás a prudce zabrzdí přímo u psů. Chvílí tam stojí a my zběsile pokračujeme do zdánlivého bezpečí. Zachránil nás Anděl.
 
 U další vesnice zastavujeme a steleme si na velkém dřevěném stole pod polorozpadlým altánem u cesty. Usínáme za zvuku děsivě skřípající vlajky o pár metrů vedle.
 
