@@ -23,9 +23,7 @@ Další den trávíme ve spacácích s horkým čajem vždy po ruce. Nakonec se 
 
 Hecujeme se a dáváme si sprchu pod ledovým proudem vody. Jdu první. Do naha a rychle do studena. Krátký pocit zimy následuje příjemné uvolnění a rozlití tepla po těle.
 
-Anna mě následuje. Vysvléká se do spodního prádla.
-Je _tak_ pěkná.
-Černý kalhotky i černá sportovní podprsenka dávaj vyniknout všem konturám. Konsternují mě její záda. Mezi lopatkama se docela ztrácím. Kaštanový vlasy v drdolu odhalující krk jsou v ten moment na mě už příliš. Vylekanej přívalem pěknosti klopím zrak. Snad abych se nepřejedl, snad protože si to nezasloužím.
+Anna mě následuje. Vysvléká se do spodního prádla. Je _tak_ pěkná. Mezi jejíma lopatkama se docela ztrácím. Kaštanový vlasy v drdolu odhalující krk jsou v ten moment na mě už příliš. Vylekanej přívalem pěknosti klopím zrak. Snad abych se nepřejedl, snad protože si to nezasloužím.
 
 {% asset_img IMG_8171.jpg "creds to Anna" %}
 
