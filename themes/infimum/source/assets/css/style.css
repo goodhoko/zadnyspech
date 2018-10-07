@@ -22,7 +22,7 @@ body{
 .wrapper {
 	max-width: 800px;
 	padding: 0 10px;
-	margin: 0.5em auto 1em;
+	margin: 0 auto 1em;
 }
 h1, h2, h3 {
 	font-family: 'Roboto Slab';
@@ -32,6 +32,8 @@ h1, h2, h3 {
 h1 {
 	font-size: 3em;
 	font-weight: 800;
+	line-height: 1em;
+	margin-bottom: 0.3em;
 }
 h2 {
 	font-size: 1.8em;
@@ -76,6 +78,7 @@ hr{
 	display: flex;
 	justify-content: space-between;
 	color: #777;
+	padding: 1em 0;
 }
 
 .post-tile {

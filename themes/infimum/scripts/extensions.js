@@ -83,3 +83,8 @@ hexo.extend.helper.register('headerImgs', function(arg, content){
 hexo.extend.helper.register('random', function(array){
 	return array[Math.floor(Math.random() * array.length)];
 })
+
+
+hexo.extend.helper.register('entag', function(tag){
+	return '‹ ' + tag + ' ›';
+})

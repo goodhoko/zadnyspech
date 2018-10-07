@@ -30,7 +30,7 @@ $(document).ready(function() {
 
 
 	//choosing hrandom header image
-	if(location.pathname == '/'){
+	if(location.pathname == '/' || location.pathname.split('/')[1] == 'tags'){
 		var headers = $('.image-header').data('imgs')
 		var img = headers[Math.floor(Math.random() * headers.length)];
 		$('div.image-header').css('background-image', 'url(/' + encodeURI(img) + ')')
