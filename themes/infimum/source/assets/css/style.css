@@ -2,7 +2,9 @@
 	font-color: #333;
 	light-grey: #bbb;
 */
-
+html {
+	-webkit-text-size-adjust: 100%; /* Prevent font scaling in landscape while allowing user zoom */
+}
 body{
 	padding: 0;
 	width: 100%;
