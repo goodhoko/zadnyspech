@@ -3,6 +3,7 @@ title: Košice ⟶ Praha na koloběžce
 date: 2016-09-09 00:15:23
 featured: IMG_1188.jpg
 tags:
+- kolosvětoběh
 - kickbike
 - koloběh
 - koloběžky
