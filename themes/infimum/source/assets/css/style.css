@@ -30,6 +30,7 @@ h1, h2, h3 {
 	font-family: 'Roboto Slab';
 	margin-top: 0;
 	margin-bottom: 0;
+	font-weight: bold;
 }
 h1 {
 	font-size: 3em;
@@ -107,7 +108,7 @@ hr{
 			align-items: flex-start;
 		}
 			.post-tile .tile-details .tile-heading h3{
-				font-size: 1.8em;
+				font-size: 1.9em;
 				padding-right: 1em;
 			}
 			.post-tile .tile-details .tile-heading .date{
