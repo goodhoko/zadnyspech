@@ -6,9 +6,9 @@ tags:
 - indust3
 - fixedgear
 - criterium
-- last
-- man
-- standing prague
+- Praha
+- kolo
+- závod
 ---
 Letos se festival městské cyklisticky InDust3 odstřihl od všech sponzorů a obrovských ambicí. Zbyl jediný závod: kriterium. Kluci postavili trať v Holešovické tržnici. Hodně technický asi 800 metrů dlouhý okruh na nepříjemném povrchu. Jemný pracho-štěrk výhružně šustí pod koly v každé zatáčce. Jak si ale trať projíždíme rychleji a rychleji, hrubý asfalt, zdá se, nás všechny udrží.
 <!-- more -->

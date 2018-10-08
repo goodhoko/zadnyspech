@@ -4,13 +4,9 @@ date: 2016-09-09 00:15:23
 featured: IMG_1188.jpg
 tags:
 - kolosvětoběh
-- kickbike
 - koloběh
-- koloběžky
-- slovensko
-- česko
-- košice
-- praha
+- Slovensko
+- Česko
 ---
 3 muži ~ 3 koloběžky ~ 675 km ~ 4 dny ~ 1 defekt ~ 0 cigaret ~  7186 m nastoupáno ~ 5730 Kč projedeno
 <!-- more -->

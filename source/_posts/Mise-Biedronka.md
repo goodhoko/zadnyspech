@@ -6,8 +6,8 @@ tags:
 - kolo
 - fixedgear
 - bikepacking
-- polsko
-- biedronka
+- Polsko
+- defekt
 ---
 
 S klukama z [Defektu](https://www.instagram.com/defektcrew/) jsme vzali fixky a dojeli jsme do Gdaňsku. Projeli jsme křížem Polský vnitrozemí a užili si jeho nevkusnejch krás.
