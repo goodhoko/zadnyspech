@@ -4,6 +4,7 @@ function getFileExtenstion(filename){
 
 
 
+// CUSTOM FILTERS //
 hexo.extend.filter.register('after_post_render',function(data){
 	if (getFileExtenstion(data.source) !== 'md'){
 		return;
@@ -22,6 +23,7 @@ hexo.extend.filter.register('after_post_render',function(data){
 
 
 
+// CUSTOM TAGS //
 hexo.extend.tag.register('asset_video', function(args, content){
 	var file = args[0] || '',
 		ext = getFileExtenstion(file),
@@ -43,6 +45,7 @@ hexo.extend.tag.register('quote', function(args, content){
 
 
 
+// CUSTOM HELPERS //
 hexo.extend.helper.register('htmlUnescape',function(str){
 	var entities = {
 		'amp': '&',
