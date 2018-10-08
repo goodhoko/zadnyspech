@@ -10,7 +10,7 @@ tags:
 - bikepacking
 - lesy
 ---
-Je pátek dopoledne a já čekám na Hlaváku na Ivu, abychom mohli vyrazit vstříc Jižní Moravě. Nakupujeme lahváče, stírací losy a jízdenku na léto. Do Brna s náma s náma chce jet, zdá se, celý Hlavní nádraží. Namačkaní v kupé očekáváme příjezd na Nádr.
+Je pátek dopoledne a já čekám na Hlaváku na Ivu, abychom mohli vyrazit vstříc Jižní Moravě. Nakupujeme lahváče, stírací losy a jízdenku na léto. Do Brna s náma chce jet, zdá se, celý Hlavní nádraží. Namačkaní v kupé očekáváme příjezd na Nádr.
 <!-- more -->
 
 Klub na dráze -- Zavřeno. Bajkazyl -- Zavřeno. Nezbývá než pivko v kavárně u Hadivadla. Po obědě (bulgur a hummus v Lidlu) roztáčíme silničky po skvělejch Moravskejch cyklostezkách. Jede to jak blázen.
