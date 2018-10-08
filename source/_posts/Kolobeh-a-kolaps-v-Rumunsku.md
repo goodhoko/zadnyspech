@@ -5,11 +5,7 @@ featured: imm009_12A.jpg
 tags:
 - kolosvětoběh
 - koloběh
-- koloběžky
 - Rumunsko
-- Bukurešť
-- Košice
-- kickbike
 ---
 Zase jsme se jednou potkali s Kubou a Michalem, abychom vymysleli další epickou trasu, kterou během několika dní zdoláme na koloběžkách. Koukli jsme na naši [loňskou expedici](/Kosice-Praha-na-kolobezce/) z Košic do Prahy a bylo jasno: navážeme a budeme pokračovat v cestě kolem světa. Koupili jsme si lístek na vlak z Košic do Prahy, udělali na mapě kružnici o poloměru 800 km a bylo jasno. Pojedeme z Bukurešti.
 <!-- more -->

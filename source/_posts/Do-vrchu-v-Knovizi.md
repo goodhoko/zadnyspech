@@ -6,7 +6,6 @@ tags:
 - závod
 - kolo
 - defekt
-- defektcrew
 - Knovíz
 ---
 Jedny z prvních teplých dnů letošního roku. Bereme silničky a jedeme na závod do vrchu v Knovízi.

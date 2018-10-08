@@ -4,9 +4,10 @@ date: 2016-09-25 02:35:55
 featured: IMG_1222.jpg
 tags:
 - Šumava
-- nouzová nocoviště
+- Česko
 - backpacking
 - čundr
+- lesy
 ---
 Šumavské kopce byly snad odjakživa mé nejoblíbenější. Neznám žádné jiné hory, kde by panoval takový utlumený klid. Řekli jsme si, že si Šumavu projdeme pešky v jejím nejlepším období - na podzim.
 <!-- more -->

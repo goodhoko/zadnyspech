@@ -4,9 +4,8 @@ date: 2018-04-18 01:20:14
 featured: R1-5A.jpg
 tags:
 - Skotsko
-- Bothy
+- Edinburgh
 - hillwalking
-- munro
 - Highlands
 ---
 [Annu](https://ceranna.com) jsme potkal poprvý, když jsme s Matoušem lezli do jednoho z vršovických kanálů. Pak jsem ji potkal podruhý o tři roky pozdějc u nás v dílně. Řekla: „Studuju v Edinburghu, stav se.“ Neváhal jsem.

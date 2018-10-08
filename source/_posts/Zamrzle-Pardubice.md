@@ -3,9 +3,8 @@ title: Zamrzlé Pardubice
 date: 2018-03-04 12:30:55
 featured: chrudimka.jpg
 tags:
-- výlet
-- pardubice
-- červeňák
+- Pardubice
+- Česko
 ---
 S kamarádkou Agátou jsme se rozhodli prolomit zimní čekání na letní výlety a koupili jsme jízdenky do Pardubic.
 

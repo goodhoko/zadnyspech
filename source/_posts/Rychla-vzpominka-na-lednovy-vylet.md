@@ -3,14 +3,10 @@ title: Rychlá vzpomínka na lednový výlet
 date: 2018-01-15 00:49:57
 featured: 05190005.jpg
 tags:
-- praha
+- Praha
 - kolo
-- vyjizdka
 - t9
-- defektcrew
 - defekt
-- bikeride
-- bikes
 - fixedgear
 ---
 Rychlá vzpomínka na lednový výlet, když nás Petr přijel provětrat do Prahy.
