@@ -4,7 +4,7 @@ date: 2016-08-15 23:32:11
 featured: bdff4dc3c827eefcfa9d84428c081d85.jpg
 tags:
 - vlaky
-- jizdenka na léto
+- Jízdenka na léto
 - Česko
 ---
 V srpnu 2016 jsme si koupili [týdenní vlakovou jízdenku](https://www.cd.cz/typy-jizdenek/vnitrostatni-jizdenky/-27872/) s cílem udělat si ‘dovolenou’ mimo zahraničí.
