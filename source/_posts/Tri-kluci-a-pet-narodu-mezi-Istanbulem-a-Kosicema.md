@@ -57,3 +57,26 @@ Odebíráme se za vesnickej hřbitov do borovicovýho hájku. Vesnický štěkaj
 _DEN 2 :: 155 km :: [trasa](https://www.strava.com/activities/1848702319)_
 
 ## Slunečníky ##
+Dnešní den strávíme celý v Bulharsku. Ráno začínáme dvaceti pěti kilometrama na lačno. Je to dost nepříjemný, ale ten pocit, když snídám a zároveň vim, že už mám 25 odkrouceno to zdaleka převyšuje.
+
+<!-- fotka od konicku -->
+
+Pomalu klesáme k Černýmu moři přímo do Burgasu. Poprvý potkáváme skupinku silničářů. A dojde i na Bulharský hrozny.
+
+<!-- fotka s hroznama -->
+
+Burgas. Turistický centrum. Nekončená pláž s pravidelně zasázenejma slunečníkama, vřískajícíma dětma a rozvalenejma tlouštíkama. Hnus. Ale první koupání po třech dnech nám to nezkazí.
+
+<!-- fotka z plaze -->
+
+Dáváme rybu v housce a vydáváme se na zbylejch sto kilometrů Bulharskem.
+
+<!-- fotka z obeda -->
+
+Parádní kroutící se silnice skrz kopečky. Žrací pauzy v samoobsluhách. Piva a nechutně sladký limonády. Kubu z krize vytahujou dvě jablka ze stromu a snickerska.
+
+Při zlatym západu slunce máme natočíno 160 a spokojení doťukáváme do nejbližšího městečka. V otřesný ale jediný hospodě objednáváme všechno, co nám padne do hladovýho oka. Klasicky to přeháníme, ale naštěstí s sebou máme Michala, kterej pozře cokoli v jakymkoli množství. Steleme si v čerstvě zoranym poli.
+
+_DEN 3 :: 160 km :: [trasa](https://www.strava.com/activities/1848702275)_
+
+## Teleport do kouzelnýho lesa ##
