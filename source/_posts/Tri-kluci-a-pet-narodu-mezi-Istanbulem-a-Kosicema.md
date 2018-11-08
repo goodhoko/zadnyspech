@@ -77,6 +77,80 @@ Parádní kroutící se silnice skrz kopečky. Žrací pauzy v samoobsluhách. P
 
 Při zlatym západu slunce máme natočíno 160 a spokojení doťukáváme do nejbližšího městečka. V otřesný ale jediný hospodě objednáváme všechno, co nám padne do hladovýho oka. Klasicky to přeháníme, ale naštěstí s sebou máme Michala, kterej pozře cokoli v jakymkoli množství. Steleme si v čerstvě zoranym poli.
 
+V noci mě vzbudí nějakej šutr pod karimatkou. Chvíli koukám do nebe -- hvězdy, mléčná dráha, klid. Pak se posadím. Nad obzorem hvězdy nahrazuje černota. Několikrát za vteřinu černota modravě zabliká a zjeví hory, který do ní jsou zapíchnutý svejma vrcholkama. Doléhá k nám jen sotva znatelný, stálý, neutuchající dunění. Celou bouři jakobych měl na dlani. Je ale desítky kilometrů daleko, takže si můžu v klidu lehnout zpátky na šutr.
+
 _DEN 3 :: 160 km :: [trasa](https://www.strava.com/activities/1848702275)_
 
 ## Teleport do kouzelnýho lesa ##
+Probuzení s rosou na spacácích. Zase točíme prvních 25 na lačno. Stojí to za to. Snídáme v Shumenu. Na kopci nad městem mají monstrózní betonovej  památník. Z dálky vypadá, jako nějaká šílená raketová základna ze studený války. Ve skutečnosti oslavuje něco jako 1300 let Bulahrska. Nahoru se bohužel nemáme čas podívat. Ale z obrázků, který si googlíme u snídaně je nám jasný, že přicházíme o hodně.
+
+Celej zbytek dne se trápíme na státovkách. Nejdřív jsem nasranej já. Sere mě všechno. Nejdřív vedro, pak kopce, auta, kamiony. Humus. Sere mě Kuba, kterýmu to jede rychlejc z kopce, takže ho pak musim vždycky lepit na rovině nebo do kopce. Sere mě, že on je na tom fyzicky asi nejhůř, ale z kopce mu to odvaluje tak rychle, že ho neudržim ani z háku. A ještě si pak stěžuje, že jedeme moc rychle do kopce. Já mu dám. Beru vedení a poháněnej nesraností dupu jak nikdy. Bohužel jsme srovna v krajině mírných kopečků a jedeme spíš z mírnýho kopce. Takže zatímco já vpředu makám s jasným cílem Kubovi ujet, on je jen zalehlej za mnou a veze se uplně zadarmo. Když už mám po patnáctí kilometrech fakt dost, dochází mi, jak vtipně jsem se nechal nasrat, a že jsem zbytečně rozséval blbou náladu. Naštěstí mi z toho sprintu naskakujou endorfiny. (Nebo mi to prostě jenom dělá radost.) Začínám se smát a dobrá nálada ja zpátky.
+
+Přijíždíme do Ruse -- posledního Bulharskýho města. Perfektně nám naplňuje předsudky o špinavejch Bulharskejch městech, plnejch paneláků.
+
+<!-- fotka panelaku -->
+
+Ruse leží na Dunaji jimž prochází hranize s Rumunskem. Řeka tady je široká asi 2 kilometry. Vede přes ní rozviklanej starej most. Motoristi vytahujou peněženky a platěj vysoký přejezdný. Nám výběrčí jen popřejou pěknou cestu.
+
+V Giurgiu, městě přesně na druhý straně Dunaje, je zase trochu znát ten rozdíl dvou národů. Je podvečer, sluníčko pomalu klesá a tady zase (jako před rokem) všichni vycházej ven a posedávaj na lavičkách před barákama. Všude. Jen seděj a klábosej, třeba se sousedama. To jsme třeba v Bulhrasku neviděli ani jednou.
+
+Přežraný jak čunata vyjíždímě z města do tmy hledat nocleh. Máme vyhlídlej lesík pár kilometrů po cestě. Odbočujeme do něj z hlavní silnice. Jedeme po několik kilometrů dlouhý, rovný asfaltce. Je osvětlená žlutym světlem lamp, který jsou zarostlý vě větvích. Stejně jako celá cesta, která jakoby vedla tunelem z listí a větví.
+
+Nad hlavama nám prolítne sova. Bílá a absolutně neslyšná. Letí naším směrem a sedá si na lampu. Když ji dojedeme letí s náma dál. Tím ale kouzelný les teprv začíná. Cestu nám najednou křižuje liška. S ledovum klidem a očividenou lhostejností si nás jen prohlídne a pokračuje do houštin. Po několikaset metrech před nás na cestu vyběhne čokl. Šteká a za sebou má štěňata. V tom se za náma objevuje auto. Prozáří tunel sveětlem. Pes před nim ustupuje. Objíždíme ho sprintem v těsnym závěsu za autem. Auto nám ujíždí. Pomalu pokraujeme až na konec cesty.
+
+Závora, před ní auto a 4 mladý vysokoškoláci. Jsou na prázdninách doma a zabíjej sobotní večer ježděnim autem a kouřenim. Giurgiu je prej hrozná díra a nedá se tam nic jinýho dělat. Posílaj nás hledat nocleh dál za závoru po lesní cestě. Nacházíme příjemnej plácek mezi stromama. Steleme. Vítr fouká. Koruny se klobíaj a hvězdy jsou kamenně na svym místě. Do pár minut jsme v rauši.
+
+Budí mě štěkot. Zní to jako houkající auto řítící se přímo na mě. Sotva se ve spacáku posadim, netrvá to ani 3 vteřiny a zuřivý čoklové jsou přímo u nás. Instinktivně zakřičim do tmy. Stojí a štěkaj. Nevidíme nic. Soutpáme si a kuba nahmátává světlo. Kožel baterky odhaluje tři nasraný bestie přímo před náma. Tváří v tvář. Dělaj bordel a vyhrožujou.
+
+ _{% quote %}Najdi nějakej klacek!{% endquote %}_
+_{% quote %}Tady žádnej neni ty vole.{% endquote %}_
+_{% quote %}Hm. Co budem dělat?{% endquote %}_
+_{% quote %}Nevim no. Můžeme tady prostě stát a čumět na ně, dokud neodejdou.{% endquote %}_
+
+Zkoušim udělat půl kroku dobpředu a zuřivě zařvat. Dělaj dva kroky dozadu. Udělám to ještě jendou. Pořád štěkaj, ale začínaj jít bokem. Odcházej do strany. Furt štěkaj, čelem k nám ale vzdalujou se. Je 4:08 a nejsme si jistý co dál. Když už je štěkot sotva slyšet, odhodláme se ke spánku. Přiběhnou pak sice ještě jednou, ale to už poučení jen rozvěcíme baterky a necháváme je vycouvat. _Kouzelný les._
+
+_DEN 4 :: 157 km :: [trasa](https://www.strava.com/activities/1848702290)_
+
+## Končíme abychom mohli začít ##
+Zvývá 80 kiláků do Bukurešti. Brnkačka. Zvolna ukrajujeme z nekonečnejch rovin hladnýko asfaltu. Panuje dobrá nálada, protože víme, že Bukureš -- hlavní cíl cesty máme v kapse.
+
+<!-- fotka roviny -->
+
+Těsně před bukureští přejíždíme dokonalej {% quote %}most{% endquote %}.
+
+<!-- fotky z mostu -->
+<!-- fotky z mostu -->
+
+Konečně Bukurešť. Špinavá, velká a nevkusná. Fotcka před palácem parlamentu. To je asi třetí největší barák na světě a je celej oblepenej hnusnejma klimatizacema.
+
+Večeře a pár piv v baru. Zapínáme oči a uši naplno a volně objíždíme město. Pěkný a příjemný. Stálo by za to se sem vrátit na fixce.
+
+Hlavní etapa cesty skončila. Teď je čas napravit rest z [minulýho roku](/Kolobeh-a-kolaps-v-Rumunsku) a dojet z Jibou do Košic. To je asi 350 kilometrů a přímo se nabízí to vzít přes Ukrajinu. Rýsujeme si představu jak sbalíme koloběžky do freshky a noc strávíme v lůžkovym voze s častejma návštěvama vozu jídelního. Na nadráží se dozvídáme, že je vyprodáno, takže jsme celou noc zkroucený na zemi mezi sedačkama ve voze typu autbous.
+
+Na kubovi se drncavá noc podepisuje nejvíc a nad ránem dává vzniknout fotce, která mi zvedá náladu, kdykoli se na ní podívám znova. Vždycky na tom asi budu líp než Kuba v tenhle moment.
+
+<!-- fotka kuby -->
+
+_DEN 5 :: 80 km :: [trasa](https://www.strava.com/activities/1848702215)_
+
+## Tady nemáš žádnou moc ##
+V 9:02 vyskakujeme z vlaku v Jibou. Odstavenej vlak na poslední koleji je po roce pořád na místě. Odpichujeme se směr sever a postupuejem venkovem severozápadního Rumunska.
+
+Venkov tady je dost jinej oproti jihu. Předevšim tady maj nádherný vesnice. Je tu čisto a žádný odpadky. Na dovrech uklizeno, ale ne enpřirozeně. Pořád si to zachovává hospodárnost. Neni to jako u Němců, kde je všechno pünktlich a pravoúhlý. Billboard tady neexistuje a plastový okna neznaj. Prostě fakt pěkný!
+
+V záplavě týhle malebnost se Michal čelně sráží s babkou na kole. Velkolepá rána, babka vyjekne a oba se válej na zemi. Krom šrámu na Michalově předloktí a jsou všichni ok. Seřizujeme babce brzdy a jdeme dál.
+
+<!-- fotka s bakou -->
+
+Na 55. kilometru si dáváme papanasi. Nakopává nás tak, že daších 40 kilometrů točíme kolotoč na plnej laktát. Zastavujou nás až Ukrajinský hranice.
+
+Nechtěj nás pustit. Nesmíme prej na kole. Je to protokol. Byrokracije ve mě vaří krev a mám chuť jim všem nadávat do čuráků. Musíme mít auto. OK! Odchytáváme nějakýho týpka s dodávkou, co nás proveze. Jede pro plnou nádrž a cíga. Oboje je dvakrát levnější. Na Ukrajinský přepážce jim s pasama podává jednou euro.
+_{% quote %}Jo jasně. Jendo euro pro policajta a jedno pro celníka. Jinak ti jen pas vrátěj do ruky a pošlou tě zpátky.{% endquote %}_
+Tady maj pěšáci absolutní moc a nikdo s tim prostě nemůže nic dělat.
+
+Jsme na Ukrajině. Silnice tady jsou úplně píču. Jsme rádi, když maj v čem být díry, ale většinou je to prostě jen štěrk bordel a propasti. Zbývá nám asi dvacet kilometrů k Vinohradivu. Před nim natrefujeme na kemp s hospodou. Obsazuejeme ji až do zavíračky. Pak ukecáváme hlídače, aby nás nechal přespat v areálu na lehátkách. Luxus.
+
+_DEN 6 :: 131 km :: [trasa](https://www.strava.com/activities/1848702290)_
+
+
+## Jde o to, jakej máš plot ##
