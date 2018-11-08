@@ -11,7 +11,7 @@ tags:
 - Ukrajina
 - Slovensko
 ---
-Psát perexy mi nejde. Tohle je prostě post o tom, jak jsme dojeli na koloběžkách z Istanbulu do Košic (skoro) a jak mi to několikrát otevřelo oči -- překvapením i zděšením.
+Cesta na koloběžce z Istanbulu do Košic (skoro) mi rozbourala můj sen o světě bez hranic. Ale jenom proto, aby mě v něm znova utvrdila. 
 <!-- more -->
 
 ## Únik z Cařihradu ##
@@ -142,7 +142,7 @@ V záplavě týhle malebnost se Michal čelně sráží s babkou na kole. Velkol
 
 <!-- fotka s bakou -->
 
-Na 55. kilometru si dáváme papanasi. Nakopává nás tak, že daších 40 kilometrů točíme kolotoč na plnej laktát. Zastavujou nás až Ukrajinský hranice.
+Na 65. kilometru si dáváme papanasi. Nakopává nás tak, že daších 40 kilometrů točíme kolotoč na plnej laktát. Zastavujou nás až Ukrajinský hranice.
 
 Nechtěj nás pustit. Nesmíme prej na kole. Je to protokol. Byrokracije ve mě vaří krev a mám chuť jim všem nadávat do čuráků. Musíme mít auto. OK! Odchytáváme nějakýho týpka s dodávkou, co nás proveze. Jede pro plnou nádrž a cíga. Oboje je dvakrát levnější. Na Ukrajinský přepážce jim s pasama podává jednou euro.
 _{% quote %}Jo jasně. Jendo euro pro policajta a jedno pro celníka. Jinak ti jen pas vrátěj do ruky a pošlou tě zpátky.{% endquote %}_
@@ -152,5 +152,22 @@ Jsme na Ukrajině. Silnice tady jsou úplně píču. Jsme rádi, když maj v če
 
 _DEN 6 :: 131 km :: [trasa](https://www.strava.com/activities/1848702290)_
 
+## Vodka a ploty ##
+Ve Vinohradivu zapadáme do první obchod-kavárny. Je sedm hodin a akorát otevřeli. Sosáme kafe a lidi pomalu začínaj chodit. Neni ani 7:15 a servírka už nalejvá třetího panáka vodky. Tuhle techniku rychle okoukáváme a taky objednáváme tři malý vodky. Dostáváme 3 půldecáky teplý ale dokonale hladký vodky. V kombinaci s kafem nás to vysílá do dne nakopnutý jak nikdy. Dupeme jak o život. Ukrajinci vědí.
 
-## Jde o to, jakej máš plot ##
+Postupujeme Ukrajinou. Takhle země je divná. Nejmliješí řidiči tady jsou kamioňáci a všihcni tady maj dražší ploty než baráky. Každej je jinej. Střídaj materiály, ornamenty, textury, průhlednosti. Často i plot stojí dřív než barák. Díky bohu nás čeká jen sto Ukrajinskejch kilometrů.
+
+Konečně jsem na Slovensku. U bratrů. Na celnici jen musíme počkat až prošacujou ženkou s deseti voňavkama a taškou cigaret, který rozpočítává i na svoje malý děti, aby se vešla do limitu na osobu.
+
+Dáváme pauzu v samoobsluze někde na dědině. Lednička s pivama je na elektronickej zámek ovládanej prodavačkou, protože by z ní jinak cigoši kradli plecháče. U stolu venku se dáváme do řeči s místníma. Konečně si rozumíme! Pár minut a už to padá:
+_{% quote %}Babo počkaj! Daj mi peniaze! Chalani, čo pijete? Slivovicu?{% endquote %}_
+Posilnění odrážíme se do západu slunce směr Velká Šírava. Tam ze sebe smyjeme prach a špínu a srnky nám zaštěkaj na dobrou noc.
+
+_DEN 7 :: 158 km :: [trasa](https://www.strava.com/activities/1848702317)_
+
+## Lůžkové vozy ##
+Zbejvá nám 60 kilometrů do košic. Užíváme si to. Kolem poledne se z kopce snášíme do centra města. Jen těžko mi může plechovka piva na plácku před nádražim chutnat tak moc jako teď.
+
+Vlak do Prahy nám jede až v 10 večer. Smrdíme jak prasata a jsme strhaný. Jdeme do suany. Saunabába na nás nejdřív kouká podezřívavě, ale když se s ní mezi rundama dáváme potřetí do řeči, směle se vyptává jestli máme děti a svěřuje se, že když jsme přišly musela dát aj sprej aj sviečky, jak jsme smrděli. Za to ale mohly hlavně kubovy boty.
+
+V 10 večer se soukáme do lůžkovýho vozu. Pomalu se rozjíždí. Stelu si prostřední lehátko tak, že mám polštář v otevřenym okně, hlavu lehce venku a jinak jsem celej pod peřinou. Kolem vlaku je tma. Jasná noční obloha září a v dálce se pomalu posouvaj obrysy Tater. Letos to bylo celý nějaký pěkný a jednoduchý.
