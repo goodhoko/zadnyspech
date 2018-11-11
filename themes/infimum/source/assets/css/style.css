@@ -115,6 +115,12 @@ hr{
 				color: #777;
 				white-space: nowrap;
 			}
+		.post-tile .tile-details .excerpt {
+			margin-top: 1em;
+		}
+			.post-tile .tile-details .excerpt p {
+				margin: 0;
+			}
 .footer {
 	color: #777;
 	display: flex;
