@@ -187,7 +187,7 @@ _DEN 6 :: 131 km :: [trasa](https://www.strava.com/activities/1848702290)_
 
 {% asset_img R1-06582-004A.jpg %}
 
-Ve Vinohradivu zapadáme do první obchodo-kavárny. Je sedm hodin a akorát otevřeli. Sosáme kafe a lidi pomalu začínaj chodit. Neni ani 7:15 a servírka už nalejvá třetího panáka vodky. Tuhle techniku rychle okoukáváme a taky objednáváme tři malý vodky. Dostáváme 3 půldecáky teplý ale dokonale hladký vodky. V kombinaci s kafem nás to vysílá do dne neuvěřitelně nakopnutý. Jedem jak fredky. Ukrajinci vědí.
+Ve Vinohradivu zapadáme do první obchodo-kavárny. Je sedm hodin a akorát otevřeli. Sosáme kafe a lidi pomalu začínaj chodit. Neni ani 7:15 a servírka už nalejvá třetího panáka vodky. Tuhle techniku rychle okoukáváme a taky objednáváme tři malý vodky. Dostáváme 3 půldecáky teplý ale dokonale hladký vodky. V kombinaci s kafem nás to vysílá do dne neuvěřitelně nakopnutý. Jedem jak fretky. Ukrajinci vědí.
 
 {% asset_img Untitled-1.jpg %}
 
