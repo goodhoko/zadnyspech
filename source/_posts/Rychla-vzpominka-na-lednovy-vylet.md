@@ -5,7 +5,7 @@ featured: 05190005.jpg
 tags:
 - Praha
 - kolo
-- t9
+- T9
 - defekt
 - fixedgear
 ---
