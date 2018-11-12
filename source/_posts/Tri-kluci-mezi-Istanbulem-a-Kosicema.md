@@ -34,7 +34,7 @@ Atmosféra tohodle města je neuvěřitelná. Odpadky absolutně všude. Auta v�
 {% asset_img R1-05693-033A.jpg %}
 {% asset_img R1-05811-0027.jpg %}
 
-Postupujeme asi 80 kilometrů skrz venkov. Kdekoli zastavíme pro vodu nebo něco dobrýho, z nás maj radost. Zajímaj se a darujou nám občerstvení. Jsou milí, pohostinný, vstřícný a přátelský.
+Postupujeme asi 80 kilometrů skrz venkov. Kdekoli zastavíme pro vodu nebo něco dobrýho z nás maj radost. Zajímaj se a darujou nám občerstvení. Jsou milí, pohostinný, vstřícný a přátelský.
 
 Kolem devíti večer dojíždíme do větší vesnice. Je tma a po dlouhejch úsecích vyschlejma keřo-lesama toužíme po občerstvení -- večeři. Na křižovatce sloužící jako náves je malej podnik široce rozevřenej do ulice. Uvnitř i venku posedá spoustu mužů a popíjej hnědou tekutinu z malinkejch skleniček. Musíme objevit, co se tady pije. Uvnitř se nás ujímá {% quote %}barman{% endquote %} a nalejvá nám čaj. Prostě černej čaj. No jasně! Že se tady přece nechlastá nám dochází až teď.
 
