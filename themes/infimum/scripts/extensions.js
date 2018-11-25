@@ -65,6 +65,11 @@ hexo.extend.helper.register('htmlUnescape',function(str){
 });
 
 
+hexo.extend.helper.register('htmlEscape',function(str){
+	return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+})
+
+
 hexo.extend.helper.register('headerImgs', function(arg, content){
 	if(!arg){
 		return;

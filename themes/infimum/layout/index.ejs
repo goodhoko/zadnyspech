@@ -1,5 +1,5 @@
 <% var headers = headerImgs('data/headers') %>
-<div class="image-header" style="background-image: url(/data/just_transparent.png);" data-imgs='<%- JSON.stringify(headers) %>'>
+<div class="image-header" style="background-image: url(/data/just_transparent.png);" data-imgs="<%- htmlEscape(JSON.stringify(headers)) %>">
     <h1><%-config.title -%></h1>
 </div>
 
