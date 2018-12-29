@@ -81,7 +81,7 @@ deploy:
   type: sftp
   host: 83.167.228.9
   user: root
-  remotePath: /iota/jankoutny.me/zadnyspe.ch
+  remotePath: /iota/buhvi.co/zadnyspe.ch
   port: 2233
   privateKey: 'C:\Users\goodh\Google Drive\Security\SSHKeys\privatekey.ppk'
   passphrase: Chdmto15l
