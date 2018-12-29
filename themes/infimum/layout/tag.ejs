@@ -3,7 +3,7 @@
 		headers.push(page.posts.data[i].path + page.posts.data[i].featured)
 	}
  %>
-<div class="image-header" style="background-image: url(/data/just_transparent.png);" data-imgs='<%- JSON.stringify(headers) %>'>
+<div class="image-header" style="background-image: url(/data/just_transparent.png);" data-imgs="<%- htmlEscape(JSON.stringify(headers)) %>">
 	<h1><%- entag(page.tag) -%></h1>
 </div>
 
