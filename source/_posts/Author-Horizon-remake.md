@@ -24,3 +24,4 @@ Za to XLC mini Včka jsou jedovatější než kdejaký disky a Ritchey JB pláš
 {% asset_img P9170021.jpg %}
 {% asset_img P9170024.jpg %}
 {% asset_img P9170016.jpg %}
+{% asset_img R1-06.jpg %}
