@@ -3,7 +3,7 @@
     <h1><%-config.title -%></h1>
 </div>
 
-<div class="wrapper">
+<div class="wrapper main">
     <% page.posts.each(function(post){ %>
         <div class="post-tile" href="<%- url_for(post.path) %>">
             <a href="<%- url_for(post.path) %>" class="tile-header" style="background-image: url(<%- url_for(post.path + post.featured) -%>);"></a>
