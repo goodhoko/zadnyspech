@@ -1,5 +1,5 @@
 <div class="image-header" style="background-image: url(<%- page.featured -%>);"></div>
-<div class="wrapper">
+<div class="wrapper main">
 	<div class="info-header">
 		<span class="date"><%- date(page.date)-%></span>
 		<a class="home" href="<%-url_for('') -%>">všechny zápisky</a>
@@ -22,7 +22,7 @@
 		<% }) %>
 	</div>
 
-	<div class="footer">
+	<div class="footer-navigation">
 		<% if (page.prev){ %>
 			<a href="<%- url_for(page.prev.path) %>" class="previous">předchozí zápisek</a>
 		<% } %>
