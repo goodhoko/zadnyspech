@@ -51,7 +51,7 @@ highlight:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 0
+  per_page: 8
   order_by: -date
   
 # Category & Tag
@@ -69,20 +69,9 @@ time_format: HH:mm:ss
 # Pagination
 ## Set per_page to 0 to disable pagination
 per_page: 0
-pagination_dir: page
+pagination_dir: minulost
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: infimum
-
-# Deployment
-## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: sftp
-  host: 83.167.228.9
-  user: root
-  remotePath: /iota/buhvi.co/zadnyspe.ch
-  port: 2233
-  privateKey: 'C:\Users\goodh\Google Drive\Security\SSHKeys\privatekey.ppk'
-  passphrase: Chdmto15l

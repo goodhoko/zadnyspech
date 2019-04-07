@@ -85,6 +85,9 @@ hr{
 .image-header h1 {
 	font-size: 5em;
 }
+.image-header h1 a {
+	text-decoration: none;
+}
 .image-header .wrap {
 	margin-right: auto;
 	margin-left: auto;
@@ -136,7 +139,7 @@ hr{
 .footer-navigation {
 	color: #777;
 	display: flex;
-	justify-content: space-between;
+	justify-content: space-around;
 	border-top: 1px solid #bbb;
 	padding: 1em 0;
 }
