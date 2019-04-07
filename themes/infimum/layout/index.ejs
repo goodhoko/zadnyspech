@@ -1,6 +1,6 @@
 <% var headers = headerImgs('data/headers') %>
 <div class="image-header" style="background-image: url(/data/just_transparent.png);" data-imgs="<%- htmlEscape(JSON.stringify(headers)) %>">
-    <h1><%-config.title -%></h1>
+    <h1><a href="<%-url_for('') -%>"><%-config.title -%></a></h1>
 </div>
 
 <div class="wrapper main">
@@ -20,4 +20,14 @@
             </div>
         </div>
     <% }) %>
+
+    <div class="footer-navigation">
+        <% if (page.prev){ %>
+            <a href="<%- url_for(page.prev_link) %>" class="previous">novější zápisky</a>
+            <a class="home" href="<%-url_for('') -%>">nejnovější zápisky</a>
+        <% } %>
+        <% if (page.next){ %>
+            <a href="<%- url_for(page.next_link) %>" class="previous">starší zápisky</a>
+        <% } %>
+    </div>
 </div>

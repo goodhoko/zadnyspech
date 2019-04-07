@@ -24,11 +24,11 @@
 
 	<div class="footer-navigation">
 		<% if (page.prev){ %>
-			<a href="<%- url_for(page.prev.path) %>" class="previous">předchozí zápisek</a>
+			<a href="<%- url_for(page.prev.path) %>" class="previous">novější zápisek</a>
 		<% } %>
 		<a class="home" href="<%-url_for('') -%>">všechny zápisky</a>
 		<% if (page.next){ %>
-			<a href="<%- url_for(page.next.path) %>" class="previous">další zápisek</a>
+			<a href="<%- url_for(page.next.path) %>" class="previous">starší zápisek</a>
 		<% } %>
 	</div>
 </div>
