@@ -10,7 +10,7 @@ tags:
 Par týdnů zpátky nám Serža pověděl o ukrajinský kapele Dakha Brakha. Ta se nám tak zalíbila, že jsme se rozhodli nečekat až navštíví Prahu a jeli jsme jí naproti do Varšavy.
 <!-- more -->
 
-Využívám výhod naší nadnárodní korporace a píšu Aze z poslkýho GoOutu, že je navštívím, že potřebuju dvě místa na spaní v kanclu a že by se nám hodily dva volňásky na koncert Dakha Brakha. Aga je žena činu a všechno je okamžitě ready.
+Využívám výhod naší nadnárodní korporace a píšu Aze z polskýho GoOutu, že je navštívím, že potřebuju dvě místa na spaní v kanclu a že by se nám hodily dva volňásky na koncert Dakha Brakha. Aga je žena činu a všechno je okamžitě ready.
 
 {% asset_img r1-10a.jpg %}
 
