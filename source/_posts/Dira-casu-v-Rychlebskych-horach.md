@@ -60,7 +60,7 @@ Drápeme se za ním. Fouká a je teplý vlahý vzduch. Na vrcholu Pradědu stoj�
 
 Sestup zpět na Ovčárnu. Tentokrát přenechávám volant Anně. Užívám si spolujízdu. Řídí dobře a nebojí se.
 
-V ghettokáře ještě dostávám tour de RNK. Pak jen objetí, úsměv, {% quote %}ahoj{% endquote %} a citový derilium na dálnici do Prahy. Jsem zabouchnutej až po uši. Je to slastný a trochu to bolí. Ujišťuju se ale, že mě nemá co bolet. To, co mě bolí, je jen hysterickej strach, že ta náklannost je jednostraná. A ona nejspíš je. Ale co je mi po tom, když s Annou můžu podnikat takovýhle výlety a celý den rozjímat v lese nad skalama. To je totiž to, co mě naplní. Ne dočasný ujištění o opětovaný lásce.
+V ghettokáře ještě dostávám tour de RNK. Pak jen objetí, úsměv, {% quote %}ahoj{% endquote %} a citový derilium na dálnici do Prahy. Jsem zabouchnutej až po uši. Je to slastný a trochu to bolí. Ujišťuju se ale, že mě nemá co bolet. To, co mě bolí, je jen hysterickej strach, že ta náklonnost je jednostraná. A ona nejspíš je. Ale co je mi po tom, když s Annou můžu podnikat takovýhle výlety a celý den rozjímat v lese nad skalama. To je totiž to, co mě naplní. Ne dočasný ujištění o opětovaný lásce.
 
 {% asset_img R1-05693-019A.jpg %}
 
