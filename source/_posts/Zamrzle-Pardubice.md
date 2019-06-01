@@ -5,6 +5,7 @@ featured: chrudimka.jpg
 tags:
 - Pardubice
 - Česko
+- Agáta
 ---
 S kamarádkou Agátou jsme se rozhodli prolomit zimní čekání na letní výlety a koupili jsme jízdenky do Pardubic.
 

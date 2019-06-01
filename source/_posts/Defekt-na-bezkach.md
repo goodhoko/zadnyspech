@@ -7,6 +7,10 @@ tags:
 - běžky
 - Česko
 - Krušnohory
+- Vaverák
+- Šimon K.
+- Šimon M.
+- Čmelda
 ---
 Běžky v defektim stylu. Pot, alkohol a THC.
 <!-- more -->

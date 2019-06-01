@@ -7,6 +7,7 @@ tags:
 - vlaky
 - Německo
 - nákladní vlaky
+- Kopečák
 ---
 V Kolíně jsme naskočili na vlak. V Praze se vyčůrali. V Chebu naobědvali. V Norimberku dali pivo. A celou cestu nás vezl jeden vlak.
 <!-- more -->

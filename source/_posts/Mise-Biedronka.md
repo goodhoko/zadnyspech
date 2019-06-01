@@ -8,6 +8,10 @@ tags:
 - bikepacking
 - Polsko
 - defekt
+- Vaverák
+- Šimon K.
+- Šimon M.
+- Čmelda
 ---
 
 S klukama z [Defektu](https://www.instagram.com/defektcrew/) jsme vzali fixky a dojeli jsme do Gdaňsku. Projeli jsme křížem Polský vnitrozemí a užili si jeho nevkusnejch krás.

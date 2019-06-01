@@ -7,6 +7,7 @@ tags:
 - Česko
 - freighthopping
 - nákladní vlaky
+- Matouš
 ---
 Když jsem se dozvěděl, že Pedro chce zrušit svůj blog a stáhnout se ještě víc do soukromí, okamžitě jsem věděl, že z toho blogu musim zachránit jednu vzpomínku. Tady je. Prachsprostě ukradená...
 <!-- more -->

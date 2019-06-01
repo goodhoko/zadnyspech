@@ -8,6 +8,7 @@ tags:
 - nákladní vlaky
 - Valašsko
 - Kerouac
+- Matouš
 ---
 Kterak jsme nákladním vlakem dojeli na Valašsko, kde jsme okuli kobylu a poslechli si Karla Plíhala.
 <!-- more -->

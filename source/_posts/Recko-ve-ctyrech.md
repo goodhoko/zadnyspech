@@ -4,6 +4,9 @@ date: 2017-05-05 16:20:19
 featured: tumblr_inline_oph915iEJ51uvqm6b_1280.jpg
 tags:
 - Řecko
+- Alžběta
+- Šimon K.
+- Madla
 ---
 Jednoduchý plán: Honza, Alžběta, Šimon a Magda - 4 kamarádi koupí levné letenky do Atén, půjčí si auto a projedou celé Řecko – Zas tak snadné to nebylo.
 <!-- more -->

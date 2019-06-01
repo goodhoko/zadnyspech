@@ -10,6 +10,8 @@ tags:
 - Rumunsko
 - Ukrajina
 - Slovensko
+- Kopečák
+- Šmahy
 ---
 Cesta na koloběžce z Istanbulu do Košic mi rozbourala můj sen o světě bez hranic. Ale jenom proto, aby mi ho znova utvrdila.
 <!-- more -->

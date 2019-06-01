@@ -7,6 +7,8 @@ tags:
 - bikepacking
 - Itálie
 - Rakousko
+- Vítek J.
+- Filip J.
 ---
 V Italských Alpách se skrývá cyklistův sen. 50 km staré železniční trati předělané na cyklostezku. Ideální záminka vzít kola a dojet na nich do Benátek.
 <!-- more -->

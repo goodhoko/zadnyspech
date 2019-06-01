@@ -8,6 +8,10 @@ tags:
 - T9
 - defekt
 - fixedgear
+- Šimon K.
+- Vaverák
+- Kuba J.
+- Matouš
 ---
 Rychlá vzpomínka na lednový výlet, když nás Petr přijel provětrat do Prahy.
 

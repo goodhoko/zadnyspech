@@ -8,6 +8,7 @@ tags:
 - backpacking
 - čundr
 - lesy
+- Alžběta
 ---
 Šumavské kopce byly snad odjakživa mé nejoblíbenější. Neznám žádné jiné hory, kde by panoval takový utlumený klid. Řekli jsme si, že si Šumavu projdeme pešky v jejím nejlepším období - na podzim.
 <!-- more -->

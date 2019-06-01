@@ -7,6 +7,7 @@ tags:
 - lesy
 - Jeseníky
 - Česko
+- Anna
 ---
 
 Nabírám Annu v Rychnově nad Kněžnou. Ghettokárou si krájíme tmu na silnici směr Horní Lipová. Nevím, kam jedeme. Mám jen slíbenou úžasnost v lesích.
