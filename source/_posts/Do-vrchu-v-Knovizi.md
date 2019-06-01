@@ -7,6 +7,9 @@ tags:
 - kolo
 - defekt
 - Knovíz
+- Šimon K.
+- Vaverák
+- Kuba J.
 ---
 Jedny z prvních teplých dnů letošního roku. Bereme silničky a jedeme na závod do vrchu v Knovízi.
 <!-- more -->

@@ -9,6 +9,8 @@ tags:
 - defekt
 - dráha
 - závod
+- Vaverák
+- Matouš
 ---
 Jak jsme dostali na zadek ne Vídeňském velodromu.
 <!-- more -->

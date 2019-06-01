@@ -7,6 +7,7 @@ tags:
 - Edinburgh
 - hillwalking
 - Highlands
+- Anna
 ---
 Annu jsme potkal poprvý, když jsme s Matoušem lezli do jednoho z vršovických kanálů. Pak jsem ji potkal podruhý o tři roky pozdějc u nás v dílně. Řekla: „Studuju v Edinburghu, stav se.“ Neváhal jsem.
 

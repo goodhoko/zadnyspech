@@ -7,6 +7,8 @@ tags:
 - koloběh
 - Slovensko
 - Česko
+- Kopečák
+- Šmahy
 ---
 3 muži ~ 3 koloběžky ~ 675 km ~ 4 dny ~ 1 defekt ~ 0 cigaret ~  7186 m nastoupáno ~ 5730 Kč projedeno
 <!-- more -->
