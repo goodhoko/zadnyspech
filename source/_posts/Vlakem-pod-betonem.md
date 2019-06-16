@@ -3,7 +3,6 @@ title: Vlakem pod betonem
 date: 2019-05-10 23:02:00
 featured: R1-6A.jpg
 tags:
-- freighthopping
 - vlaky
 - nákladní vlaky
 - JáchymV

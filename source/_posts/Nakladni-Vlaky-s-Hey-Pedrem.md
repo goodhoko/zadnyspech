@@ -3,7 +3,6 @@ title: Nákladní Vlaky s Hey Pedrem
 date: 2015-08-03 22:58:26
 featured: 11.jpg
 tags:
-- freighthopping
 - vlaky
 - nákladní vlaky
 - Valašsko

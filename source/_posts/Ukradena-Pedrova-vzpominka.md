@@ -5,7 +5,6 @@ featured: three.jpg
 tags:
 - vlaky
 - Česko
-- freighthopping
 - nákladní vlaky
 - Matouš
 ---
