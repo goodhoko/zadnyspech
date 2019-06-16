@@ -3,7 +3,6 @@ title: Nákladním vlakem do Norimberku
 date: 2016-07-09 13:59:24
 featured: Capture.png
 tags:
-- freighthopping
 - vlaky
 - Německo
 - nákladní vlaky
