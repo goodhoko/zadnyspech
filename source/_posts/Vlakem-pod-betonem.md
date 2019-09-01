@@ -7,6 +7,7 @@ tags:
 - nákladní vlaky
 - JáchymV
 - Vaverák
+- Česko
 ---
 Jak nám cikánskej pantáta zařídil noční jízdu nákladnim vlakem.
 <!-- more -->
