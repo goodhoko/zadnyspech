@@ -13,7 +13,7 @@ tags:
 Nabírám Annu v Rychnově nad Kněžnou. Ghettokárou si krájíme tmu na silnici směr Horní Lipová. Nevím, kam jedeme. Mám jen slíbenou úžasnost v lesích.
 <!-- more -->
 
-Bouchnutí dvěří auta a už stoupáme korytem potoka v tmavém lese. Hluboce oddychujíc, škrábeme se ke Třem studánkám. Nádech, výdech a pouštíme se zase dolů. Po delším sestupu se u cesty zjeví srub zapadlý u potoka v údolí. Terasa má krb, ale jinak je zamčeno. Jsem lehce zklamán. Čekal jsem větší pecku. Pak už jen vidím, jak se mi Anna směje: _{% quote %}Tak pojď, jdeme.{% endquote %}_ A vede mě ke skutečnému cíli. K Berušce.
+Bouchnutí dvěří auta a už stoupáme korytem potoka v tmavém lese. Hluboce oddychujíc, škrábeme se ke Třem studánkám. Nádech, výdech a pouštíme se zase dolů. Po delším sestupu se u cesty zjeví srub zapadlý u potoka v údolí. Terasa má krb, ale jinak je zamčeno. Jsem lehce zklamán. Čekal jsem větší pecku. Pak už jen vidím, jak se mi Anna směje: _{% quote %}Tak pojď, jdeme.{% endquote %}_ A vede mě ke skutečnému cíli.
 
 Mezi stromy se vyloupne světýlko stojící na obzoru. Teplo a pocit domova. Malá dřevěná chaloupka. V kamnech praská oheň, hrníčky visí na hřebících, knihovnička plná knížek a časopisů, sud s jídlem všeho druhu. Tři vandráci nám dneska budou dělat společnost.
 
@@ -36,7 +36,7 @@ Celý nedělní dopoledne sedíme na skalách hypnotizovaní chomáčema mlhy p�
 {% asset_img IMG_4659.jpg "creds to Anna" %}
 {% asset_img R1-05693-016A.jpg %}
 
-Po obědě děláme to samý _nic_ na lavičce chaloupky. Černá díra času na Berušce nás vypouští až při pozdním odpoledni.
+Po obědě děláme to samý _nic_ na lavičce chaloupky. Černá díra času na tomhle srubu nás vypouští až při pozdním odpoledni.
 
 {% asset_img R1-05693-020A.jpg %}
 {% asset_img R1-05693-018A.jpg %}
