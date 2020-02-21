@@ -48,7 +48,7 @@ Ráno svítí ostré slunce. Ze sněhu si vařím kafe a čaj a připadám si ja
 Na nejvyšší hoře si nalévám horký čaj z rána. Moc se nezdržuju. Lanovka už přiváží první zástupy turistů, a tak se vrhám na řetězovou cestu směr Luční bouda. Strašně to klouže. Na běžkách bych neměl šanci, a pěšky neustále padám. Naštěstí mi jeden pár nabídne pomocnou ruku. Mají mačky, takže na rozdíl ode mě můžou chodit. Berou mi běžky a já se ručkujíce po řetězech nějak plácám dolů za nimi.
 
 {% asset_img 6.jpg "Už z rána lanovka na sněžku chrlí turisty." %}
-{% asset_img 7.jpg "V zimě působí tyhle pláně na hřebenech ještě rozlehlejší. (uprostřed Laská bouda)" %}
+{% asset_img 7.jpg "V zimě působí tyhle pláně na hřebenech ještě rozlehlejší. (uprostřed Luční bouda)" %}
 
 U Slezské boudy mažu klistr, který na rozdíl od vosku drží až příliš. Po náhorních planinách (v létě lukách) ťapu přes Luční boudu za Malým Šišákem až ke Špindlerovce. Zjistil jsem, že jsem docela úchyl na velké otevřené prostory a výhledy a tahle krajina mi přináší hluboké uspokojení.
 
