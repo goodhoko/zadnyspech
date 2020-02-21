@@ -55,7 +55,7 @@ Pátek. Začíná festival. Máme to jen 30 km do Kremže. Kosmas, náš couchsu
 
 {% asset_img R1-15a.jpg %}
 
-Připitý odemykáme byt. Svítí se a z radia se lina klasická hudba. Cosmas ležící spící na pohovce s talířem v rukou. Když se nám ho po několika minutách podaří probudit, nejdřív si myslí, že jsme sen. Když s nim pozdějc dáváme pivko a brko, je o tom přesvědčenej.
+Připitý odemykáme byt. Svítí se a z radia se line klasická hudba. Cosmas ležící spící na pohovce s talířem v rukou. Když se nám ho po několika minutách podaří probudit, nejdřív si myslí, že jsme sen. Když s nim pozdějc dáváme pivko a brko, je o tom přesvědčenej.
 
 {% asset_img 1529.jpg %}
 
