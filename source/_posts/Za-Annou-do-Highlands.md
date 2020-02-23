@@ -9,7 +9,7 @@ tags:
 - Highlands
 - Anna
 ---
-Annu jsme potkal poprvý, když jsme s Matoušem lezli do jednoho z vršovických kanálů. Pak jsem ji potkal podruhý o tři roky pozdějc u nás v dílně. Řekla: „Studuju v Edinburghu, stav se.“ Neváhal jsem.
+[Annu](https://ceranna.com) jsme potkal poprvý, když jsme s Matoušem lezli do jednoho z vršovických kanálů. Pak jsem ji potkal podruhý o tři roky pozdějc u nás v dílně. Řekla: „Studuju v Edinburghu, stav se.“ Neváhal jsem.
 
 <!-- more -->
 Rekola fungujou výborně. Sbalen na cestu vyrážim ze Strašnic do Karlína pro kalhoty od [Séger](http://segrasegra.cz). Pak do Dejvic do školy.
