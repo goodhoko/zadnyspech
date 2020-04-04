@@ -1,13 +1,6 @@
-# blog
-My blog on Hexo
+# [Zápisky z výletů](https://zadnyspe.ch/)
+My personal blog with reports from trips to forests, mountains, cities, undergrounds, lakes, lowlands, highlands, pastures, wastelands, railways, urbexes, ravines, pubs, hills, bicycle races...
 
-install:
-```bash
-npm install
-hexo serve
-```
+Written in czech.
 
-deploy:
-```bash
-hexo deploy
-```
+[https://zadnyspe.ch/](https://zadnyspe.ch/)
