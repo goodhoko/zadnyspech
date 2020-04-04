@@ -5,8 +5,7 @@ featured: IMG_1222.jpg
 tags:
 - Šumava
 - Česko
-- backpacking
-- čundr
+- chůze
 - lesy
 - Alžběta
 ---

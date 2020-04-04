@@ -5,9 +5,9 @@ featured: R1-5A.jpg
 tags:
 - Skotsko
 - Edinburgh
-- hillwalking
-- Highlands
+- Skye
 - Anna
+- chůze
 ---
 [Annu](https://ceranna.com) jsme potkal poprvý, když jsme s Matoušem lezli do jednoho z vršovických kanálů. Pak jsem ji potkal podruhý o tři roky pozdějc u nás v dílně. Řekla: „Studuju v Edinburghu, stav se.“ Neváhal jsem.
 

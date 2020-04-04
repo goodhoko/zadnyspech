@@ -5,6 +5,7 @@ featured: R1-19.jpg
 tags:
 - vlaky
 - kolo
+- chůze
 - Česko
 - Jízdenka na léto
 - bikepacking

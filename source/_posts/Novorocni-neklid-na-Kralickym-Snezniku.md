@@ -6,6 +6,7 @@ tags:
 - Kralický Sněžník
 - zima
 - Česko
+- chůze
 ---
 Letos jsem chtěl hranici do dalšího roku překročit samotou. Vylízt někam daleko na kopec, do zimy a nečasu. Nahoře si dát jointa. Zapálit prskavku. Zkouknout ohňostroje z nadhledu a zachumlat se do závětří. Jenže tahle nuda se mi zase překlopila v příjemně nečekaný dobrodružství.
 <!-- more -->
