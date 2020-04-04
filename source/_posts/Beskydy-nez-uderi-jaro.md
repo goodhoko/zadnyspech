@@ -7,6 +7,7 @@ tags:
 - Beskydy
 - Česko
 - lesy
+- chůze
 ---
 Moravský hory ve dvou dnech, kdy první slunce taví poslední sníh.
 <!-- more -->

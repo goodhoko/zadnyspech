@@ -6,7 +6,7 @@ tags:
 - Skotsko
 - Anna
 - Cairngorms
-- chození
+- chůze
 ---
 Pěkný, komfortní a bezpečný místo je prý to hlavní, když si vybíráte kam na tripa. Cairngorms jsou nádherný. Pocit bezpečí nám taky poskytly. Ale jejich nehostinnost má ke komfortu hodně daleko.
 <!-- more -->
