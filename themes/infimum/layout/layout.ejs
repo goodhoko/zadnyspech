@@ -4,7 +4,11 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<title><%= htmlUnescape((page.title ? page.title + ' • ' : '') + config.title.replace('&nbsp;', ' ')) %></title>
+	<%
+		const subtitle = page.title || page.tag
+		const title = (subtitle ? subtitle + ' • ' : '') + config.title.replace('&nbsp;', ' ')
+	%>
+	<title><%= htmlUnescape(title) %></title>
 	<link rel="shortcut icon" type="image/png" href="<%- url_for('data/favicon.png') -%>"/>
 
 	<%- css('assets/css/fonts.css') %>
@@ -14,7 +18,7 @@
 
 	<%- open_graph({
 		image: page.featured || url_for(headerImgs('data/headers')[0]),
-		title: htmlUnescape((page.title ? page.title + ' • ' : '') + config.title),
+		title: htmlUnescape(title),
 		description: is_home() ? config.description : null,
 		site_name: htmlUnescape(config.title)
 	}) %>
