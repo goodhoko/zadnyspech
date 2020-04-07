@@ -1,5 +1,9 @@
 <div class="post-tile" href="<%- url_for(post.path) %>">
-    <a href="<%- url_for(post.path) %>" class="tile-header" style="background-image: url(<%- url_for(post.path + post.featured) -%>);"></a>
+    <a
+        href="<%- url_for(post.path) %>"
+        class="tile-header"
+        style="background-image: url(<%- image_version(url_for(post.path + post.featured), {prefix: 'thumbnail'}) -%>);"
+    ></a>
     <div class="tile-details">
         <div class="tile-heading">
             <h3>
