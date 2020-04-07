@@ -17,20 +17,7 @@
 		<a class="home" href="<%-url_for('') -%>">všechny zápisky</a>
 	</div>
 	<% page.posts.each(function(post){ %>
-		<div class="post-tile" href="<%- url_for(post.path) %>">
-			<a href="<%- url_for(post.path) %>" class="tile-header" style="background-image: url(<%- url_for(post.path + post.featured) -%>);"></a>
-			<div class="tile-details">
-				<div class="tile-heading">
-					<h3>
-						<a href="<%- url_for(post.path) %>"><%= post.title %></a>
-					</h3>
-					<span class="date"><%= date(post.date) %></span>
-				</div>
-				<div class="excerpt">
-					<%- post.excerpt || truncate(post.content, {length: 250}) %>
-				</div>
-			</div>
-		</div>
+		<%- partial('partial/post_tile', {post: post}) %>
 	<% }) %>
 	<div class="footer-navigation">
 		<a class="home" href="<%-url_for('') -%>">všechny zápisky</a>
