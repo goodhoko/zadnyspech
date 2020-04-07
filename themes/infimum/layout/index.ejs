@@ -1,7 +1,4 @@
-<% var headers = headerImgs('data/headers') %>
-<div class="image-header" style="background-image: url(/data/just_transparent.png);" data-imgs="<%- htmlEscape(JSON.stringify(headers)) %>">
-    <h1><a href="<%-url_for('') -%>"><%-config.title -%></a></h1>
-</div>
+<%- partial('partial/image_header', {titleUrl: '/', title: config.title, images: headerImgs('data/headers')}) %>
 
 <div class="wrapper main">
     <% page.posts.each(function(post){ %>
