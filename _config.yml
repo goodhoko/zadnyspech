@@ -75,3 +75,13 @@ pagination_dir: minulost
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: infimum
+
+responsive_images:
+  pattern: '**/*.+(png|jpg|jpeg|JPG|JPEG)'
+  sizes:
+    thumbnail:
+      width: 800
+      withoutEnlargement: true
+    large:
+      width: 1920
+      withoutEnlargement: true
