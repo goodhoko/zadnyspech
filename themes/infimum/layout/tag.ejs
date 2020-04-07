@@ -1,11 +1,4 @@
-<% var headers = [];
-	for(i in page.posts.data){
-		headers.push(page.posts.data[i].path + page.posts.data[i].featured)
-	}
- %>
-<div class="image-header" style="background-image: url(/data/just_transparent.png);" data-imgs="<%- htmlEscape(JSON.stringify(headers)) %>">
-	<h1><%- entag(page.tag) -%></h1>
-</div>
+<%- partial('partial/image_header', {title: entag(page.tag), images: page.posts.data.map(post => post.path + post.featured)}) %>
 
 <div class="wrapper">
 	<div class="info-header">
