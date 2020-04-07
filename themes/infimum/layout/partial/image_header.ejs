@@ -1,7 +1,7 @@
 <div
     class="image-header"
     style="background-image: url(/data/just_transparent.png);"
-    data-imgs="<%- htmlEscape(JSON.stringify(locals.images)) -%>">
+    data-imgs="<%- htmlEscape(JSON.stringify(locals.images.map(img => image_version(img, {prefix: 'large'})))) -%>">
     <h1>
         <% if (locals.titleUrl) { %>
             <a href="<%- url_for(locals.titleUrl) -%>"><%- locals.title -%></a>
