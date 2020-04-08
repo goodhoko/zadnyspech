@@ -1,4 +1,4 @@
-<div class="image-header" style="background-image: url(<%- image_version(page.featured, {prefix: 'large'}) -%>);"></div>
+<div class="image-header" style="background-image: url(<%- image_version(page.featured || '/data/just_transparent.png', {prefix: 'large'}) -%>);"></div>
 <div class="wrapper main">
 	<div class="info-header">
 		<span class="date"><%- date(page.date)-%></span>
