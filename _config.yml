@@ -80,8 +80,10 @@ responsive_images:
   pattern: '**/*.+(png|jpg|jpeg|JPG|JPEG)'
   sizes:
     thumbnail:
-      width: 800
+      width: 1200 # it's visually better to overscale and use lower quality https://github.com/lovell/sharp/issues/2158
+      quality: 60
       withoutEnlargement: true
     large:
-      width: 1920
+      width: 2000
+      quality: 60
       withoutEnlargement: true
