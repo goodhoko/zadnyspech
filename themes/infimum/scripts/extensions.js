@@ -1,21 +1,20 @@
-function getFileExtenstion(filename){
-	return filename.substring(filename.lastIndexOf('.') + 1).toLowerCase();
-}
+const path = require('path')
 
 
 
 // CUSTOM FILTERS //
-hexo.extend.filter.register('after_post_render',function(data){
-	if (getFileExtenstion(data.source) !== 'md'){
-		return;
+hexo.extend.filter.register('after_post_render', data => {
+	if (path.extname(data.source).toLowerCase() !== '.md') {
+		return
 	}
 
-	data.content = data.content.replace(/<img [^>]+>/g, function (img){
-		var src = img.match(/src="(.*?)"/)[1],
-			title = img.match(/title="(.*?)"/);
-		title = title ? title[1] : '';
+	data.content = data.content.replace(/<img [^>]+>/g, img => {
+		const src = img.match(/src="(.*?)"/)[1]
+		const thumbnail = path.join(path.dirname(src), `thumbnail_${path.basename(src)}`)
+		let title = img.match(/title="(.*?)"/)
+		title = title ? title[1] : ''
 
-		return '<a href="' + src + '" title="' + title + '" data-src="' + src + '" class="gallery-item" target="_blank">' + img + '</a>';
+		return `<a href="${src}" title="${title}" data-src="${src}" class="gallery-item" target="_blank"><img src="${thumbnail}" alt="${title}" title="${title}"></a>`
 	})
 
 	return data;
@@ -26,7 +25,7 @@ hexo.extend.filter.register('after_post_render',function(data){
 // CUSTOM TAGS //
 hexo.extend.tag.register('asset_video', function(args, content){
 	var file = args[0] || '',
-		ext = getFileExtenstion(file),
+		ext = path.extname(file),
 		alt = args[1] || 'Čas vylézt z jeskyně a začít používat prohlížeč, kterej umí zobrazit html5 video.'
 
 	return  '<div class="video-wrapper">' +
