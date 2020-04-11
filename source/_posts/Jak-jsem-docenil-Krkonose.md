@@ -6,7 +6,6 @@ tags:
 - běžky
 - Krkonoše
 - Česko
-- chůze
 ---
 
 Vždycky jsem zastával tábor, který tvrdil že Krkonoše jsou celkem OK, ale vlastně jen samý hluboký rokle a nuda. Naproti tomu Šumava umí nabídnout tu správnou magickou atmosféru. Tenhle únorový víkend mi ukázal Krkonoše, jak jsem je neznal a jak jsem si je zamiloval.
