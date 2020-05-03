@@ -1,8 +1,12 @@
 $(document).ready(function() {
 	console.log('Welcome to my blog!');
 
+
+
 	//enable lightGallery
 	$('article').lightGallery({selector: '.gallery-item'});
+
+
 
 	//support for play and pause overlay button on html5 videos
 	$('article .video-wrapper').click(function () {
@@ -20,4 +24,14 @@ $(document).ready(function() {
 	$('article .video-wrapper video').on('pause', function () {
 		$(this).siblings('.playpause').fadeIn();
 	})
+
+
+
+	//choosing hrandom header image
+	if(location.pathname == '/'){
+		var headers = $('.image-header').data('imgs')
+		var img = headers[Math.floor(Math.random() * headers.length)];
+		$('div.image-header').css('background-image', 'url(/' + img + ')')
+	}
+
 });
