@@ -47,3 +47,5 @@ Narážíme na věž obserwatornu. Vysoká kovová věž s plotem, kam je wstep 
 Večer míříme na koncert Dakha Brakha do asi největšího klubu ve Varšavě. Ten je (jak jinak) ve sklepě paneláku. Balíme si před vchodem ještě brko a Aga stresuje, že nás nesmí nikdo vidět a že musíme jít támhle někam za roh. Prej tady jsou schopný za hulení zabásnout na místě. Pálíme brko v boční uličce u popelnic a přijdu si jak kriminálník. Je čas jít dovnitř. Dakha Brakha je láska. Hrajou hiphop, skačko, klasiku, co nás napadne. Všechno ve stylu starejch ukrajinskejch lidovejch písní. V kotli se davově kroutíme jak žížaly. Slovanství tady stříká všude kolem a když na konci koncertu z pódia vyhlásej Putina, panelák nad náma skoro spadne.
 
 Dotahujeme se slaďoučkym medovym Krupnikem v baru PlanB - nechvalně známý místo mezi klukama z českýho GoOutu. Pokračujeme nocovat do kanclu. Jdeme pešky. Dáváme si oba sluchátka, pouštíme synchronizovaně Dakha Brakha a běžíme. Skáčeme přes plůtky a zídky, kličkujeme mezi lidma a nahlas se smějeme. Prostě -- láska. Láska, kterou vzápětí střídá prázdnota, jak Anna odléta do Skotska a já drncám vlakem do Prahy.
+
+{% asset_vimeo 416436136 %}
