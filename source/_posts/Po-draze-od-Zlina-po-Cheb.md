@@ -20,7 +20,7 @@ Klub na dráze -- Zavřeno. Bajkazyl -- Zavřeno. Nezbývá než pivko v kavárn
 
 {% asset_img R1-30.jpg %}
 
-Chceme se koupat v Novejch Mlýnech. Přijíždíme k vodě a nosy se nám samy kroutí. Smrdí to a všude plavou zdechlý ryby. Chlápek u chajdy na břehu nás poučuje: _{% quote %}Jó, to je normální. Dneska jsem jich už 40 zakopal na zahradě. Jinak by se tady vůbec nedalo bejt.{% endquote %}_ A tak pokračujeme až do vápencovýho lomu u Mikulova.
+Chceme se koupat v Novejch Mlýnech. Přijíždíme k vodě a nosy se nám samy kroutí. Smrdí to a všude plavou zdechlý ryby. Chlápek u chajdy na břehu nás poučuje: _„Jó, to je normální. Dneska jsem jich už 40 zakopal na zahradě. Jinak by se tady vůbec nedalo bejt.“_ A tak pokračujeme až do vápencovýho lomu u Mikulova.
 
 {% asset_img R1-33.jpg %}
 
@@ -29,7 +29,7 @@ Po koupačkách jedeme do města. Všude už maj zavřeno. Zbývaj jen snobský 
 Po pár dalších sklenicích se škrábeme přes skály na kopeček, kde si už jiní rozbalují karimatky. My nacházíme závětří o kousek dál s výhledem na tisíce (sic!) blikajících větrníků.
 
 ## Horečka parný soboty ##
-Hned z rána na nás žlutej puchejř útočí paprskama a nenechá nás spát. Po snídani na dlažbě před místnim Coopem se nechávám pomalu navádět Ivou směr Tasov. Já jen tu a tam navrhnu, ať _{% quote %}tady zastavíme na skleničku a brčko.{% endquote %}_
+Hned z rána na nás žlutej puchejř útočí paprskama a nenechá nás spát. Po snídani na dlažbě před místnim Coopem se nechávám pomalu navádět Ivou směr Tasov. Já jen tu a tam navrhnu, ať _„tady zastavíme na skleničku a brčko.“_
 
 {% asset_img R1-34.jpg %}
 {% asset_img R1-36.jpg %}
@@ -90,7 +90,7 @@ Zbývá poslední den jízdenky na léto. Beru silničku a jedu si užít Šumav
 {% asset_img R1-35.jpg %}
 {% asset_img R1-38.jpg %}
 
-Teda, rozhodně by neměl radost z toho, že na Modravě a Kvildě začali nějaký zmrdi půjčovat motorový {% quote %}koloběžky{% endquote %}. Na pramenech nebo v údolí Javořího potoka si tak můžete připomenout Staromák.
+Teda, rozhodně by neměl radost z toho, že na Modravě a Kvildě začali nějaký zmrdi půjčovat motorový „koloběžky“. Na pramenech nebo v údolí Javořího potoka si tak můžete připomenout Staromák.
 _// Teda on by Klostermann asi neměl radost ani z těch asfaltek, kterejma je Šumava prošitá a ve kterejch já si tak libuju._
 
 {% asset_img R1-333.jpg %}

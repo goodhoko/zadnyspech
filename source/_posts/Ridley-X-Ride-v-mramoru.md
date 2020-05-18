@@ -11,11 +11,11 @@ tags:
 Chtěl jsem kolo do terénu, ale nechtěl jsem aby bylo líný. Zároveň mám rád kola, který nejde jednoduše zařadit do žádný konvenční kategorie. Tohle je výsledek.
 <!-- more -->
 
-Cyklokrosovej rám X-Ride od Ridley postavenej {% quote %}na horáka{% endquote %}. To znamená široký rovňáky na páčení kopců a vůbec kličkování mezi šutrama. Jednopřevodník, protože... to je prostě stejně nejlepší. XT hazka a kazeta s velkym rozsahem, protože na tom chci jet kudykoli a ne řešit kadenci. No a tak široký pláště, jak se tam jenom vejdou.
+Cyklokrosovej rám X-Ride od Ridley postavenej „na horáka“. To znamená široký rovňáky na páčení kopců a vůbec kličkování mezi šutrama. Jednopřevodník, protože... to je prostě stejně nejlepší. XT hazka a kazeta s velkym rozsahem, protože na tom chci jet kudykoli a ne řešit kadenci. No a tak široký pláště, jak se tam jenom vejdou.
 
 To kolo jezdí parádně a hlavně je na něm fakt sranda. Jediná věc, která tomu chybí k dokonalý podivnosti, je teleskopická sedlovka.
 
-Původní lak nebyl špatnej, ale řekl jsem si, že bude sranda si trochu zaexperimentovat. Šimonovi se nedávno povedl parádní lak na silničce pomocí spreje {% quote %}marble effect{% endquote %} od Montany. Šáhl jsem těsně vedle po efektu mramorovym. Navíc ve dvou barvách, protože jedna mi přišla nuda.
+Původní lak nebyl špatnej, ale řekl jsem si, že bude sranda si trochu zaexperimentovat. Šimonovi se nedávno povedl parádní lak na silničce pomocí spreje „marble effect“ od Montany. Šáhl jsem těsně vedle po efektu mramorovym. Navíc ve dvou barvách, protože jedna mi přišla nuda.
 
 {% asset_img P1110002.jpg %}
 {% asset_img P1110025.jpg %}

@@ -31,7 +31,7 @@ Jenže tady se na nás zase sune lokomotiva s dlouhou šňůrou plošinovejch vo
 
 {% asset_img DSC_10-6.jpg "Photo by David" %}
 
-Na vedlejší koleji zastavujou prázdný autovagóny. Nastává ticho. Tři vlaky. My uprostřed. Velim plán, kterej je nám stejně oboum jasnej: _{% quote %}Jestli se nějakej z těch vlaků rozjede ... berem ho!{% endquote %}_ Ani ne do minuty sebou autovagóny typicky škubnou a rychle se dávaj do pohybu. Hop. Skok. Jsme tam a houpeme se s nima. Opouštíme Prahu a mizíme ve tmě. Vítr nám okamžitě krade veškerý teplo, co jsme nastřádali za uplynulý drama.
+Na vedlejší koleji zastavujou prázdný autovagóny. Nastává ticho. Tři vlaky. My uprostřed. Velim plán, kterej je nám stejně oboum jasnej: _„Jestli se nějakej z těch vlaků rozjede ... berem ho!“_ Ani ne do minuty sebou autovagóny typicky škubnou a rychle se dávaj do pohybu. Hop. Skok. Jsme tam a houpeme se s nima. Opouštíme Prahu a mizíme ve tmě. Vítr nám okamžitě krade veškerý teplo, co jsme nastřádali za uplynulý drama.
 
 ## V pět v Dejvicích v Brně před šestou
 Oblíkáme úplně všechno, co máme. Dochází i na spacáky. Česká Třebová. Začíná svítat. Nikdy jsem nejel takhle odkrytej. Pečlivě sleduju výpravčí na stanicích. K mýmu překvapení červený čepice skoro nejsou a když, tak než přijedeme s našim vagónem, už se rychle vracej do tepla.

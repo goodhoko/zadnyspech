@@ -13,9 +13,9 @@ Když z tebe zima udělá alkohousenku.
 
 Sedíme v busu hned za řidičem. Korek se souká z lahve a nízký sluníčko slibuje pěknej den. Probíráme architekturu, folk i programování. Ve Vimpáči už to řidič nevydrží a přidává se se svym pohledem na svět. Je to žoldák. O víkendech řídí busy, aby nevyšel ze cviku. Akorát se vrátil z půlroční mise v Africe. Vypráví a je to dobrý. Svoji ženu, kterou miluje, poznal v autobuse.
 
-_{% quote %}Klasická tyčařka.{% endquote %}_
-_{% quote %}Co to je?{% endquote %}_
-_{% quote %}No, když se vám ženská postaví tady k týhle tyči a vykecává se s váma za jízdy.{% endquote %}_
+_„Klasická tyčařka.“_
+_„Co to je?“_
+_„No, když se vám ženská postaví tady k týhle tyči a vykecává se s váma za jízdy.“_
 
 {% asset_img R1-01.jpg %}
 

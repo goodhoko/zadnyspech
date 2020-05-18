@@ -53,12 +53,6 @@ hexo.extend.tag.register('asset_vimeo', function(args){
 
 
 
-hexo.extend.tag.register('quote', function(args, content){
-	return  '„' + content + '“';
-}, {ends: true});
-
-
-
 // CUSTOM HELPERS //
 hexo.extend.helper.register('htmlUnescape',function(str){
 	var entities = {

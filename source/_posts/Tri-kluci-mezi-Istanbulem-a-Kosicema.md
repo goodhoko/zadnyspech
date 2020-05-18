@@ -17,7 +17,7 @@ Cesta na koloběžce z Istanbulu do Košic mi rozbourala můj sen o světě bez 
 <!-- more -->
 
 ## Únik z Cařihradu ##
-Vystupuju ze stojedenadevedesátky na prvnim terminálu. Nesouc koloběžku ve velký bedně na rameni se srážim s Michalem. Na Kubu musíme ještě počkat. Jako vždy má zpoždění. Turkish Arilines jsou nesmlouvavý a nechtěj nám uznat kartonový bedny jako zavazadla. Doplácíme 30 euro za {% quote %}kolo{% endquote %}.
+Vystupuju ze stojedenadevedesátky na prvnim terminálu. Nesouc koloběžku ve velký bedně na rameni se srážim s Michalem. Na Kubu musíme ještě počkat. Jako vždy má zpoždění. Turkish Arilines jsou nesmlouvavý a nechtěj nám uznat kartonový bedny jako zavazadla. Doplácíme 30 euro za „kolo“.
 
 {% asset_img 0E39DA27-E3D0-4981-AE26-06589C224C4D.jpg "V nošení velkejch krabic už mám docela praxi. Fotil Kuba" %}
 
@@ -38,7 +38,7 @@ Atmosféra tohodle města je neuvěřitelná. Odpadky absolutně všude. Auta v�
 
 Postupujeme asi 80 kilometrů skrz venkov. Kdekoli zastavíme pro vodu nebo něco dobrýho z nás maj radost. Zajímaj se a darujou nám občerstvení. Jsou milý, pohostinný, vstřícný a přátelský.
 
-Kolem devíti večer dojíždíme do větší vesnice. Je tma a po dlouhejch úsecích vyschlejma keřo-lesama toužíme po občerstvení -- večeři. Na křižovatce, sloužící jako náves, je malej podnik široce rozevřenej do ulice. Uvnitř i venku posedá spoustu mužů a popíjej hnědou tekutinu z malinkejch skleniček. Musíme objevit, co se tady pije. Uvnitř se nás ujímá {% quote %}barman{% endquote %} a nalejvá nám čaj. Prostě černej čaj. No jasně! Že se tady přece nechlastá, nám dochází až teď.
+Kolem devíti večer dojíždíme do větší vesnice. Je tma a po dlouhejch úsecích vyschlejma keřo-lesama toužíme po občerstvení -- večeři. Na křižovatce, sloužící jako náves, je malej podnik široce rozevřenej do ulice. Uvnitř i venku posedá spoustu mužů a popíjej hnědou tekutinu z malinkejch skleniček. Musíme objevit, co se tady pije. Uvnitř se nás ujímá „barman“ a nalejvá nám čaj. Prostě černej čaj. No jasně! Že se tady přece nechlastá, nám dochází až teď.
 
 {% asset_img R1-05694-0002.jpg %}
 
@@ -48,7 +48,7 @@ Převlečený do slušnýho vycházíme ven. Před barákem si nás odchytnou dv
 
 {% asset_img R1-05811-0023.jpg "Fotil Kuba" %}
 
-Dost se toho dozvídám: Istanbul má patnáct milionů obyvatel. Hlavně kvůli velkýmu přílivu Syřanů. Turecko přijmulo dva miliony jen za poslední rok. Okamžitě se ptáme, jakej na tohle kluci maj názor. Na ty uprchlíky. Koukaj na nás s nechápavym výrazem: _{% quote %}Jakej názor bychom na to asi měli mít? Tvl, vždyť tam maj válku. Ať přijdou. Co maj asi dělat?{% endquote %}_ Společně se smějeme faktu, že zatimco oni přijímaj dva milióny uprchlíků ročně, my se v Česku nemůžeme ani dohodnout jestli pět nebo deset. Prej ale dělí Syřany na dva typy. Uprchlíky, který utíkaj před válkou a pak úzkou skupinu hodně bohatejch Syřanů, který skupujou nemovitosti v Istanbulu. Podobnej problém jako máme my v Praze s Rusama a Italama. Dozvídám se ještě, že na Turecký vlajce není noční obloha odražená v krvi nepřátel, jak mi říkal táta, ale v krvi Tureckých bojovníků. A že Kurdové jsou nácci a teroristi, co chtěj akorát rozpoutat válku. Dostáváme tour po vesnici, společně si dáváme čaj a loučíme se ducáním hlavama o sebe.
+Dost se toho dozvídám: Istanbul má patnáct milionů obyvatel. Hlavně kvůli velkýmu přílivu Syřanů. Turecko přijmulo dva miliony jen za poslední rok. Okamžitě se ptáme, jakej na tohle kluci maj názor. Na ty uprchlíky. Koukaj na nás s nechápavym výrazem: _„Jakej názor bychom na to asi měli mít? Tvl, vždyť tam maj válku. Ať přijdou. Co maj asi dělat?“_ Společně se smějeme faktu, že zatimco oni přijímaj dva milióny uprchlíků ročně, my se v Česku nemůžeme ani dohodnout jestli pět nebo deset. Prej ale dělí Syřany na dva typy. Uprchlíky, který utíkaj před válkou a pak úzkou skupinu hodně bohatejch Syřanů, který skupujou nemovitosti v Istanbulu. Podobnej problém jako máme my v Praze s Rusama a Italama. Dozvídám se ještě, že na Turecký vlajce není noční obloha odražená v krvi nepřátel, jak mi říkal táta, ale v krvi Tureckých bojovníků. A že Kurdové jsou nácci a teroristi, co chtěj akorát rozpoutat válku. Dostáváme tour po vesnici, společně si dáváme čaj a loučíme se ducáním hlavama o sebe.
 
 {% asset_img IMG_4696.jpg %}
 
@@ -74,7 +74,7 @@ Obsazujeme schody před obchodem. Všude kolem se potloukaj imbecilní puberťá
 
 Tak markantní rozdíl jsem nečekal. Přes hranice jsme ujeli sotva 40 kilometrů a okamžitě jsme se ocitli v naprosto jiný společnosti. Přemejšlim zase o hranicích. Proč jsou ty čáry nakreslený tam, kde jsou? Jestli tady existujou dva národy, který jsou tak jiný, neni vznik hranice nevyhnutelnej a možná žádoucí? Nevim. Nejspíš ne. Chvíli mi přijde, že jde o problém vejce a slepice. Na druhý zamyšlení ale nejde o to, co bylo dřív. Jestli hranice, nebo rozdíly. Spíš je to stále běžící proces, kde jedno podporuje druhý. Jenže zatímco rozdíly nejsou nastavený systémem, hranice jsou. A stejně tak platí, že rozdíly nejdou systémem zrušit, hranice jdou. Přijde mi, že hranice posilujou rozdílnost a ve výsledku i nenávist. A že jestli něco buduje soužití a toleranci, je to vzájemný potkávání a konfrontace. Jenže, jak může docházet k potkávání, konfrontaci a míšení přes prakticky nepropustnou hranici?
 
-Odebíráme se za hřbitov do borovicovýho hájku. Vesnický štěkající psi mi nechtěj dopřát spánku a když konečně zaberu, budí mě Kuba: _{% quote %}Kluci, kluci tyvole tady jsou všude koně!{% endquote %}_ Stojej kolem nás -- černý stíny. Nahlas chroupaj trávu, odfrkujou a občas lehce zajíkaj. Očividně jsou uplně v klidu. Uklidňuju Kubu tím, že _{% quote %}Koně nejsou teritoriální. To je v pohodě.{% endquote %}_ Spíme.
+Odebíráme se za hřbitov do borovicovýho hájku. Vesnický štěkající psi mi nechtěj dopřát spánku a když konečně zaberu, budí mě Kuba: _„Kluci, kluci tyvole tady jsou všude koně!“_ Stojej kolem nás -- černý stíny. Nahlas chroupaj trávu, odfrkujou a občas lehce zajíkaj. Očividně jsou uplně v klidu. Uklidňuju Kubu tím, že _„Koně nejsou teritoriální. To je v pohodě.“_ Spíme.
 
 _DEN 2 :: 155 km :: [trasa](https://www.strava.com/activities/1848702319)_
 
@@ -129,10 +129,10 @@ Závora, před ní auto a 4 mladý vysokoškoláci. Jsou na prázdninách doma a
 
 Budí mě štěkot. Zní to jako houkající auto řítící se přímo na mě. Sotva se ve spacáku posadim, netrvá to ani 3 vteřiny a zuřivý čoklové jsou přímo u nás. Instinktivně zakřičim do tmy. Zastavujou, stojej a štěkaj. Nevidíme nic. Stoupáme si a Kuba nahmatává světlo. Kužel baterky odhaluje tři nasraný bestie přímo před náma. Tváří v tvář. Dělaj bordel a vyhrožujou.
 
-_{% quote %}Najdi nějakej klacek!{% endquote %}_
-_{% quote %}Tady žádnej neni ty vole.{% endquote %}_
-_{% quote %}Hm. Co budem dělat?{% endquote %}_
-_{% quote %}Nevim no. Můžeme tady prostě stát a čumět na ně dokaď neodejdou.{% endquote %}_
+_„Najdi nějakej klacek!“_
+_„Tady žádnej neni ty vole.“_
+_„Hm. Co budem dělat?“_
+_„Nevim no. Můžeme tady prostě stát a čumět na ně dokaď neodejdou.“_
 
 Zkoušim udělat půl kroku dopředu a zuřivě zařvat. Psi dělaj dva kroky dozadu. Udělám to ještě jendou. Pořád štěkaj, ale začínaj jít bokem. Odcházej do strany. Furt štěkaj, čelem k nám, ale vzdalujou se. Je 4:08 a nejsme si jistý co dál. Když už je štěkot sotva slyšet, odhodláme se ke spánku. Přiběhnou pak sice ještě jednou, ale to už poučený jen rozsvěcíme baterky a necháváme je vycouvat. _Kouzelný les._
 
@@ -143,7 +143,7 @@ Zbývá 80 kiláků do Bukurešti. Brnkačka. Zvolna ukrajujeme z nekonečnejch 
 
 {% asset_img R1-05694-0027.jpg "Některý rovný úseky tady maj třeba 13 kilometrů. To nezní jako moc, ale stačí to na to, aby nám to přišlo nekonečný." %}
 
-Těsně před městem přejíždíme dokonalej {% quote %}most{% endquote %}.
+Těsně před městem přejíždíme dokonalej „most“.
 
 {% asset_img R1-05694-0028.jpg "definice bastlu" %}
 {% asset_img R1-05811-0003.jpg "Jednoznačně moje nejoblíbenější fotka z celýho výletu. Fotil Kuba." %}
@@ -177,7 +177,7 @@ V záplavě týhle malebnosti se Michal čelně sráží s babkou na kole. Velko
 
 Na 65. kilometru si dáváme papanasi. Nakopává nás tak, že daších 40 kilometrů točíme kolotoč na plnej laktát. Zastavujou nás až Ukrajinský hranice.
 
-Nechtěj nás pustit. Nesmíme prej na kole. Je to protokol. Byrokracie ve mě vaří krev a mám chuť jim všem nadávat do čuráků. Musíme mít auto. OK! Odchytáváme nějakýho týpka s dodávkou, co nás proveze. Jede pro plnou nádrž a cíga. Oboje je na Ukrajině dvakrát levnější. Na Ukrajinský přepážce jim s pasama podává jedno euro. _{% quote %}Jo jasně. Jendo euro pro policajta a jedno pro celníka. Jinak ti ten pas jen vrátěj do ruky a pošlou tě zpátky.{% endquote %}_ Tady maj pěšáci absolutní moc a nikdo s tim nemůže nic dělat.
+Nechtěj nás pustit. Nesmíme prej na kole. Je to protokol. Byrokracie ve mě vaří krev a mám chuť jim všem nadávat do čuráků. Musíme mít auto. OK! Odchytáváme nějakýho týpka s dodávkou, co nás proveze. Jede pro plnou nádrž a cíga. Oboje je na Ukrajině dvakrát levnější. Na Ukrajinský přepážce jim s pasama podává jedno euro. _„Jo jasně. Jendo euro pro policajta a jedno pro celníka. Jinak ti ten pas jen vrátěj do ruky a pošlou tě zpátky.“_ Tady maj pěšáci absolutní moc a nikdo s tim nemůže nic dělat.
 
 Jsme na Ukrajině. Silnice tady jsou úplně na píču. Jsme rádi, když maj v čem bejt díry, ale většinou je to prostě jen štěrk, bordel a propasti. Zbývá nám asi dvacet kilometrů k Vinohradivu. Před nim natrefujeme na kemp s hospodou. Obsazujeme jí až do zavíračky. Pak ukecáváme hlídače, aby nás nechal přespat v areálu na lehátkách. Luxus.
 
@@ -198,7 +198,7 @@ Postupujeme Ukrajinou. Tahle země je divná. Nejmilejší řidiči tady jsou ka
 Konečně jsem na Slovensku. U bratrů. Na celnici jen musíme počkat až prošacujou ženskou s deseti voňavkama a taškou cigaret, který rozpočítává i na svoje malý děti, aby se vešla do limitu na jednu osobu.
 
 Dáváme pauzu v samoobsluze někde na dědině. Lednička s pivama je na elektronickej zámek dálkově ovládanej prodavačkou, protože by z ní jinak cigoši kradli plecháče. U stolu venku se dáváme do řeči s místníma. Konečně si rozumíme! Pár minut a už to padá:
-_{% quote %}Babo počkaj! Daj mi peniaze! Chalani, čo pijetě? Slivovicu?{% endquote %}_
+_„Babo počkaj! Daj mi peniaze! Chalani, čo pijetě? Slivovicu?“_
 Posilnění odrážíme se do západu slunce směr Velká Šírava. Tam ze sebe smyjeme prach a špínu a srnky nám zaštěkaj na dobrou noc.
 
 {% asset_img IMG_4748.jpg %}
@@ -208,7 +208,7 @@ _DEN 7 :: 158 km :: [trasa](https://www.strava.com/activities/1848702317)_
 ## Lůžkové vozy ##
 Zbejvá nám 60 kilometrů do Košic. Užíváme si to. Kolem poledne se z kopce snášíme do centra města. Jen těžko mi může plechovka piva na plácku před nádražim chutnat tak moc jako teď.
 
-Vlak do Prahy nám jede až v 10 večer. Smrdíme jak prasata a jsme strhaný. Jdeme do sauny. Sauna-bába na nás nejdřív kouká podezřívavě, ale když se s ní mezi rundama vedra dáváme potřetí do řeči, směle se vyptává, jestli máme děti a svěřuje se, že když jsme přišly musela dát _{% quote %}aj sprej aj sviečky{% endquote %}_, jak jsme smrděli. Za to ale mohly hlavně Kubovy boty.
+Vlak do Prahy nám jede až v 10 večer. Smrdíme jak prasata a jsme strhaný. Jdeme do sauny. Sauna-bába na nás nejdřív kouká podezřívavě, ale když se s ní mezi rundama vedra dáváme potřetí do řeči, směle se vyptává, jestli máme děti a svěřuje se, že když jsme přišly musela dát _„aj sprej aj sviečky“_, jak jsme smrděli. Za to ale mohly hlavně Kubovy boty.
 
 V 10 večer se soukáme do lůžkovýho vozu. Pomalu se rozjíždí. Stelu si prostřední lehátko tak, že mám polštář v otevřenym okně, hlavu lehce venku a jinak jsem celej pod peřinou. Kolem vlaku je tma. Jasná noční obloha září a v dálce se pomalu posouvaj obrysy Tater. Letos to bylo celý nějaký pěkný a jednoduchý.
 

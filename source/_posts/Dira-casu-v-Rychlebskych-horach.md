@@ -14,7 +14,7 @@ tags:
 Nabírám Annu v Rychnově nad Kněžnou. Ghettokárou si krájíme tmu na silnici směr Horní Lipová. Nevím, kam jedeme. Mám jen slíbenou úžasnost v lesích.
 <!-- more -->
 
-Bouchnutí dvěří auta a už stoupáme korytem potoka v tmavém lese. Hluboce oddychujíc, škrábeme se ke Třem studánkám. Nádech, výdech a pouštíme se zase dolů. Po delším sestupu se u cesty zjeví srub zapadlý u potoka v údolí. Terasa má krb, ale jinak je zamčeno. Jsem lehce zklamán. Čekal jsem větší pecku. Pak už jen vidím, jak se mi Anna směje: _{% quote %}Tak pojď, jdeme.{% endquote %}_ A vede mě ke skutečnému cíli.
+Bouchnutí dvěří auta a už stoupáme korytem potoka v tmavém lese. Hluboce oddychujíc, škrábeme se ke Třem studánkám. Nádech, výdech a pouštíme se zase dolů. Po delším sestupu se u cesty zjeví srub zapadlý u potoka v údolí. Terasa má krb, ale jinak je zamčeno. Jsem lehce zklamán. Čekal jsem větší pecku. Pak už jen vidím, jak se mi Anna směje: _„Tak pojď, jdeme.“_ A vede mě ke skutečnému cíli.
 
 Mezi stromy se vyloupne světýlko stojící na obzoru. Teplo a pocit domova. Malá dřevěná chaloupka. V kamnech praská oheň, hrníčky visí na hřebících, knihovnička plná knížek a časopisů, sud s jídlem všeho druhu. Tři vandráci nám dneska budou dělat společnost.
 
@@ -61,7 +61,7 @@ Drápeme se za ním. Fouká a je teplý vlahý vzduch. Na vrcholu Pradědu stoj�
 
 Sestup zpět na Ovčárnu. Tentokrát přenechávám volant Anně. Užívám si spolujízdu. Řídí dobře a nebojí se.
 
-V ghettokáře ještě dostávám tour de RNK. Pak jen objetí, úsměv, {% quote %}ahoj{% endquote %} a citový derilium na dálnici do Prahy. Jsem zabouchnutej až po uši. Je to slastný a trochu to bolí. Ujišťuju se ale, že mě nemá co bolet. To, co mě bolí, je jen hysterickej strach, že ta náklonnost je jednostraná. A ona nejspíš je. Ale co je mi po tom, když s Annou můžu podnikat takovýhle výlety a celý den rozjímat v lese nad skalama. To je totiž to, co mě naplní. Ne dočasný ujištění o opětovaný lásce.
+V ghettokáře ještě dostávám tour de RNK. Pak jen objetí, úsměv, „ahoj“ a citový derilium na dálnici do Prahy. Jsem zabouchnutej až po uši. Je to slastný a trochu to bolí. Ujišťuju se ale, že mě nemá co bolet. To, co mě bolí, je jen hysterickej strach, že ta náklonnost je jednostraná. A ona nejspíš je. Ale co je mi po tom, když s Annou můžu podnikat takovýhle výlety a celý den rozjímat v lese nad skalama. To je totiž to, co mě naplní. Ne dočasný ujištění o opětovaný lásce.
 
 {% asset_img R1-05693-019A.jpg %}
 

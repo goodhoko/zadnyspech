@@ -27,7 +27,7 @@ Bydlíme ve Starý škole. Maj tam obrovskou půdu, kam jenom položili koberec,
 {% asset_img R1-24.jpg %}
 {% asset_img R1-23.jpg %}
 
-V sobotu navozujeme režim {% quote %}Pot, Alkohol, THC{% endquote %}. Je to dobrej režim. Být stále lehce mimo, stále lehce veselej a zároveň dráždit srdíčko k tepům okolo dvoustovky. Mám to rád.
+V sobotu navozujeme režim „Pot, Alkohol, THC“. Je to dobrej režim. Být stále lehce mimo, stále lehce veselej a zároveň dráždit srdíčko k tepům okolo dvoustovky. Mám to rád.
 
 {% asset_img R1-06.jpg "Petrova chytrá hůlka" %}
 {% asset_img R1-27.jpg %}

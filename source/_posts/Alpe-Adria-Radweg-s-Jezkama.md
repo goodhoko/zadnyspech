@@ -99,7 +99,7 @@ Už je znatelná lehká změna krajiny. Jakoby bylo cítit, že se blížíme k 
 
 Při neustálém klesání se přímo před náma otevíraj Julský Alpy a Triglav. Všude, kde to jen jde, jsou vodní elektrárny. Z každýho kopce vedou do údolí mohutný trubky. Každá kapka využita.
 
-Po několika dnech v {% quote %}divočině{% endquote %} jsme odvaření z města. Ale není čas se zdržovat. Pokračujeme dál. Ve tmě to kempíme u řeky.
+Po několika dnech v „divočině“ jsme odvaření z města. Ale není čas se zdržovat. Pokračujeme dál. Ve tmě to kempíme u řeky.
 
 _Den 5. | 108 km | [Strava](https://www.strava.com/activities/378199278)_
 

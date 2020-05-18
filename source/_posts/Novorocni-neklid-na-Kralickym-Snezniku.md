@@ -27,16 +27,16 @@ Na 10. kilometru konečně překračuju sněžnou linii. Na protějšim svahu ro
 
 {% asset_img PC310059.jpg %}
 
-Pod vrcholem se konečně les rozevírá v holou sněžnou pláň. Je jasno, lehce fouká a hrobový ticho. Úplně nahoře svítí jeden stan. Zdravím neznámé _{% quote %}Dobrý večer!{% endquote %}_ Stan mi to oplácí smíchem a láká:
-_{% quote %}Ahoj! Pojď dovnitř!{% endquote %}_
-_{% quote %}ummm...{% endquote %}_
-_{% quote %}No dělej, pojď dovnitř!{% endquote %}_
+Pod vrcholem se konečně les rozevírá v holou sněžnou pláň. Je jasno, lehce fouká a hrobový ticho. Úplně nahoře svítí jeden stan. Zdravím neznámé _„Dobrý večer!“_ Stan mi to oplácí smíchem a láká:
+_„Ahoj! Pojď dovnitř!“_
+_„ummm...“_
+_„No dělej, pojď dovnitř!“_
 OK. Soukám se dovnitř. 
 
 Dva chlapi a žena. Ikdyž duchem spíš dva kluci a holka. Okamžitě dostávám dávku rumu. Jen polehávaj ve spacácích a dělaj si pěknej večer. Smějou se mi, jak jsem mladičkej. Každej z nich už má totiž děti v mym věku.
-_{% quote %}Haha, a to jdeš takhle sám? Ty tady chceš někde přespat?{% endquote %}_
-_{% quote %}No.. jo. Chtěl jsem jít spát tady kousek ní...{% endquote %}_
-_{% quote %}Na to se vyser, tady je místa dost. Jsme v závětří a uvaříme guláš.{% endquote %}_
+_„Haha, a to jdeš takhle sám? Ty tady chceš někde přespat?“_
+_„No.. jo. Chtěl jsem jít spát tady kousek ní...“_
+_„Na to se vyser, tady je místa dost. Jsme v závětří a uvaříme guláš.“_
 
 Zatímco na vařici pomalu bublá guláš z pytlíku a rum ubývá spolu s cukrovím, kolem nás je slyšet víc a víc lidí. Nějaký poláci si vedle nás stavěj stan. A vůbec je docela rušno. Když v 11:40 vylejzáme ven, kolem už postává asi 100 lidí. Přijdu si jak na fesťáku.
 
@@ -58,8 +58,8 @@ Mlha se postupně rozestupuje. Užívám si samotu, zvuk lesa a pomalost chůze.
 {% asset_img P1010106.jpg "Kafe a teplá snídaně. Jou!" %}
 
 Když si na nástupišti ve Starym Městě zapálim brčko na cestu vlakem, fíra a průvodčí v jednom se na mě jenom usměje a zablýskne se mu v očích.
-_{% quote %}Nabídl bych vám, ale...{% endquote %}_
-_{% quote %}No, do Hanušovic bych dojel, to je jenom z kopce. Ale byl bych moc vysmátej, to by poznali.{% endquote %}_
+_„Nabídl bych vám, ale...“_
+_„No, do Hanušovic bych dojel, to je jenom z kopce. Ale byl bych moc vysmátej, to by poznali.“_
 Prohodíme ještě pár vět a už jedu v kabině a vyptávám se na všechny možný nejapný dotazy.
 
 {% asset_video P1010131.mp4 "Sorry, potřebuješ novější prohlížeč pro zobrazení tohodle videa." %}
