@@ -60,7 +60,7 @@ Snídaňový sortiment v samoobsluze je jen na trochu horší úrovni než u ná
 
 Dupeme. Po 50 km děláme zásadní chybu. Věříme trase, od mapy.cz, která nás zavede do divočiny. Stoupáme kolmo na kopec po rozbité cestě, klestíme si cestu křovím, koloběžky na zádech, kloužeme v bahně. Kuba s jeho stehnem sotva jde. To celé, jen abychom vystoupali 300 výškových metrů a pak je mohli v podobném terénu zase sklesat. Nahoře jsme nechali dobrou náladu a hodinu a půl času, kterého máme nejmíň. Dobrou náladu nám vracejí dole v dědině: ,,Máte teda štěstí, že jste nepotkali medvědy. Tam už ani lidi nechodí.” Musíme dál, není čas.
 
-{% asset_video IMG_1133.mp4 "Sorry, potrebuješ novější prohlížeč pro zobrazení tohodle videa." %}
+{% asset_vimeo 420856232 %}
 
 Proplétáme se kolem rozestavěné a jediné Slovenské dálnice až do Žiliny. Není čas, dupeme dál. Stíháme jen rychlé svačiny. Konečně začínáme stoupat ke hranicím. 20 km dlouhé stoupání. Je to příjemné, cestou sbíráme jablka, a čekáme na Kubu. Moc mu to nechutná. My s Michalem víme, že na vrcholu je hranice a cedule okresu. Výjezd končí 2km finishem proti Michalovi. Vítězím. Jsme v Česku (nebo spíš na Moravě).
 
