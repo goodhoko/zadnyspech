@@ -130,6 +130,7 @@ hr{
 			}
 		.post-tile .tile-details .excerpt {
 			margin-top: 1em;
+			line-height: 1.5;
 		}
 			.post-tile .tile-details .excerpt p {
 				margin: 0;
