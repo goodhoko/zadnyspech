@@ -19,7 +19,6 @@ body{
 ::-moz-selection {
 	background-color: #bbb;
 }
-
 ::selection {
 	background-color: #bbb;
 }
@@ -98,7 +97,6 @@ hr{
 	color: #777;
 	padding: 1em 0;
 }
-
 .post-tile {
 	position: relative;
 	width: 100%;
@@ -169,7 +167,6 @@ article {
 	    width: 100%;
 	    border: 1px solid #333;
 	}
-
 .tags {
 	margin: 1em 0;
 	color: #777;
@@ -177,9 +174,6 @@ article {
 	.tags span {
 		margin: 0 1em 0 0 ;
 	}
-
-
-
 @media screen and (max-width: 600px) {
 	h1 {
 		font-size: 2em;
@@ -208,8 +202,6 @@ article {
 				.post-tile .tile-details .tile-heading h3{
 					font-size: 1.8em;
 				}
-
-
 	article {
 		margin-top: 20px;
 	}
