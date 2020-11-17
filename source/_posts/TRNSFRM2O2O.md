@@ -27,7 +27,7 @@ Dneska, v sobotu, je ale na programu Alleycat. Letos ho diriguje BlážaOne. Pos
 
 *Start!* Startovní pole se rychle drolí do skupinek spřátelenejch jezdců. Jede se vlastně týmově. Bratrovraždit se bude až sprintem do cíle. Při plichtě bodů totiž rozhoduje pořadí právě tam.
 
-Naše skupinka čítá mě a Šimona. To neni překvapení že. Bombíme polňačky na fixkách. To by trochu překvapení být mohlo, ty polňačky. Ale Táborskej alleycat byl vždycky o trošičku blíž Blinduru než Monstertracku. Objíždíme všechny kontroly do jedný. Jenže pot nám kalí oči (a beztak jsme oba slepí vrtáci) a dvě kontroly prostě nenacházíme.
+Naše skupinka čítá mě a Šimona. To neni překvapení, že. Bombíme polňačky na fixkách. To by trochu překvapení být mohlo, ty polňačky. Ale Táborskej alleycat byl vždycky o trošičku blíž Blinduru než Monstertracku. Objíždíme všechny kontroly do jedný. Jenže pot nám kalí oči (a beztak jsme oba slepí vrtáci) a dvě kontroly prostě nenacházíme.
 
 {% asset_img R1-04515-011A.jpg %}
 

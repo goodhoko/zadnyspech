@@ -19,7 +19,7 @@ V devět ráno máme první. První prohlídku. Už téměř rok hledáme hnízd
 
 Po váhání odstavujeme auto na český straně Jiřetína a pokračujeme na kolech. Tyhle končiny vidím po několikátý, ale baví mě víc a víc. Pomalu ukrajujeme cestu na Horní Krupku, kde nás čekají další dvě prohlídky. Krušný hory jsou naštěstí ty nejlepší hory, pro jízdu na fixce. Jak je člověk jednou nahoře, jede skoro po rovině.
 
-V Krupce nejdřív míříme na Komáří vížku. Chyba. Kam se dá dojet autem, natož lanovkou je vždycky příliš ještěrů. Otáčíme to a vyčkáváme na vyhlídce v Horní Krupce. Jednu chatku máme vedle sebe, druhou za zády. Hodnotíme místo. Je to tu pěkný, to jó! Ale moc to tady smrdí člověčinou. Výhled je široký, ale vévodí mu uhelná pánev. Místo je na kraji vesnice, ale stejně mezi domy. Obě chatky jsou na strhnutí. Necháme si to projít hlavou.
+V Krupce nejdřív míříme na Komáří vížku. Chyba. Kam se dá dojet autem, natož lanovkou, je vždycky příliš ještěrů. Otáčíme to a vyčkáváme na vyhlídce v Horní Krupce. Jednu chatku máme vedle sebe, druhou za zády. Hodnotíme místo. Je to tu pěkný, to jó! Ale moc to tady smrdí člověčinou. Výhled je široký, ale vévodí mu uhelná pánev. Místo je na kraji vesnice, ale stejně mezi domy. Obě chatky jsou na strhnutí. Necháme si to projít hlavou.
 
 Odebíráme se zpátky na náhorní planiny a uleháme do trávy kousek od Adolfova. Hamaku od teď považuju za základní položku výletový výbavy. Zvedá komfort výletu minimálně tak moc, jako třeba vařič!
 
@@ -43,11 +43,11 @@ Když jsme z nejprudšího venku, nabíráme kurz na nějakou cyklo asfaltku v l
 
 V Děčíně se jako fata morgána zjevuje café Prostoru_. Tenhle obraz Dejvic je ale skutečný. Hostí nás dobrou kávou a obědem, ač je stále zavřeno. Jako bych se zase ocitl v kampusu mezi přednáškami. Jako sen.
 
-Vlakem s dvěma přestupy se, trochu hanebně, ale za to spokojeně necháváme vyvézt zpátky nahoru. Nahoru na Výsluní. Konkrétně teda na zastávku Rusová. Tu jsem měl vyhlídnutou už dlouho a dokonale splnila moje očekávání. Seskakujeme do štěrku a býlí, vlak nás opouští a my jsme dokonale nikde. Slunce nás neúprosně žene dál. Výsluní, Křimov, Hora Sv. Šebestiána. Hory, lesy, bordely a Vietnamci. Křižujeme bývalou železniční trať, která kdysi dávno přispěla k rozchodu s Alžbětou.
+Vlakem s dvěma přestupy se, hanebně, ale za to spokojeně, necháváme vyvézt zpátky nahoru. Nahoru na Výsluní. Konkrétně teda na zastávku Rusová. Tu jsem měl vyhlídnutou už dlouho a dokonale splnila moje očekávání. Seskakujeme do štěrku a býlí, vlak nás opouští a my jsme dokonale nikde. Slunce nás neúprosně žene dál. Výsluní, Křimov, Hora Sv. Šebestiána. Hory, lesy, bordely a Vietnamci. Křižujeme bývalou železniční trať, která kdysi dávno přispěla k rozchodu s Alžbětou.
 
 Přes štěrkové cesty dojíždíme na Nový Dům. Koupu se v černé vodě Starého Rybníka. A pak usychám ve žlutém světle večerního slunce. Léto AF.
 
-Dotahujeme to až do Zákoutí. Kde musíme slézt z kola a jen koukat a nasávat. Tohle. Tohle je ono. Tady něco *musíme* sehnat. V hospodě na kopci dáváme kulajdu a cibulačku k tomu a uleháme do trávy opodál. Je to tady všechno. Výhled do lesa i do krajiny. Lidé, ale jen trošku. Kultivované a krásné. Taky nám jeden místní říká, že čekal třináct let, než tady něco sehnal. Důležitý je, že víme, že to co chceme existuje.
+Dotahujeme to až do Zákoutí. Kde musíme slézt z kola a jen koukat a nasávat. Tohle. Tohle je ono. Tady něco *musíme* sehnat. V hospodě na kopci dáváme kulajdu a cibulačku k tomu a uleháme do trávy opodál. Je to tady všechno. Výhled do lesa i do krajiny. Lidé, ale jen trošku. Kultivované a krásné. Taky nám jeden místní říká, že čekal třináct let, než tady něco sehnal. Důležitý je, že víme, že to, co chceme, existuje.
 
 Budí mě kapky ťukající mi na víčka. Prší. Anna velí rychlý přesun do lesa. Pod ochranou hustých smrků na suchém jehličí usínáme po druhé. Než usnu pozoruju blesky v dálce. Podle radaru někde u Plzně. (Ty vogo!)
 
