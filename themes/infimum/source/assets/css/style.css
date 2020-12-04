@@ -168,6 +168,13 @@ article {
 	    width: 100%;
 	    border: 1px solid #333;
 	}
+	article code {
+		background-color: #ddd;
+		padding: 1px 4px;
+	}
+	article blockquote {
+		color: #666;
+	}
 .tags {
 	margin: 1em 0;
 	color: #777;
