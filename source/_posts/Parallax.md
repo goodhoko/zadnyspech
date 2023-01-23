@@ -16,16 +16,16 @@ Not every frame is like this, but many are, especially the parallax. It's agile 
 ## It demands from the rider
 There are only _three_ gears: in the saddle, standing up and walking[1]. The latter is reserved for the 'extreme' situations and generally can be avoided with enough force or lack of fear. The fact with the remaining two is that there's not much free choice. The bike chooses for you. Going uphill, the only way for staying in the 'first gear' is to keep your cadence hence speed hence ramp up the power. And once I'm standing up in the pedals my race mode just fires instinctively. What's the point of wriggling under the forces if this stupidly high gear if I'm not giving it all I have?
 
-Then there's also the illusion of inverted power. Riding single speed it seems that the slower you go the harder it gets. Yeah, we all know that force ≠ power and your hear rate will confirm that too. Anyway it just feels natural to accelerate vigorously to get to the optimal cadence as soon as possible or to sprint up hillocks to avoid dropping out of it.
+Then there's also the illusion of inverted power. Riding single speed it seems that the slower you go the harder it gets. Yeah, we all know that force ≠ power and your heart rate will confirm that too. Anyway it just feels natural to accelerate vigorously to get to the optimal cadence as soon as possible or to sprint up hillocks to avoid dropping out of it.
 
-Fixed gear is comparatively harder but it also encourages you to push harder.
+Fixed gear is comparatively harder but at the same time it encourages you to push harder.
 
 <!-- TODO: photos of pushing hard -->
 
 ## _The flow_ is real
-_"On fixie you just get into this flow..."_ You probably heard this one. The flow is a concept that's hard to to explain. Many activities can get you into flow. Riding a bike, a car or a paraglider, writing a blog post, programming or opening beer bottles. Most people have an intuition of what it is like to be _in_ the flow and I won't try to to describe that here. Let's just assume it exists and that it's a good and fun place to be.
+_"On fixie you just get into this flow..."_ You probably heard this one. The flow is a concept that's hard to explain. Many activities can get you into flow. Riding a bike, a car or a paraglider, writing a blog post, programming or opening beer bottles. Most people have an intuition of what it is like to be _in_ the flow and I won't try to describe that here. Let's just assume it exists and that it's a good and fun place to be.
 
-I believe fixed gear makes it really easy to get into the flow. In fact, it often demands it (just as the power) and can punish you for being out of it. Especially in heavy traffic. You can't stop (quickly) and all your senses and instincts must be focused on your path predicting the unpredictable and planning escape routes, constantly re-evaluating changing environment and executing the plan. This takes all of (my, at least) concentration and leaves no room for other thoughts. It puts me in the flow.
+I believe fixed gear makes it really easy to get into the flow. In fact, it often demands it (just as the power) and can punish you for being out of it. Especially in heavy traffic. You can't stop (quickly) and all your senses and instincts must be focused on your path, predicting the unpredictable and planning escape routes, constantly re-evaluating changing environment and executing the plan. This takes all of (my, at least) concentration and leaves no room for other thoughts. It puts me in the flow.
 
 Mastering track bike on the streets is not as much about physical skills as about being able to put the mind into this state of 100% concentration. Kinda like meditation. Sometimes, after a proper ride, I feel like I just meditated.
 
@@ -37,7 +37,10 @@ Fixies are really quiet. I usually appreciate this when cruising stoned through 
 <!-- TODO: photo at night? -->
 
 ## Legs control it all
-I enjoy how I can both accelerate and decelerate with just my legs. It makes the ride feel more fluid and less jugged compared to when I can just jam on the brakes. This contributes to the flow fleeing. It also moves my favorite game up another level. I reserve this game for when I'm to tired to be in the flow and I just wanna get peacefully to the destination. The goal is simply to ride no-handed as far as possible through the city. With a fixed gear it's easy 'cos you can brake.
+I enjoy how I can both accelerate and decelerate with just my legs. It makes the ride feel more fluid and less jagged compared to when I can just jam on the brakes. This contributes to the flow feeling. It also moves my favorite game up another level. I reserve this game for when I'm too tired to be in the flow and I just wanna get peacefully to the destination. The goal is simply to ride no-handed as far as possible through the city. With fixed gear it's easy 'cos you can brake.
+
+<!-- TODO: photo of rider with no hands no legs -->
 
 
-[1] Ondřej Buddeus, Je to jízda, Praha, Paseka - 2021, 978-80-7637-196-5 
+
+[1] Buddeus Ondřej, Je to jízda, Prague, Paseka - 2021, ISBN: 978-80-7637-196-5
