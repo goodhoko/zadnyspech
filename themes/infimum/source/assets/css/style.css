@@ -166,8 +166,9 @@ article {
 		margin: 2em 0;
 	}
 		article .asset * {
-			width: 90%;
+			max-width: 90%;
 			box-shadow:  -14px 14px 15px #b0b0b0;
+			max-height: 95vh;
 		}
 	article .excerpt p {
 		margin: 0 0 2em 0;
