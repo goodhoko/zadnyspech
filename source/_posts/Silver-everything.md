@@ -20,7 +20,7 @@ The red paint was some poorly executed spray can under which I discovered a dece
 
 What I like the most about this bike is how strangely it divides people. After few weeks of flexing with it here and there I observed that "cycling people" don't like it much. It's too silver or boring or just weird. However, people who know nothing about bikes just love it.
 
-Anyway, this bike is for sale for 15000 CZK. Reach out to [bike@buhvi.co](mailto:bike@buhvi.co). I'm already building something more gravely for me.
+Anyway, this bike is for sale for 15000 CZK. Reach out to [bike@jentak.co](mailto:bike@jentak.co). I'm already building something more gravely for me.
 
 {% asset_img R1-00085-027A.jpg %}
 {% asset_img R1-00085-013A.jpg %}
