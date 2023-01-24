@@ -14,7 +14,7 @@ hexo.extend.filter.register('after_post_render', data => {
 		let title = img.match(/title="(.*?)"/)
 		title = title ? title[1] : ''
 
-		return `<a href="${src}" title="${title}" data-src="${src}" class="gallery-item" target="_blank"><img src="${thumbnail}" alt="${title}" title="${title}"></a>`
+		return `<a href="${src}" title="${title}" data-src="${src}" class="asset gallery-item" target="_blank"><img src="${thumbnail}" alt="${title}" title="${title}"></a>`
 	})
 
 	return data;
@@ -28,7 +28,7 @@ hexo.extend.tag.register('asset_video', function(args, content){
 		ext = path.extname(file),
 		alt = args[1] || 'Čas vylézt z jeskyně a začít používat prohlížeč, kterej umí zobrazit html5 video.'
 
-	return  '<div class="video-wrapper">' +
+	return  '<div class="asset">' +
 				'<video width="100%" controls>' +
 					'<source src="./' + file + '"type="video/' + ext + '">' +
 					alt +
@@ -39,14 +39,16 @@ hexo.extend.tag.register('asset_video', function(args, content){
 
 
 hexo.extend.tag.register('asset_vimeo', function(args){
-	return `<div style="padding:56.25% 0 0 0;position:relative;">
-		<iframe
-			src="https://player.vimeo.com/video/${args[0]}?color=ffffff&title=0&byline=0&portrait=0"
-			style="position:absolute;top:0;left:0;width:100%;height:100%;"
-			frameborder="0"
-			allow="autoplay; fullscreen"
-			allowfullscreen
-		></iframe>
+	return `<div class="asset">
+		<div style="padding:56.25% 0 0 0;position:relative;">
+			<iframe
+				src="https://player.vimeo.com/video/${args[0]}?color=ffffff&title=0&byline=0&portrait=0"
+				style="position:absolute;top:0;left:0;width:100%;height:100%;"
+				frameborder="0"
+				allow="autoplay; fullscreen"
+				allowfullscreen
+			></iframe>
+		</div>
 	</div>
 	<script src="https://player.vimeo.com/api/player.js"></script>`
 });

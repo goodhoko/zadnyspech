@@ -150,13 +150,17 @@ hr{
 	padding: 1em 0;
 }
 article {
-	line-height: 1.5;
-	color: #333;
+	line-height: 1.7;
+	color: #444;
 }
-	article img {
-		width: 100%;
-		padding: 5px 0;
+	article .asset {
+		display: flex;
+		justify-content: center;
+		margin: 1em 0;
 	}
+		article .asset * {
+			width: 90%;
+		}
 	article .excerpt p {
 		margin: 0 0 2em 0;
 		font-size: 1.4em;
@@ -222,6 +226,9 @@ article {
 	}
 		article .excerpt p{
 			font-size: 1.2em;
+		}
+		article .asset * {
+			width: 100%;
 		}
 	.footer-navigation {
 		flex-direction: column;
