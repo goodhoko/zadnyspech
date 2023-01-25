@@ -19,7 +19,7 @@ Po přistání s falafelem v ruce mířim rovnou do Royal Oak. Jako vždy plno, 
 
 {% asset_img R1-16A.jpg %}
 
-Na parkovišti jednoho z mála lyžařskejch středisek v Anglii měníme pneumatiky za pohorky. Po pár hodinách nastupuje samota a hory začínaj zpívat. Drápeme se po skalách na náhorní plateau. Tam se do nás okamžitě opírá vichr. My si ale neseme pohodlí pod šusťákem a touláme se přes sněhový pláně, louky, brody i skály. Míříme na vrchol Ben Macdui. Easy pie. Co dál? Rozhlížíme se a prstem volíme travnatý sedlo, kde by šlo možná spát.
+Na parkovišti jednoho z mála lyžařskejch středisek v UK měníme pneumatiky za pohorky. Po pár hodinách nastupuje samota a hory začínaj zpívat. Drápeme se po skalách na náhorní plateau. Tam se do nás okamžitě opírá vichr. My si ale neseme pohodlí pod šusťákem a touláme se přes sněhový pláně, louky, brody i skály. Míříme na vrchol Ben Macdui. Easy pie. Co dál? Rozhlížíme se a prstem volíme travnatý sedlo, kde by šlo možná spát.
 
 Sestupujeme kolem jezer. Na jejich zrcadlovejch hladinách vichr předvádí svojí hbitost a sílu. V sedle pořád nemáme dost a slunce se zdá býti stále vysoko. Stoupáme teda k podivnejm kamenům čnějícím z kameninovejch vrcholů Beinn Mheadhoin. Slunce se schovává. Vítr je neústupnej a široko daleko není úkrytu. Obcházíme kamenný útvary s vidinou závětří, kam by šlo plácnout stan. Jeden malinkej plácek štěrku se nám naskýtá ač ne v závětří. Stěží šponujeme stan mezi balvany. Sepínáme zipy a vítr necháváme venku. Pro dnešek máme domov. Jsme tak plný života a jeden druhýho, že ani nevečeříme. Plachtovina stanu se celou noc hlasitě překřikuje s meluzínou našeho závětří.
 
