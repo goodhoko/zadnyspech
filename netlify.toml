@@ -1,6 +1,6 @@
 [build]
   publish = "public/"
-  command = "hexo generate"
+  command = "npm install --legacy-peer-deps && hexo generate"
 
 [build.environment]
   NODE_VERSION = "v19.4.0"
