@@ -50,7 +50,7 @@ highlight:
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: ''
+  path: ""
   per_page: 8
   order_by: -date
 
@@ -77,7 +77,7 @@ pagination_dir: minulost
 theme: infimum
 
 responsive_images:
-  pattern: '**/*.+(png|jpg|jpeg|JPG|JPEG)'
+  pattern: "**/*.+(png|jpg|jpeg|JPG|JPEG)"
   sizes:
     thumbnail:
       width: 1200 # it's visually better to overscale and use lower quality https://github.com/lovell/sharp/issues/2158

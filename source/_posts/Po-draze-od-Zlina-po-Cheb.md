@@ -3,17 +3,19 @@ title: Po dráze od Zlína po Cheb
 date: 2018-08-03 00:56:21
 featured: R1-19.jpg
 tags:
-- vlaky
-- kolo
-- chůze
-- Česko
-- Jízdenka na léto
-- bikepacking
-- lesy
-- Iva
-- Matouš
+  - vlaky
+  - kolo
+  - chůze
+  - Česko
+  - Jízdenka na léto
+  - bikepacking
+  - lesy
+  - Iva
+  - Matouš
 ---
+
 Je pátek dopoledne a já čekám na Hlaváku na Ivu, abychom mohli vyrazit vstříc Jižní Moravě. Nakupujeme lahváče, stírací losy a jízdenku na léto. Do Brna s náma chce jet, zdá se, celý Hlavní nádraží. Namačkaní v kupé očekáváme příjezd na Nádr.
+
 <!-- more -->
 
 Klub na dráze -- Zavřeno. Bajkazyl -- Zavřeno. Nezbývá než pivko v kavárně u Hadivadla. Po obědě (bulgur a hummus v Lidlu) roztáčíme silničky po skvělejch Moravskejch cyklostezkách. Jede to jak blázen.
@@ -28,7 +30,8 @@ Po koupačkách jedeme do města. Všude už maj zavřeno. Zbývaj jen snobský 
 
 Po pár dalších sklenicích se škrábeme přes skály na kopeček, kde si už jiní rozbalují karimatky. My nacházíme závětří o kousek dál s výhledem na tisíce (sic!) blikajících větrníků.
 
-## Horečka parný soboty ##
+## Horečka parný soboty
+
 Hned z rána na nás žlutej puchejř útočí paprskama a nenechá nás spát. Po snídani na dlažbě před místnim Coopem se nechávám pomalu navádět Ivou směr Tasov. Já jen tu a tam navrhnu, ať _„tady zastavíme na skleničku a brčko.“_
 
 {% asset_img R1-34.jpg %}
@@ -44,7 +47,8 @@ Zkoušíme ketamin. Je to sranda. Mentálně i osobnostně jsem to pořád já, 
 
 Opouštíme topolový háj a usínáme pod ořechem o vesnici vedle. Těžkej den.
 
-## Návrat do nereality ##
+## Návrat do nereality
+
 Matouš nás opouští neb nemá kolo. My zase snídáme rohlíky a sýr na dlažbě před Coopem. Nejdřív závodíme s časem, abychom stihli vlak z Otrokovic. Pak nám naštěstí dochází, že je lepší se nikam nehnat, dát si pivo, umotat a jet až vlakem následujícím. Tahle strategie se vyplácí dokonce dvojnásobně, protože k nám v Kolíně přistupuje Matouš a jakoby nic vytahuje z batohu 3 Bakaláře.
 
 {% asset_img IMG_4416.jpg %}
@@ -52,14 +56,16 @@ Matouš nás opouští neb nemá kolo. My zase snídáme rohlíky a sýr na dla�
 
 Přijíždíme do Prahy. Stojíc v uličce, hlavy z okýnka pozorujeme známou a oblíbenou sérii: Libeň, Karlín, chvilka očekávání v tunelu a Praha od Florence po hrad. Je teplej podvečer a je jasný, že ho nemůžeme nechat jen tak vyšumět. Míříme rovnou do Kasáren za pivem, kamarádama a pohodou.
 
-## Ponedělní toulky vlakem ##
+## Ponedělní toulky vlakem
+
 Den otvírám lehkou kocovinou a krátkou homeoffice směnou. Hned na to mířim na Hlavák na místo srazu s Matoušem. Prohlížíme si tabuli odjezdů a bereme třeba první rychlík do Domažlic. Tam osobák do Tachova. Po večeři míříme po lesní štěrkový cestě hledat místo na spaní. V tom si všimnu krátkýho zableskuntí u Matoušovy podrážky. Koukám ještě jednou -- a fakt! Od podrážky mu lítaj jiskry. A mě taky! Nakopnu nejbližší kámen. Odskakuje daleko do tmy a při každym odrazu o zem za sebou nechá modrou jiskřičku. Nabírám plnou hrst štěrku a mrštím s ním o zem. Hejno světýlek se nám mihne před očima. Je to jako kouzla.
 
 {% asset_img R1-05183-002A.jpg %}
 {% asset_img R1-11.jpg %}
 {% asset_img R1-12.jpg %}
 
-## Krušný úterý ##
+## Krušný úterý
+
 Probuzení do šumu lesa.
 
 {% asset_img R1-09.jpg "Takhle vypadá dobrý ráno." %}
@@ -74,7 +80,8 @@ Na Perninku si užívám nostalgii z let, kdy jsem se učil lyžovat a hodiny js
 
 Večeříme přímo na mostě. Napínáme uši a čekáme na projíždějící osobák. Krásně se protáhne pod náma a mizí ve tmě. Popíjíme ale Matoušovi to nějak nechutná. Zdržuje se večerního brka a pak i vína.
 
-## Středa -- běda ##
+## Středa -- běda
+
 Když se vzbudím, Matouš vedle mě leží úplně zelenej. Celou noc problil a prosral. Celej hoří a vypadá hrozně. Pobalim nás a abychom se nemuseli do nemocnice složitě drkotat vlakama, volám sanitku.
 
 {% asset_img R1-26.jpg "Takhle vypadá špatný ráno." %}
@@ -83,7 +90,8 @@ Zatímco Matouš se veze s houkačkou, já se odebírám ku vlaku. Čeká mě pa
 
 {% asset_img R1-28.jpg %}
 
-## Asfalty Šumavy ##
+## Asfalty Šumavy
+
 Zbývá poslední den jízdenky na léto. Beru silničku a jedu si užít Šumavský asfaltky. Z Nový Pece přes Stožec, Strážný, Knížecí Pláně, Bučinu, Kvildu, Modravu, Javoří Pilu, Prášily, Železnou Rudu, Špičák, Hamry až do Nýrska. Klostermann by měl radost.
 [strava.com/activities/1760853986](https://www.strava.com/activities/1760853986)
 

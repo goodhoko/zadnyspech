@@ -3,17 +3,20 @@ title: Koloběh a kolaps v Rumunsku
 date: 2017-09-11 21:24:06
 featured: imm009_12A.jpg
 tags:
-- kolosvětoběh
-- koloběh
-- Rumunsko
-- Kopečák
-- Šmahy
+  - kolosvětoběh
+  - koloběh
+  - Rumunsko
+  - Kopečák
+  - Šmahy
 ---
+
 Zase jsme se jednou potkali s Kubou a Michalem, abychom vymysleli další epickou trasu, kterou během několika dní zdoláme na koloběžkách. Koukli jsme na naši [loňskou expedici](/Kosice-Praha-na-kolobezce/) z Košic do Prahy a bylo jasno: navážeme a budeme pokračovat v cestě kolem světa. Koupili jsme si lístek na vlak z Košic do Prahy, udělali na mapě kružnici o poloměru 800 km a bylo jasno. Pojedeme z Bukurešti.
+
 <!-- more -->
 
-## Logistika ##
-__možná skončíme hned na Hlaváku__
+## Logistika
+
+**možná skončíme hned na Hlaváku**
 
 {% asset_img IMG_3317.jpg "hlavně ten Braník že jo" %}
 
@@ -31,8 +34,9 @@ Hladké dosednutí na letišti Henri Coanda. Stavíme koloběžky. S Michalem st
 
 {% asset_img imm011_N11.jpg %}
 
-## Jedeme ##
-__proti větru pod hory__
+## Jedeme
+
+**proti větru pod hory**
 _DEN PRVNÍ :: 130.7 km :: [strava.com/activities/1181140719](https://www.strava.com/activities/1181140719)_
 
 {% asset_img imm012_N12.jpg %}
@@ -45,7 +49,7 @@ Nemůžeme se shodnout, jestli je to rurální nebo rustikální, každopádně 
 
 {% asset_img imm004_N4.jpg %}
 
-Bojujeme s větrem na silnici první třídy jejíž povrch je ale spíš štěrk. Každé auto i kamion znamená několik zásahů kamínky do obličeje a prach v očích. Protivítr a nekonečné roviny se snažíme porazit střídáním na čele. Kubovi to ale moc nechutná a musí to zalomit na šlofíka v pangejtu u sámošky. 
+Bojujeme s větrem na silnici první třídy jejíž povrch je ale spíš štěrk. Každé auto i kamion znamená několik zásahů kamínky do obličeje a prach v očích. Protivítr a nekonečné roviny se snažíme porazit střídáním na čele. Kubovi to ale moc nechutná a musí to zalomit na šlofíka v pangejtu u sámošky.
 
 {% asset_img imm016_N16.jpg %}
 
@@ -63,8 +67,9 @@ _// Poučka do Rumunska #2: V Rumunsku je levno a většinou není problém zapl
 
 Zatímco projíždíme městem směr periferie s vidinou romantického místa na spaní, nás dvakrát řádně proženou divocí psi. Měníme priority a hledáme hlavně něco, kde nás nic nepokouše. Nakonec objevíme postel z betonu – na hrázi obrovské přehrady. Dobrou noc.
 
-## Hory ##
-__z krajiny psů do krajiny medvědů__
+## Hory
+
+**z krajiny psů do krajiny medvědů**
 _DEN DRUHÝ :: 171.2 km :: [strava.com/activities/1182678958](https://www.strava.com/activities/1182678958)_
 
 {% asset_img WP_20170913_06_34_26_Pro.jpg %}
@@ -111,10 +116,10 @@ U další vesnice zastavujeme a steleme si na velkém dřevěném stole pod polo
 
 V noci mě vzbudí štěkání. Slyším odhadem 10 psů. Jak na trní naslouchám, jestli se štěkot blíží, po pár minutách dospěji k názoru že ne, s námahou usínám.
 
-## Krize ##
-__hlavně přečkat zkoušku třetího dne__
-_DEN TŘETÍ :: 182.3 km :: [strava.com/activities/1184165343](https://www.strava.com/activities/1184165343)_
+## Krize
 
+**hlavně přečkat zkoušku třetího dne**
+_DEN TŘETÍ :: 182.3 km :: [strava.com/activities/1184165343](https://www.strava.com/activities/1184165343)_
 
 Nějakým zázrakem stojíme v 8 hodin ráno na nohou a dupeme. Kroutíme se kopcovitou krajinou a máme radost, že to pěkně ubíhá.
 
@@ -126,7 +131,7 @@ Kolem 10. zavítáme na živé náměstí do restaurace, kde kvůli číšníkov
 {% asset_img IMG_3386.jpg %}
 {% asset_img IMG_3391.jpg %}
 
-Pak volíme zkratku přes hliněné cesty a ovčí pastviny. Jednou kvůli psům radši popadáme klacky, naštěstí pak ze stínu houkne pastevec a psi nás nechají být. 
+Pak volíme zkratku přes hliněné cesty a ovčí pastviny. Jednou kvůli psům radši popadáme klacky, naštěstí pak ze stínu houkne pastevec a psi nás nechají být.
 
 Je před námi asi nejlepší úsek celé trasy. Svítí slunce, je asi 30 stupňů, do dálky se táhne krajina žlutých travin na kopcích, ze kterých občas vykukují skály. Široko daleko není nic, jen hliněná cesta kroutící se naším směrem.
 
@@ -135,7 +140,7 @@ Je před námi asi nejlepší úsek celé trasy. Svítí slunce, je asi 30 stup�
 
 Zpět na silnici se dostáváme na konci asi dvaceti kilometrového slepého úseku, takže si užíváme absolutní pohodu bez aut. Michal bere jednu župu ve výběhu (Asfalt nahradil hluboký štěrk a tak musíme koloběžky chvíli tlačit.)
 
-V půl osmé večer dáváme piknik u špinavé řeky. Máme najeto asi 120 km. Jsem nasraný. Hrozně se flákáme. Průměrnou rychlost pohybu máme stejnou jako minulý rok na Slovensku, takže to musí být tím, že častěji a déle posedáváme. 
+V půl osmé večer dáváme piknik u špinavé řeky. Máme najeto asi 120 km. Jsem nasraný. Hrozně se flákáme. Průměrnou rychlost pohybu máme stejnou jako minulý rok na Slovensku, takže to musí být tím, že častěji a déle posedáváme.
 
 {% asset_img IMG_3431.jpg %}
 
@@ -155,9 +160,10 @@ Pomalu stoupáme a nikde nejsou žádní psi, jen spoustu cikád a hvězdy na ne
 
 Asi 2 km před Kluží nacházíme zahrádku před jednou ze sámošek. Deštníky, lavice, posekaná tráva. Ideální útočiště. Netrvá to ani 10 minut a spíme.
 
-## Doom ##
-__obrat naruby__
-_DEN ČTVRTÝ :: 92 km ::  [strava.com/activities/1185350506](https://www.strava.com/activities/1185350506)_
+## Doom
+
+**obrat naruby**
+_DEN ČTVRTÝ :: 92 km :: [strava.com/activities/1185350506](https://www.strava.com/activities/1185350506)_
 
 Hned z rána sjíždíme do Kluže a jsme trochu opařeni civilizací. Po třech dnech pastevců a babiček s nůšemi potkáváme na ulici pěknou holku. Snídáme croissanty a espresso. Jiný svět, fakt. Z Kluže stoupáme na náhorní plošinu k malému jezeru a pak se zase kroutíme údolím.
 
@@ -169,7 +175,7 @@ Pak se ale věci začnou rychle ubírat špatným směrem. Je mi zle. Jen doufá
 
 {% asset_img imm006_7A.jpg %}
 
-Po chvíli se vrátí za mnou a ukládají mě na karimatku do trávy. Nedokážu přesně říct, co mi je, ale chce se mi zvracet, jsem slabý a při každém pohybu mam pocit, že umřu. Po pár minutách úkoluji kluky, ať mi zavolají sanitku. A tak o chvíli později sedím na prahu sanitky, dostávám injekci a zvracím na zem. 
+Po chvíli se vrátí za mnou a ukládají mě na karimatku do trávy. Nedokážu přesně říct, co mi je, ale chce se mi zvracet, jsem slabý a při každém pohybu mam pocit, že umřu. Po pár minutách úkoluji kluky, ať mi zavolají sanitku. A tak o chvíli později sedím na prahu sanitky, dostávám injekci a zvracím na zem.
 
 {% asset_img imm005_6A.jpg %}
 
@@ -177,8 +183,9 @@ Následuje odvoz do lokální ambulance v Jibou. Bohužel nikdo neumí anglicky.
 
 {% asset_img imm002_2A.jpg %}
 
-## Mašina kaput ##
-__vlak místo koloběžky__
+## Mašina kaput
+
+**vlak místo koloběžky**
 
 Máme asi 24 hodin na to, dostat se z Rumunského venkova do Košic. Volíme cestu vlakem. Čeká nás asi 8 přestupů.
 
@@ -190,7 +197,8 @@ Rumunské lokálky jsou kouzelné. Rozpadlé vlaky, rozbitá okna, kabely visíc
 
 Drkotáme se dál Maďarskem přes Debrecen a Miskolc do Košic. Je po půlnoci a zbývá jen počkat na náš vlak s odjezdem v 5 ráno. Na nádraží si ještě stihneme udělat Košické kamarády, které ale bohužel vyhodí z našeho LeoExpressu protože kradou lahve s vodou. Pak už se jen necháváme uspat lehkým drncáním.
 
-## Domov ##
-__konečně. uf.__
+## Domov
+
+**konečně. uf.**
 
 Vyčerpaní a ospalí, vysazeni na Hlavním nádraží, skládáme kolobky a rozjíždíme se domů. S Rumunskem máme ještě nevyřízené účty. Musíme se tam vrátit a dojet zbylých 250 kilometrů z Jibou do Košic, abychom zalepili mezeru v naší cestě kolem světa.

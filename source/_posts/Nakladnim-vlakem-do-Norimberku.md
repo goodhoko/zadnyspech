@@ -3,12 +3,14 @@ title: Nákladním vlakem do Norimberku
 date: 2016-07-09 13:59:24
 featured: Capture.png
 tags:
-- vlaky
-- Německo
-- nákladní vlaky
-- Kopečák
+  - vlaky
+  - Německo
+  - nákladní vlaky
+  - Kopečák
 ---
+
 V Kolíně jsme naskočili na vlak. V Praze se vyčůrali. V Chebu naobědvali. V Norimberku dali pivo. A celou cestu nás vezl jeden vlak.
+
 <!-- more -->
 
 V poledne osobák z Hlaváku do Všetat. Bereme lahváče a šplháme na nejbližší stožár, abychom měli přehled. Za prvních 10 minut dva projíždějící vlaky. Pak hodinu a půl čistá nula. Všetaty jsou mrtvý. Zpátky do Prahy a rychlík do Kolína.
@@ -70,4 +72,3 @@ Snídaně. Chvíli si zahrajeme na jeho Commodore64 a pak už metrem na výpadov
 Rekapitulační pivo. Domov.
 
 {% asset_img IMG_4550.jpg %}
-

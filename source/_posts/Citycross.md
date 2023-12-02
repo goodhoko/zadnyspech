@@ -3,10 +3,12 @@ title: Citycross
 date: 2022-08-23 13:01:51
 featured: 1.jpg
 tags:
-- běh
-- město
+  - běh
+  - město
 ---
+
 Pro někoho možná není město a běh úplně samozřejmou kombinací. Není se čemu divit. Hluk, tvrdý rozpálený asfalt, vzduch že by se dal krájet, semafory stojící v cestě stabilnímu tempu, nebezpečně rychlá auta nebo zákoutí, kam se jen těžko odvážit po setmění bez čelovky. Zvlněná pěšina Šumavskou travinou zní přece jenom lákavěji, nebo ne?
+
 <!-- more -->
 
 Možná. Když si ale člověk rozšíří svoje představy o tom, co to znamená “jít běhat” zjistí, že město nabízí kvality a možnosti, které se jinde hledají těžko. Říkám téhle disciplíně úprku naskrz spěchajícím městem citycross a je to možná můj neoblíbenější běžecký žánr. Proč?

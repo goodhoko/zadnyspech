@@ -3,12 +3,14 @@ title: Author Horizon remake
 date: 2018-02-25 00:37:22
 featured: P9170016.jpg
 tags:
-- kolo
-- stavba kol
-- bikecheck
-- T9
+  - kolo
+  - stavba kol
+  - bikecheck
+  - T9
 ---
+
 Starý mámino kolo ve sklepě mě dráždilo už dýl. Zkusil jsem z trekový hrůzy udělat ocelovýho surovce, co se nebojí asfaltu ani pěšiny.
+
 <!-- more -->
 
 Ocelovej rám, dlouhej jak tejden. Nechal jsem ho opískovat ve [Starym krásnu](http://www.starekrasno.cz/), kde chlápek pískuje skvěle -- citlivě. Pak už ho stačilo osadit. Půl roku jezdit. Počkat až narostou růže rzi a zakonzervovat je pod matnym lakem.

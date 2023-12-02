@@ -3,11 +3,13 @@ title: Varšava
 date: 2019-03-04 15:06:03
 featured: r1-21.jpg
 tags:
-- Polsko
-- Varšava
-- Anna
+  - Polsko
+  - Varšava
+  - Anna
 ---
+
 Par týdnů zpátky nám Serža pověděl o ukrajinský kapele Dakha Brakha. Ta se nám tak zalíbila, že jsme se rozhodli nečekat až navštíví Prahu a jeli jsme jí naproti do Varšavy.
+
 <!-- more -->
 
 Využívám výhod naší nadnárodní korporace a píšu Aze z polskýho GoOutu, že je navštívím, že potřebuju dvě místa na spaní v kanclu a že by se nám hodily dva volňásky na koncert Dakha Brakha. Aga je žena činu a všechno je okamžitě ready.

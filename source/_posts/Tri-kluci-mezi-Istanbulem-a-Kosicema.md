@@ -3,20 +3,23 @@ title: Tři kluci mezi Istanbulem a Košicema
 date: 2018-10-17 20:50:47
 featured: R1-05694-0015.jpg
 tags:
-- kolosvětoběh
-- koloběh
-- Turecko
-- Bulharsko
-- Rumunsko
-- Ukrajina
-- Slovensko
-- Kopečák
-- Šmahy
+  - kolosvětoběh
+  - koloběh
+  - Turecko
+  - Bulharsko
+  - Rumunsko
+  - Ukrajina
+  - Slovensko
+  - Kopečák
+  - Šmahy
 ---
+
 Cesta na koloběžce z Istanbulu do Košic mi rozbourala můj sen o světě bez hranic. Ale jenom proto, aby mi ho znova utvrdila.
+
 <!-- more -->
 
-## Únik z Cařihradu ##
+## Únik z Cařihradu
+
 Vystupuju ze stojedenadevedesátky na prvnim terminálu. Nesouc koloběžku ve velký bedně na rameni se srážim s Michalem. Na Kubu musíme ještě počkat. Jako vždy má zpoždění. Turkish Arilines jsou nesmlouvavý a nechtěj nám uznat kartonový bedny jako zavazadla. Doplácíme 30 euro za „kolo“.
 
 {% asset_img 0E39DA27-E3D0-4981-AE26-06589C224C4D.jpg "V nošení velkejch krabic už mám docela praxi. Fotil Kuba" %}
@@ -54,7 +57,8 @@ Dost se toho dozvídám: Istanbul má patnáct milionů obyvatel. Hlavně kvůli
 
 _DEN 1 :: 83 km :: [trasa](https://www.strava.com/activities/1848702251)_
 
-## Odpadky mezi duby ##
+## Odpadky mezi duby
+
 Projíždíme Tureckej venkov. Všude čajovny a posedávající pánové. Turci jsou úžasný. Vždycky se zajímaj a ikdyž si nerozumíme ani slovo, vytáhnou z nás odkud jedem, kam jedem a odkud jsme. Taky pokaždý chtěj vědět, jestli jsme viděli Istanbul. Jsou na něj opravdu hrdý. To mě trochu překvapuje vzhledem k tomu, jak je to hnusný město.
 
 {% asset_img R1-05694-0008.jpg %}
@@ -78,7 +82,8 @@ Odebíráme se za hřbitov do borovicovýho hájku. Vesnický štěkající psi 
 
 _DEN 2 :: 155 km :: [trasa](https://www.strava.com/activities/1848702319)_
 
-## Slunečníky ##
+## Slunečníky
+
 Dnešní den strávíme celej v Bulharsku. Ráno začínáme dvaceti pěti kilometrama na lačno. Je to dost nepříjemný, ale ten pocit, když snídám a zároveň vim, že už mám 25 odkrouceno, to zdaleka převyšuje.
 
 {% asset_img R1-05694-0015.jpg "Ráno neni po koních ani památky. Byl to jen sen?" %}
@@ -104,7 +109,8 @@ V noci mě budí nějakej šutr pod karimatkou. Chvíli koukám do nebe -- hvěz
 
 _DEN 3 :: 160 km :: [trasa](https://www.strava.com/activities/1848702275)_
 
-## Teleport do kouzelnýho lesa ##
+## Teleport do kouzelnýho lesa
+
 Probuzení s rosou na spacácích. Zase točíme prvních 25 na lačno. Stojí to za to. Snídáme v Shumenu. Na kopci nad městem maj monstrózní betonovej památník. Z dálky vypadá jako nějaká šílená raketová základna ze studený války. Ve skutečnosti oslavuje něco jako 1300 let Bulharska. Nahoru se bohužel nemáme čas podívat. Ale z obrázků, který si googlíme u snídaně, je nám jasný, že přicházíme o hodně.
 
 Celej zbytek dne se trápíme na státovkách. Sere mě všechno. Nejdřív vedro, pak kopce, auta, kamiony. Sere mě Kuba, kterýmu to jede rychlejc z kopce, takže ho pak musim vždycky lepit na rovině nebo do kopce. Sere mě, že on je na tom fyzicky asi nejhůř, ale z kopce mu to odvaluje tak rychle, že ho neudržim ani z háku. A ještě si pak stěžuje, že jedeme moc rychle do kopce. Já mu dám. Beru vedení a poháněnej nasraností dupu jak nikdy. Bohužel jsme zrovna v krajině mírnejch kopečků a jedeme spíš z kopce. Takže zatímco já vpředu makám s jasnym cílem Kubovi ujet, on je jen zalehlej za mnou a veze se úplně zadarmo. Když už mám po patnácti kilometrech fakt dost, dochází mi, jak vtipně jsem se nechal nasrat, a že jsem zbytečně rozséval blbou náladu. Naštěstí mi z toho sprintu naskakujou endorfiny. (Nebo mi to prostě jenom dělá radost.) Začínám se smát a dobrá nálada je zpátky.
@@ -123,7 +129,7 @@ V Giurgiu, městě přesně na druhý straně Dunaje, je zase trochu znát ten r
 
 Přežraný jak čuňata vyjíždíme z města do tmy hledat nocleh. Máme vyhlídlej lesík pár kilometrů po cestě. Odbočujeme do něj z hlavní silnice. Jedeme po několik kilometrů dlouhý, rovný asfaltce. Je osvětlená žlutym světlem lamp, který jsou zarostlý v korunách stromů. Stejně jako celá cesta, která jakoby vedla tunelem z listí a větví.
 
-Nad hlavama nám prolítne sova. Bílá a absolutně neslyšná. Letí našim směrem a sedá si na lampu. Když ji dojedeme, letí s náma dál. Tím ale kouzelnej les teprv začíná. Cestu nám najednou křižuje liška. S ledovym klidem a očividnou lhostejností si nás jen prohlídne a pokračuje do houštin. Po několika set metrech před nás na cestu vyběhne čokl. Štěká a za sebou má štěňata. V tom se za náma objevuje auto. Prozáří tunel světlem. Pes před nim ustupuje.  V těsnym závěsu za autem objíždíme psa. Auto nám ujíždí. Pomalu pokračujeme až na konec cesty.
+Nad hlavama nám prolítne sova. Bílá a absolutně neslyšná. Letí našim směrem a sedá si na lampu. Když ji dojedeme, letí s náma dál. Tím ale kouzelnej les teprv začíná. Cestu nám najednou křižuje liška. S ledovym klidem a očividnou lhostejností si nás jen prohlídne a pokračuje do houštin. Po několika set metrech před nás na cestu vyběhne čokl. Štěká a za sebou má štěňata. V tom se za náma objevuje auto. Prozáří tunel světlem. Pes před nim ustupuje. V těsnym závěsu za autem objíždíme psa. Auto nám ujíždí. Pomalu pokračujeme až na konec cesty.
 
 Závora, před ní auto a 4 mladý vysokoškoláci. Jsou na prázdninách doma a zabíjej sobotní večer ježděnim autem a kouřenim. Giurgiu je prej hrozná díra a nedá se tam nic jinýho dělat. Posílaj nás hledat nocleh dál za závoru po lesní cestě. Nacházíme příjemnej plácek mezi stromama. Steleme. Vítr fouká. Koruny se kolíbaj a hvězdy jsou kamenně na svym místě. Do pár minut jsme v rauši.
 
@@ -138,7 +144,8 @@ Zkoušim udělat půl kroku dopředu a zuřivě zařvat. Psi dělaj dva kroky do
 
 _DEN 4 :: 157 km :: [trasa](https://www.strava.com/activities/1848702290)_
 
-## Končíme, abychom mohli začít ##
+## Končíme, abychom mohli začít
+
 Zbývá 80 kiláků do Bukurešti. Brnkačka. Zvolna ukrajujeme z nekonečnejch rovin hladkýho asfaltu. Panuje dobrá nálada, protože víme, že Bukurešť, hlavní cíl cesty, máme v kapse.
 
 {% asset_img R1-05694-0027.jpg "Některý rovný úseky tady maj třeba 13 kilometrů. To nezní jako moc, ale stačí to na to, aby nám to přišlo nekonečný." %}
@@ -166,7 +173,8 @@ Na kubovi se drncavá noc podepisuje nejvíc a nad ránem dává vzniknout fotce
 
 _DEN 5 :: 80 km :: [trasa](https://www.strava.com/activities/1848702215)_
 
-## Tady nemáš žádnou moc ##
+## Tady nemáš žádnou moc
+
 V 9:02 vyskakujeme z vlaku v Jibou. Odstavenej vlak na poslední koleji je po roce pořád na místě. Odpichujeme se směr sever a postupujeme venkovem severozápadního Rumunska.
 
 Venkov tady je dost jinej oproti jihu. Předevšim tady maj nádherný vesnice. Je tu čisto a žádný odpadky. Na dvorech uklizeno, ale ne nepřirozeně. Pořád si to zachovává hospodářskej charakter. Neni to jako u Němců, kde je všechno pünktlich a pravoúhlý. Navíc billboard tady neexistuje a plastový okna neznaj. Prostě fakt pěkný!
@@ -185,7 +193,7 @@ Jsme na Ukrajině. Silnice tady jsou úplně na píču. Jsme rádi, když maj v 
 
 _DEN 6 :: 131 km :: [trasa](https://www.strava.com/activities/1848702290)_
 
-## Vodka a ploty ##
+## Vodka a ploty
 
 {% asset_img R1-06582-004A.jpg %}
 
@@ -205,7 +213,8 @@ Posilnění odrážíme se do západu slunce směr Velká Šírava. Tam ze sebe 
 
 _DEN 7 :: 158 km :: [trasa](https://www.strava.com/activities/1848702317)_
 
-## Lůžkové vozy ##
+## Lůžkové vozy
+
 Zbejvá nám 60 kilometrů do Košic. Užíváme si to. Kolem poledne se z kopce snášíme do centra města. Jen těžko mi může plechovka piva na plácku před nádražim chutnat tak moc jako teď.
 
 Vlak do Prahy nám jede až v 10 večer. Smrdíme jak prasata a jsme strhaný. Jdeme do sauny. Sauna-bába na nás nejdřív kouká podezřívavě, ale když se s ní mezi rundama vedra dáváme potřetí do řeči, směle se vyptává, jestli máme děti a svěřuje se, že když jsme přišly musela dát _„aj sprej aj sviečky“_, jak jsme smrděli. Za to ale mohly hlavně Kubovy boty.

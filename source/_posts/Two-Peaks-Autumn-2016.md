@@ -3,11 +3,13 @@ title: Two Peaks Autumn 2016
 date: 2016-10-13 18:06:16
 featured: diplomy.jpg
 tags:
-- Praha
-- závod
-- běh
+  - Praha
+  - závod
+  - běh
 ---
+
 Závod městem, ve kterém jsem poprvé zažil, jaká je touha po výhře.
+
 <!-- more -->
 
 Two Peaks je závod, který by si zasloužil obrovskou pozornost, kterou ale naštěstí nechce. Dula se záměrně snaží, aby na závod nedorazilo moc lidí. Diplomy dělá co nejošklivější, aby je nikdo nechtěl, událost sdílí na poslední chvílí a nikam ji netlačí. Vlastně bych se o ní vůbec nedozvěděl, kdyby mi ji nepřipomněla kamarádka.
@@ -26,7 +28,7 @@ Svatý Prokop - DONE. Makej směr Vršovice. Na chodech sv. Václava zavazuji tk
 
 8 let jsem závodil na dráze a nikdy jsem nezažil takový pocit jako teď. Chci vyhrát. Musím vyhrát. Chci ten diplom. Musím ho mít. Vší silou to pálím směr Hrad. Na chvíli se ztrácím v uličkách starého města, zachraňuje mě mapa v mobilu. Nerudovkou po kostkách stoupám. Sáhnu si na dveře kostela a pádím dolů. Míjím se s dalším závodníkem. Sakra. Je tak 700 metrů za mnou. Co když? Co když…? Ze schodů a kopce si málem lámu nohy, jen abych si byl jistý, že mě nedohání.
 
-Otevírám dveře Tricafé 54 minut, 20 sekund  a 14 km po startu. Jsem první.
+Otevírám dveře Tricafé 54 minut, 20 sekund a 14 km po startu. Jsem první.
 
 {% asset_img mapa.png %}
 [strava.com/activities/743688842](https://www.strava.com/activities/743688842)

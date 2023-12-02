@@ -3,14 +3,16 @@ title: Zamrzlé Pardubice
 date: 2018-03-04 12:30:55
 featured: chrudimka.jpg
 tags:
-- Pardubice
-- Česko
-- Agáta
+  - Pardubice
+  - Česko
+  - Agáta
 ---
+
 S kamarádkou Agátou jsme se rozhodli prolomit zimní čekání na letní výlety a koupili jsme jízdenky do Pardubic.
 
 <!-- more -->
-Pardubice mi padly do oka, když jsem potkal kamarádku Elišku na fakultě architektury. Ptal jsem se jí na její diplomku. Pracuje na návrhu na revitalizaci opuštěného území kousek od centra Pardubic. Říká se mu [Červeňák](https://mapy.cz/s/2CcNk). Je to bývalý Vojenský prostor. Cvičili tady vojenští železničáři. Učili se stavět a rozebírat mosty a kolejnice. 
+
+Pardubice mi padly do oka, když jsem potkal kamarádku Elišku na fakultě architektury. Ptal jsem se jí na její diplomku. Pracuje na návrhu na revitalizaci opuštěného území kousek od centra Pardubic. Říká se mu [Červeňák](https://mapy.cz/s/2CcNk). Je to bývalý Vojenský prostor. Cvičili tady vojenští železničáři. Učili se stavět a rozebírat mosty a kolejnice.
 
 Pardubické nádraží je krásný ale dá práci to prohlídnout skrz vrstvy reklam, plakátů, cedulek a dalšího vizuálního bordelu.
 

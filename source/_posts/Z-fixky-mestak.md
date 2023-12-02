@@ -3,12 +3,14 @@ title: Z fixky měšťák
 date: 2018-12-28 21:31:40
 featured: P1010008.jpg
 tags:
-- kolo
-- stavba kol
-- bikecheck
-- T9
+  - kolo
+  - stavba kol
+  - bikecheck
+  - T9
 ---
+
 Tenhle rám jsem si v osmnácti koupil jako „fixie“ v krabici. Od tý doby neustále morfuje v to, co je zrovna potřeba. Letos je to plnohodnotnej měšťák.
+
 <!-- more -->
 
 Splňuje všechny parametry městskýho bombera. Zvonek na turisty. Blatníky proti tomu černohnědýmu svinstvu, co je při dešti v ulicích. Nesmrtelná obouchaná ocel, se kterou můžu jebnout o kandelábr. Bezstarostnost singlespeedu. Nosič, co uveze basu piv i lehčí děvče. Navíc to docela odvaluje a neni to líný. Skákat s tim obrubníky, sjíždět schody nebo drtit pražský kostky neni problém. Ve městě se s nim nikdy neztratim. Tohle kolo mě fakt baví.
@@ -32,5 +34,3 @@ Morfování nebylo málo. Tenhle rám byl všim. Fixkou, tracklocrossem, zimáke
 {% asset_img IMG_1578.jpg "Na tomhle FGCX setupu jsem úspešně odjel celej jeden cyklokrosovej podzim." %}
 {% asset_img IMG_3504.jpg "Zpátky k čistýmu brakeless fixedgearu. To je stejně nejlepší." %}
 {% asset_img IMG_2064.jpg %}
-
-

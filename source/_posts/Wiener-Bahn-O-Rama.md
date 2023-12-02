@@ -3,16 +3,18 @@ title: Wiener Bahn-O-Rama
 date: 2017-01-28 16:02:52
 featured: tumblr_inline_okgr6jTi5Z1uvqm6b_1280.jpg
 tags:
-- Rakousko
-- kolo
-- fixedgear
-- defekt
-- dráha
-- závod
-- Vaverák
-- Matouš
+  - Rakousko
+  - kolo
+  - fixedgear
+  - defekt
+  - dráha
+  - závod
+  - Vaverák
+  - Matouš
 ---
+
 Jak jsme dostali na zadek ne Vídeňském velodromu.
+
 <!-- more -->
 
 S obědem v žaludku se vracíme do mrazu. Je -15°C a já a několik kamarádů jsme právě obědvali v Mikulově. Nádherné město. Nasedáme do auta a pokračujeme směr Vídeň. Konečně si doopravdy zazávodím na dráze.

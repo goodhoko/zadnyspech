@@ -3,17 +3,20 @@ title: Průmyslu sever
 date: 2018-05-20 00:59:39
 featured: R1-27.jpg
 tags:
-- Bílina
-- atletika
-- závod
-- povrchové doly
-- kolo
-- Česko
+  - Bílina
+  - atletika
+  - závod
+  - povrchové doly
+  - kolo
+  - Česko
 ---
+
 Na tohle léto jsem přislíbil atletickému klubu Triatlet Karlovy Vary, že za ně budu běhat v 2. lize. První kolo ligy v Bílině jsem spojil s výletem, který přinesl nečekanou spoustu zážitků.
 
 <!-- more -->
-## Závodní sobota ##
+
+## Závodní sobota
+
 Cesta na hlavák studenou ranní Prahou. Jen dotěrný dodávky a bagr, co mě málem zabil radlicí. Nasedám do vlaku směr Bílina. Radost mi udělaj dvě holky, co jedou do Ústí, aby zpátky jely na kolech a přespaly venku. Je 7:50 a už otvíraj plechovky Plzní.
 
 Z Bílinského nádraží na stadion je to kousek, asi jako z bytu na metro. Rozkoukávám se na stadionu. Pomalu se plní závodníkama a trenérama. Atletika je krásnej sport, tak čistej.
@@ -71,7 +74,8 @@ Přijíždí Jakub. Kluk, kterého jsem našel na couchsurfingu. Náš plán vyl
 
 Tahám Kubu ještě do místního, lehce moderního pajzlu na pár piv. Parádní povídaní. Jedna myšlenka: Mám jednoho kamaráda, kterej říkal, že je dobrý umět ušetřit peníze. O pár týdnů později, mi můj jiný kamarád říká, že umění není prachy uštřit ale vydělat. Povídám tohle Kubovi. Kuba opáčí: _"Umění je prachy nepotřebovat."_
 
-## Bolavá neděle ##
+## Bolavá neděle
+
 Budík mi v 3:55 drásá uši. Ve spacáku je teplo, ale Bořeň čeká. Přímo od paneláku stoupáme rosou. Je ještě tma a světýlka Bíliny i záře elektrárny jsou níž a níž. Škrábeme se po kramlích na skálu abychom stanuli na vrcholu akorát před východem.
 
 {% asset_img IMG_20180520_043848.jpg %}
@@ -97,5 +101,3 @@ Pak už jen sjezd Oparenským údolím (který jakoby z oka vypadlo tomu Úněti
 {% asset_img 0643460745130f17a848c2696114679f.0.jpg %}
 
 Vlak z Bohušovic do Prahy. Domov.
-
-

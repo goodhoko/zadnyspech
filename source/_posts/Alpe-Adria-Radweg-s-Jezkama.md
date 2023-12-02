@@ -3,22 +3,26 @@ title: Ciclovia Alpe Adria Radweg
 date: 2015-08-15 20:28:26
 featured: DSC_1398.jpg
 tags:
-- kolo
-- bikepacking
-- Itálie
-- Rakousko
-- Vítek J.
-- Filip J.
+  - kolo
+  - bikepacking
+  - Itálie
+  - Rakousko
+  - Vítek J.
+  - Filip J.
 ---
+
 V Italských Alpách se skrývá cyklistův sen. 50 km staré železniční trati předělané na cyklostezku. Ideální záminka vzít kola a dojet na nich do Benátek.
+
 <!-- more -->
 
-## Můj vehikl ##
+## Můj vehikl
+
 Eska z roku 1961, nosič vzadu, 50-36x11-28, 28mm pláště, samostavba.
 
 {% asset_img IMG_20150714_181012.jpg %}
 
-## Rozjezd ##
+## Rozjezd
+
 Týden před samotným výjezdem jsem trénoval bivakování v Alpách s rodinou
 {% asset_img received_10207967844054046.jpg "To není staged!" %}
 
@@ -34,7 +38,8 @@ Filip sere na brašny a jede v stylu hokynáře. První noc spíme pod širákem
 
 _Den 1. | 64 km | [Strava](https://www.strava.com/activities/379538054)_
 
-## Jezera ##
+## Jezera
+
 Druhý den vyrážíme do Salzburgu. Samý jezera, krásný jezera. Otevíraj se nám první náznaky Alp. Pivo, svačina, pivo, svačina, nohy do vody.
 
 {% asset_img IMG_20150819_151109.jpg %}
@@ -43,15 +48,17 @@ Večer Salzburg. Pivo a sacher musí být. V příjemný náladě unikáme z mě
 
 _Den 2. | 125 km | [Strava #1](https://www.strava.com/activities/379538026), [Strava #2](https://www.strava.com/activities/379445214), [Strava #3](https://www.strava.com/activities/378198249)_
 
-## Někdy jsi nahoře, někdy dole ##
+## Někdy jsi nahoře, někdy dole
+
 Další den, už ochutnáváme opravdové alpy. Nahoru dolů nespočetněkrát. Přečerpávací elektrárny jako tahle na každym rohu.
 
 {% asset_img 12087741_10205388840537331_5492543492155139915_o_10205388840537331.jpg %}
 
 Je na čase udělat zásadní rozhodnutí o následující trase. Tlačí nás čas a máme tři možnosti, jak překonat hlavní Alpský hřeben:
--  Zajet do Bad Gasteinu a 8 km dlouhým železničním tunelem hřeben podjet vlakem
--  Východní kraští cestou s maximální nadmořskou výškou cca 1700 m.n.m.
--  Západní cestou přes průsmyk vedle Großglockneru se sedlem v 2470 m.n.m.
+
+- Zajet do Bad Gasteinu a 8 km dlouhým železničním tunelem hřeben podjet vlakem
+- Východní kraští cestou s maximální nadmořskou výškou cca 1700 m.n.m.
+- Západní cestou přes průsmyk vedle Großglockneru se sedlem v 2470 m.n.m.
 
 Na můj horlivý apel je rozhodnuto. Bude to těžký, budeme spěchat, ale dáme si Großglockner Hochalpenstraße.
 
@@ -61,7 +68,8 @@ Mám radost. Naháníme kilometry, jedeme do noci. Ve tmě lezeme do nějaký ro
 
 _Den 3. | 96 km | [Strava](https://www.strava.com/activities/378198700)_
 
-## Großglockner Hochalpenstraße ##
+## Großglockner Hochalpenstraße
+
 Ráno se budíme u Zell am See. Pakujeme. Čeká nás vrchol, a musíme ho dneska stihnout, abychom si ještě mohli užít sjezd směr Itálie.
 
 Po zahřívacím stoupání dojíždíme k mýtu. (cca 830 m.n.m.) Pak už nás čeká jen 30 kilometrů strmýho kopce. Kluci volí chůzi. Já se trhám. Žeru jednu sušenku za druhou. Za chvíli už je všechno jedlý ve mně. Počasí se střídá každou minutu. Asi 4x moknu a zase usychám. Bojuju s dalšíma cyklistama. Nemá to konce.
@@ -88,7 +96,8 @@ Klesáme, pořád jen klesáme, už 40 km. Začíná smrákat. Hledáme hnízdo.
 
 _Den 4. | 83 km | [Strava](https://www.strava.com/activities/378198816)_
 
-## Sjezd a kafe ##
+## Sjezd a kafe
+
 {% asset_img 12186523_10205388841337351_7185725714762915513_o_10205388841337351.jpg %}
 
 Ráno. Jedeme na kafe. Dneska to bude vysoká pohoda. Čeká nás sjezd. Zevlíme a najednou je poledne a nemáme skoro nic najeto. Blbý a tak šlapem.
@@ -103,7 +112,8 @@ Po několika dnech v „divočině“ jsme odvaření z města. Ale není čas s
 
 _Den 5. | 108 km | [Strava](https://www.strava.com/activities/378199278)_
 
-## Cyklorgasmus ##
+## Cyklorgasmus
+
 Ráno nás budí sluníčko. Snídaně a koupání v řece. Dneska Itálie. U hranic kolem nás začínaj jezdit samý silničáři. Like.
 
 {% asset_img DSC_1347.jpg %}
@@ -138,7 +148,7 @@ A tak jedeme na silnici, jenže tam zas neexistuje krajnice, silnice je úzká a
 
 _Den 6. | 144 km | [Strava](https://www.strava.com/activities/378199387)_
 
-## Skanzen Benátky ##
+## Skanzen Benátky
 
 Dneska bude finito. Cítíme moře, je jen pár kilometrů daleko. Řezáme nekonečnou rovinu. Provoz je silnější a silnější. Těsně u Benátek už jsme normálně na dálnici. Au.
 

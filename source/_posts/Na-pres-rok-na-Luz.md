@@ -3,11 +3,13 @@ title: Na přes rok na Luž
 date: 2020-01-01 20:44:00
 featured: R1-06111-0006.jpg
 tags:
-- Česko
-- Lužické hory
-- chůze
+  - Česko
+  - Lužické hory
+  - chůze
 ---
+
 Když jsem byl ještě škvrně, rodiče udržovali společenství asi pěti rodin se stejně starejma dětma. V týhle dětský legii jsme trávili dovolený po všech koutech Čech. Ať už jsme my děti stavěli hráze v potoce, měli diskotéku, nebo hráli schovku, rodiče do sebe mohli klopit piva a „pálivý pitíčka“. Když jsem se rozhodoval, kde letos přečkám Silvestr, vzpomněl jsem si na jeden z těch koutů -- Kytlici.
+
 <!-- more -->
 
 Kytlice je menší vesnice přímo uprostřed Lužickejch hor, proslulá předevšim tim, že tam má chalupu větší část herecký smetánky. Pro mě je proslulá hlavně tim, že tam je jedna chalupa. Měla, dvě podlaží a půdu a schody byly vrzavý, dřevěný, pokrytý zátěžovym kobercem, takže když jsme po nich při schovce lítali, nárazy tolik nebolely, za to jsme měli lehký spáleniny.
@@ -15,6 +17,7 @@ Kytlice je menší vesnice přímo uprostřed Lužickejch hor, proslulá předev
 Abych to uvedl na pravou míru: Na Silvestra jsem přímo do Kytlice nezavítal. Můj plán byl navázat na [minulej rok](/Novorocni-neklid-na-Kralickym-Snezniku), vylízt poslední prosinec na Luž a první leden sestoupit zpátky.
 
 ## Poslední prosinec
+
 Budim se včas. Do našeho Strahovskýho bytu vniká žlutý, ostrý a těžce povzbuzující světlo. Slunce má teď těch několik chvil od zrození mezi Pankráckejma věžákama do zmizení za tou šedou dekou mraků, kde stráví zbytek dne. Budí mě to do čerstvosti, navzdory tomu že jsem pozdě do noci sosal poslední nezhlédnutý a nepřečtený videa a články o [New Aesthetic](https://jamesbridle.com/works/the-new-aesthetic). Dlouhodobá snaha jednoho kluka vzbudit diskuzi a vůbec najít výrazivo pro procesy a koncepty toho, jak digitální svět (kterej pomáhám tvořit) vplývá do světa reálnýho.
 
 {% asset_img R1-06110-017A.jpg %}
@@ -31,9 +34,11 @@ Z Děčína se šineme osobákem po kroutící se koleji skrz Středohoří a Lu
 {% asset_img R1-06110-019A.jpg %}
 
 ## Lokál
+
 Po odpálení brka zasedám v hospodě do čela největšího stolu, kterej je zrovna na chviličku opuštěn. S výhledem do lokálu objednávám turka a Svijany. Netrvá dlouho a přisedávaj první lidé. Zatim si čtu knihu a upadám do zasnění o samotě na moři. Vytrhává mě z něj pán přísedící si přímo po mojí pravici. Jeden s fírů místní trati. Dává se do konverzace se zbytkem našeho stolu. Šlo by to nazvat „čekáme na vlak, máme pivo, známe se z vesnice“. Moje, díky brku rozjetá, hlava už nevydrží prachsprostě lelkovat a tak začínám psát tenhle zápisek. Tady je několik postřehů od našeho stolu.
 
 ### Kapitalismus
+
 Fíra je včelař a konstatuje, že po letech musel dát na radu jednoho kamaráda američana, že je lepší prodávat včelstva místo medu.
 _„Je to prostě větší kšeft!“_
 Dodává ale, že to není duhový.
@@ -42,6 +47,7 @@ _„To pak je ale stejně hrozný, protože to prodáš těm -- no těm -- co ji
 Ale já už to nedělám. Dvakrát prodám a pak už ne!“_
 
 ### Ekologie
+
 Opět fíra, smířeně konstatuje:
 _„Oni nám to stejně zakážou. Jíst maso. Protože je to neekologický.“_
 Jinej přísedící:
@@ -50,6 +56,7 @@ Fíra napůl nostalgicky a napůl lišácky:
 _„Ti si nepamatuješ snad? Jak tehdá Olda mezi Kytlicí a Jedlovou porazil tu zvěřinu? Jsme to tady porcovali v magacinu. To bylo masa!“_
 
 ### Turismus
+
 Muž v červený fleesový mikině povídá hospodskýmu:
 _„Musíme to tady nějak veřejně pohanit! Je tady moc lidí. Víš, tak abychom se tady sešli, v klidu dali jídlo a pivo. Aby se tady dalo hnout!“_
 Hospodskej spokojeně a strhaně:
@@ -62,6 +69,7 @@ Jak dopisuju předchozí odstavec objednávám poslední malý pivo a minimáln�
 {% asset_img R1-06110-020A.jpg %}
 
 ## Ale holky
+
 Jejda! Akorát jsem zaplatil a do lokálu vrazily dvě mladý holky v pohorkách. Červený tváře, zařící oči, široký úsměvy a hledaj místo, kam se usadit. Vedle mě by se určitě vešly a taky vejdou. Dřív než stihnu vycucnout poslední lok, už mě přemlouvaj, ať si dám ještě jedno. Přece zrovna došly do cíle _„ŽST Jedlová!“_
 
 Jejich dobrá nálada je nakažlivá a za pár chvil se bavíme jako starší kamarádi.
@@ -81,6 +89,7 @@ Musel je nastrčit čert a svádí mě k hříchu přímo před očima Božíma.
 {% asset_img R1-06110-028A.jpg %}
 
 ## Zpátky do lesa
+
 Nořim se do tmy a ticha nočního lesa. Těch nemálo brk a piv se v tom tichu připomíná a prožívám několik psychedelickejch zážitků. Ozvěna mýho dupání se mi o hradbu stromů rozloží na tisíce diskrétních kousků, a každej dorazí s trošku jinym zpožděnim. Splývám s lesem v jeden objekt. No a pár dalších podobnejch. Na úpatí Luže je mi jasný, že horší cíl jsem si vybrat nemohl. Míří tam se mnou zástupy Němců, Čechů, psů, dětí, opilců a pyrotechniků. Tvrdohlavost, kterou jsem musel použít v Jiřetíně mi nedovoluje to otočit. Stavim stan ve sněhu přímo na vrcholu a s fernetem čekám na další rok.
 
 {% asset_img R1-06110-029A.jpg %}
@@ -90,6 +99,7 @@ Kolem půlnoci mi stan málem shoří, když se nějakej degen rozhodne, že je 
 {% asset_img R1-06110-036A.jpg %}
 
 ## První leden
+
 První ráno 2020 odsouvám až někam k poledni. Když konečně vystrčim hlavu ze stanu, všude jsou cáry rachejtlí a flašky chlastu. Další zhmotnění demence. Z nížin se sem už škrábou první vymítači kocoviny. Čas zmizet.
 
 {% asset_img R1-06111-0001.jpg %}

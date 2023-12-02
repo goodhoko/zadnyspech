@@ -3,20 +3,23 @@ title: Košice ⟶ Praha na koloběžce
 date: 2016-09-09 00:15:23
 featured: IMG_1188.jpg
 tags:
-- kolosvětoběh
-- koloběh
-- Slovensko
-- Česko
-- Kopečák
-- Šmahy
+  - kolosvětoběh
+  - koloběh
+  - Slovensko
+  - Česko
+  - Kopečák
+  - Šmahy
 ---
-3 muži ~ 3 koloběžky ~ 675 km ~ 4 dny ~ 1 defekt ~ 0 cigaret ~  7186 m nastoupáno ~ 5730 Kč projedeno
+
+3 muži ~ 3 koloběžky ~ 675 km ~ 4 dny ~ 1 defekt ~ 0 cigaret ~ 7186 m nastoupáno ~ 5730 Kč projedeno
+
 <!-- more -->
 
 Když jsme se sešli týden předem v kavárně Velryba a koupili jsme lístky do Košic, nevěřil jsem nám, že se donutíme dojet za 4 dny až do Prahy. Šlo to a bylo to skvělý.
 
-## Den #1 ##
-__~ Východní Slovensko__
+## Den #1
+
+**~ Východní Slovensko**
 _/// 161 km ~ 2512 m nastoupáno ~ [strava.com/activities/710088464](https://www.strava.com/activities/710088464) ///_
 
 {% asset_img IMG_1035.jpg "Takovýty dobrý vagony, kde jde ze sedaček udělat jedno velký letiště" %}
@@ -35,7 +38,7 @@ Pokračujeme skrz kopce. Každý sjezd je malý závod. Začínám hru na okresy
 
 Přicházíme do kontaktu s východním Slovenskem o kterém jsme slýchali. Každých 50 metrů stojí u krajnice cikán a s nataženou rukou nabízí košík nasbíraných hub. Četnost houbařů se postupně zvyšuje.
 
-Jsme u (v našich očích)  obrovského ghetta. Halda domečků, poskládaných ze všeho možného, jeden na druhém, rostou po kopcích nahoru od silnice. Před očima mám favely z Brazilského Ria. Je to živelné, špinavé, organické, světem nedotknuté, vlastní, samo pro sebe, v něčem krásné.
+Jsme u (v našich očích) obrovského ghetta. Halda domečků, poskládaných ze všeho možného, jeden na druhém, rostou po kopcích nahoru od silnice. Před očima mám favely z Brazilského Ria. Je to živelné, špinavé, organické, světem nedotknuté, vlastní, samo pro sebe, v něčem krásné.
 
 {% asset_img IMG_1189.jpg %}
 
@@ -48,8 +51,9 @@ Ocitáme se v širokém údolí mezi Nízkými a vysokými Tatrami. Nám skryté
 {% asset_img IMG_1096.jpg %}
 {% asset_img IMG_7012.jpg %}
 
-## Den #2 ##
-__~ Jsme v Česku ale ne v Praze__
+## Den #2
+
+**~ Jsme v Česku ale ne v Praze**
 _/// 181 km ~ 2258 m nastoupáno ~ [strava.com/activities/704260669](https://www.strava.com/activities/704260669) ///_
 
 Probuzení s rosou na tváři. Dnes budeme v Česku.
@@ -68,8 +72,9 @@ Proplétáme se kolem rozestavěné a jediné Slovenské dálnice až do Žiliny
 
 Padla tma. Nasazujeme všechny světla co máme, zaleháváme na řidítka a pouštíme se podél Bečvy dolů. Tři kužely světla krájejí lehkou mlhu v serpentinách. Euforie a snad setrvačnost nám dodá energii dojet až do Valašského Meziříčí. Fotbalové hřiště je nám útočištěm.
 
-## Den #3 ##
-__~ Krize__
+## Den #3
+
+**~ Krize**
 _/// 164 km ~ 1354 m nastoupáno ~ [strava.com/activities/705369921](https://www.strava.com/activities/705369921) ///_
 
 Neudat si ráno jasný cíl na den je zásadní chyba, kterou už snad znovu neuděláme.
@@ -88,8 +93,9 @@ Před Litmoyšlí nekompromisně obsazujeme autobusovou zastávku. Krizový den 
 
 {% asset_img zastavka.jpg %}
 
-## Den #4 ##
-__~ Praga mater urbium__
+## Den #4
+
+**~ Praga mater urbium**
 _/// 169 km ~ 1062 m nastoupáno ~ [strava.com/activities/706234014](https://www.strava.com/activities/706234014) ///_
 
 Budí nás smějící se babičky, co jedou do práce. Balíme a jedeme domu.

@@ -3,13 +3,15 @@ title: Vlakem pod betonem
 date: 2019-05-10 23:02:00
 featured: R1-6A.jpg
 tags:
-- vlaky
-- nákladní vlaky
-- JáchymV
-- Vaverák
-- Česko
+  - vlaky
+  - nákladní vlaky
+  - JáchymV
+  - Vaverák
+  - Česko
 ---
+
 Jak nám cikánskej pantáta zařídil noční jízdu nákladnim vlakem.
+
 <!-- more -->
 
 Potkáváme se v pátek večír klasicky na Hlaváku. Výbava, kterou nabíráme v Bille, je identická. Mexická pomázánka ve střívku a pytlík tukovejch rohlíků. Jáchym jede na vlaky poprvý, takže volim Kolín jako největší jistotu svezení.
@@ -72,9 +74,9 @@ OK. Zvedáme paleček u silnice a necháváme se svézt do Liťáku. Na tip Petr
 
 Přisedáme si k nějakýmu Vojtovi, co zrovna kupuje skéro za 1500 od vedlejšího stolu. Balíme teda brčko a necháváme si stručně vylíčit Vojtův život. Vypráví o Richardu pod městem. O jeho zkaženym mládí, který celý prohulil. I o tom, jak na něj ukrajinec vytáhl bouchačku, nebo jak on vytáhl nůž na někoho, na koho neměl a pak nemohl skoro rok chodit do Zanzibaru, protože po něm šli.
 
-Vojta bere tágo domů do Terezína a střídá ho Petr, kterej přijel na kole z tamtéž. U dalších piv polemizujeme, že by určitě stálo za to navštívit všechny pajzly v Česku jménem Zanzibar. (Ne fakt, přemejšlej o tom chvíli.) 
+Vojta bere tágo domů do Terezína a střídá ho Petr, kterej přijel na kole z tamtéž. U dalších piv polemizujeme, že by určitě stálo za to navštívit všechny pajzly v Česku jménem Zanzibar. (Ne fakt, přemejšlej o tom chvíli.)
 
-Loučíme se s Petrem a pokračujeme ku Dolnímu nádraží. Sedáme si na prkna ve tmě a klimbáme. Kolem jedný ráno už nám je zima a všechny vlaky stejně jenom prosvištěj. Jdeme na ostrov spát do vyhlídnutýho altánu. 
+Loučíme se s Petrem a pokračujeme ku Dolnímu nádraží. Sedáme si na prkna ve tmě a klimbáme. Kolem jedný ráno už nám je zima a všechny vlaky stejně jenom prosvištěj. Jdeme na ostrov spát do vyhlídnutýho altánu.
 
 {% asset_img R1-15A.jpg %}
 

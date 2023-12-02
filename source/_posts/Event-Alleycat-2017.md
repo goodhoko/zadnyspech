@@ -3,16 +3,19 @@ title: Event Alleycat 2017
 date: 2017-08-12 23:15:12
 featured: P8120046.jpg
 tags:
-- kolo
-- alleycat
-- závod
-- fixedgear
-- Praha
+  - kolo
+  - alleycat
+  - závod
+  - fixedgear
+  - Praha
 ---
+
 Druhý pokus uspořádat závod ve městě na kolech, kde se opravdu závodí ale vyhrát může kdokoli. To se skutečně vydařilo.
+
 <!-- more -->
 
 Pravidla závodu jsme od minulého roku nijak nezměnili, až na obodování jednotlivých kontrol. (Bylo třeba zajistit, aby tolik lidí nemělo stejný počet bodů. Viz [LCM](https://www.wikiwand.com/en/Least_common_multiple).) Je to celkem jednoduché:
+
 - Máte 75 minut na nasbírání co největšího počtu bodů.
 - Body získáte návštěvou kontroly.
 - Jsou 3 kategorie kontrol: za 3, 7 a 13 bodů.
@@ -29,7 +32,7 @@ Nápověda v plakátu dávala tušit skutečnost, že všechny kontroly budou u 
 
 {% asset_img P8120039.jpg %}
 
-Nedalo se nic dělat. *Start!*
+Nedalo se nic dělat. _Start!_
 
 {% asset_img P8120046.jpg %}
 {% asset_img P8120103.jpg %}
@@ -47,6 +50,7 @@ S předstihem se vracím do cíle a dychtivě čekáme na první závodníky. Po
 Klukům předáváme ceny v podobě plakátů, tetovaček a kšiltovek, co věnoval Kuba Ježek. (Díky!)
 
 Ještě pár archivačních údajů:
+
 - [Komplet výsledky](https://docs.google.com/spreadsheets/d/1hWOnrKbTVTIkQkPy5oaAhJYYQ7hE2sI1L4iHUssEYuM/edit?usp=sharing)
 - [Mapa kontrol](https://drive.google.com/open?id=1uCLRRjtOHsRwK8nsXTA4o3YD4Pg&usp=sharing)
 - [FB událost](https://www.facebook.com/events/480489032329729)

@@ -3,13 +3,15 @@ title: Na fixce pro Kremžskou hořčici
 date: 2019-05-01 10:27:27
 featured: R1-12a.jpg
 tags:
-- kolo
-- Anna
-- Česko
-- Rakousko
-- fixedgear
+  - kolo
+  - Anna
+  - Česko
+  - Rakousko
+  - fixedgear
 ---
+
 Jaro, kola, jihočešství a trochu alternativní hudby v Kremži.
+
 <!-- more -->
 
 Včera celej den pršelo a tak se konečsně jaro probralo ze sucha a všechno naráz zezelenalo. Dvě hodiny po poledni vstupujeme do pedálů na Strahově. Praskliny v asfaltu jsou ještě mokrý, ikdyž už je slunce zase rychle vysouší. První pivo klopíme hned na Spartě v Bráníku a pak už známá cesta Vraný - Zvole - Jílový (Kafe a Míša) - Neveklov - Kosova hora...

@@ -3,15 +3,17 @@ title: Za Annou do Highlands
 date: 2018-04-18 01:20:14
 featured: R1-5A.jpg
 tags:
-- Skotsko
-- Edinburgh
-- Skye
-- Anna
-- chůze
+  - Skotsko
+  - Edinburgh
+  - Skye
+  - Anna
+  - chůze
 ---
+
 [Annu](https://ceranna.com) jsme potkal poprvý, když jsme s Matoušem lezli do jednoho z vršovických kanálů. Pak jsem ji potkal podruhý o tři roky pozdějc u nás v dílně. Řekla: „Studuju v Edinburghu, stav se.“ Neváhal jsem.
 
 <!-- more -->
+
 Rekola fungujou výborně. Sbalen na cestu vyrážim ze Strašnic do Karlína pro kalhoty od [Séger](http://segrasegra.cz). Pak do Dejvic do školy.
 
 {% asset_img IMG_20180412_122821.jpg %}
@@ -34,7 +36,7 @@ Anna vytahuje obrovské mapy hor. Leháme si do nich a plánujeme. Neznalý vše
 
 Royal Oak. Hraje se na kytary, zpívá se, hlava na hlavě, spousty piv, dřevo, nažloutlý světlo, whisky, barmanka od rány. Miluju to. Pak se postaví jeden z dědečků a začne zpívat. Celý bar ztichne a poslouchá lidovou píseň. Stařec dozpívá, bar zatleská a vřava pokračuje. Připojuje se k nám Joan – Španěl. Teda pardon, Katalánec. I když teda na mojí otázku, proč vlastně chce Catalania independence, nemá žádnou uspokojivou odpověď.
 
-Ráno dostávám od Anny čaj, její kolo Lady 26 a den času. [Jedu bloudit](https://www.strava.com/activities/1506344348) městem. Seaside, malý domy, opuštěný majáky a všechny auta v protisměru. Vlastně ne zas tak pěkný město. 
+Ráno dostávám od Anny čaj, její kolo Lady 26 a den času. [Jedu bloudit](https://www.strava.com/activities/1506344348) městem. Seaside, malý domy, opuštěný majáky a všechny auta v protisměru. Vlastně ne zas tak pěkný město.
 
 {% asset_img R1-32A.jpg %}
 {% asset_img R1-34A.jpg %}
@@ -46,7 +48,7 @@ Naštěstí pak ale beru roha z města podél břehu do Cramondu. [Hospůdka](ht
 
 Tam už čeká Anna s půjčenou károu a tak vyrážíme na nákup do Lidlu. I ve Skotsku Lidl vládne supermarketům.
 
-Před půlnocí jdeme na hlavák naproti Lindě a Marcelovi. Anny kamarádi přijeli z Londýna. Z hlaváku míříme rovnou do Oaku. Zase vřava, zase dobrý pivo. Po zavíračce si jdeme projít centrum. Konečně vidím z Edinburghu i něco pěknýho. Nakonec to město má něco do sebe. A kdybych vylezl na nějaký z kopců okolo, tak se mi to město začne i líbit. Usínáme v řadě vedle sebe v kuchyni. 
+Před půlnocí jdeme na hlavák naproti Lindě a Marcelovi. Anny kamarádi přijeli z Londýna. Z hlaváku míříme rovnou do Oaku. Zase vřava, zase dobrý pivo. Po zavíračce si jdeme projít centrum. Konečně vidím z Edinburghu i něco pěknýho. Nakonec to město má něco do sebe. A kdybych vylezl na nějaký z kopců okolo, tak se mi to město začne i líbit. Usínáme v řadě vedle sebe v kuchyni.
 
 Kafe, breakfast, sedáme do káry a jedeme na Loch Lomond. Jezero a národní park.
 
@@ -81,7 +83,7 @@ Začínáme bogem a směřujeme k úpatí. Žádný cesty, natož značení, tad
 {% asset_img R1-29.jpg %}
 {% asset_img 18-17-6.jpg "Black Cuilin na pozadí. Creds to Anna" %}
 
-Dorážíme na nižší ze dvou vrcholů – fake summit. Od toho pravého nás dělí úzký pás sněhu se srázem na obě strany. Cepíny nám dodávaj dostatek jistoty. Máme nahnáno ale víme, že není třeba panikařit. 
+Dorážíme na nižší ze dvou vrcholů – fake summit. Od toho pravého nás dělí úzký pás sněhu se srázem na obě strany. Cepíny nám dodávaj dostatek jistoty. Máme nahnáno ale víme, že není třeba panikařit.
 
 Stojíme na vrcholu, šťastní. Smích, fotka, toast a hledáme cestu přes kamenné pláně dolů. Je to magický. Hory jsou majestátní. Jsme sami. Široko daleko ani noha. Jdeme prostě tudy, kudy chceme. Žádný signál. Žádná horská služba. Jen svoboda.
 
@@ -99,30 +101,35 @@ Přicházíme k malebný [Lookout bothy](https://www.mountainbothies.org.uk/both
 
 Ráno při ohnutí pro batoh na zemi heknu tak, že Anna rozhodne dnes další dvě munra vyměnit za rychloturistický roadtripový ježdění po Skye. Máme spoustu skvělý muziky. Úzký prázdný silničky jakoby čekaly jen na nás. Objíždíme Skye křížem krážem.
 
-### The Faerie Glen ###
+### The Faerie Glen
+
 Lovely. Travnatý mini kopečky s ovečkama a jehňátkama ve vší svý malebnosti. Cuteness overload.
 
 {% asset_img IMG_4204.jpg %}
 
-### Quiraing ###
+### Quiraing
+
 Silniční průsmyk mezi skalníma masivama. Majestátnost krajiny zašlapává naše maličký bytosti do bezvýznamnosti.
 
 {% asset_img R1-5A.jpg %}
 {% asset_img IMG_4222.jpg "Creds to Anna" %}
 
-### Coral Beach ###
+### Coral Beach
+
 Pláž, kde místo písku najdete drobounký štěrk čistě z rozdrolených mušlí. Sledujeme tuleně, jak se plácaj ve vodě a pak si hrajeme v neuvěřitelně silným větru. Stačí vyskočit, roztáhnout ruce a člověk letí.
 
 {% asset_img R1-9A.jpg "I believe I can fly!" %}
 
-### Neist Point ###
+### Neist Point
+
 Osamocený maják na konci světa. Oceán drtí drsné skály útesu. Stojíme těsně na řvoucím příbojem a užíváme si tu sílu. Nejradši bych si tady dal brko a převaloval si v hlavě nekonečnost moře – prostorovou i časovou. Z rozjímání mě ale vytrhne vlna, která nás oba celý spláchne. Kalhoty od Séger jsou ale dokonalý a do půl minuty jsou absolutně suchý.
 
 {% asset_img IMG_4260.jpg "MJ" %}
 {% asset_img IMG_4304.jpg %}
 {% asset_img IMG_4319.jpg %}
 
-### Fairy Pools ###
+### Fairy Pools
+
 Skotská krajina v plný síle. Nemám slov. Velké holé pláňě přes které kvílí vítr. Nad nima se do výšky zlověstně drápou rozeklaný skály Black Cuilinu. Nikde nikdo, jen soumrak a hektary prostoru.
 
 {% asset_img R1-20A.jpg %}

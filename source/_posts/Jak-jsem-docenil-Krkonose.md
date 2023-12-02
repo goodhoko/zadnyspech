@@ -2,21 +2,24 @@
 title: Jak jsem docenil Krkonoše
 date: 2018-02-16 23:02:47
 featured: cestaNaVoseckou.jpg
-tags: 
-- běžky
-- Krkonoše
-- Česko
+tags:
+  - běžky
+  - Krkonoše
+  - Česko
 ---
 
 Vždycky jsem zastával tábor, který tvrdil že Krkonoše jsou celkem OK, ale vlastně jen samý hluboký rokle a nuda. Naproti tomu Šumava umí nabídnout tu správnou magickou atmosféru. Tenhle únorový víkend mi ukázal Krkonoše, jak jsem je neznal a jak jsem si je zamiloval.
 
 <!-- more -->
+
 ## Plánování
+
 Jednou jsme se s Kájou (Ahoj, Kájo!) potkali ve škole, a po chvíli small talku — jsme se shodli, že nás trochu sere, že nikdy nic nepodnikneme sami na vlastní pěst. Že všechna dobrodružství prožíváme zásadně aspoň s jedním kamarádem. Že je na čase, se naučit být taky někdy sám. Padla dohoda: Po zkouškách vyrazíme „společně“ na běžky. Každý sám, každý podle sebe. Naše dohoda nás měla pohlídat abychom to nevyzevlili.
 
 Moje volba padla na Krkonoše. Prostě je během víkendu přejdu z východu na západ nebo naopak a aby to stálo za to a taky to stálo málo peněz, budu spát venku. Na skvělém webu [boudy.info](http://boudy.info) jsem si vyhlídl několik míst na spaní. Šimon (Ahoj, Šimone!) mi půjčil teplý spacák a Šípák (Ahoj, Šípáku!) běžky na klasiku. Koupil jsem bochník chleba, fazole, hummus a trochu sýra v Lidlu a byl jsem ready. Neodradila mě ani zrada od Káji, která svojí část odpískala.
 
 ## Trautenberk a skůtr (pátek)
+
 [strava.com/activities/1414213392](https://www.strava.com/activities/1414213392)
 Měl jsem dojet autobusem do Malé Úpy, v prvním buse se protrhl chladič a zůstali jsme trčet někde před Trutnovem. Chvíli jsem zkoušel stopovat, pak nás vysvobodil nějaký linkáč, co jel zrovna kolem.
 
@@ -39,6 +42,7 @@ Je kolem půl šesté večerní, a tak nejdřív pálím trochu bylin, abych si 
 {% asset_img 4.jpg "Hotel pro první noc." %}
 
 ## Krkonošské planiny (sobota)
+
 [strava.com/activities/1414214405](https://www.strava.com/activities/1414214405)
 
 Ráno svítí ostré slunce. Ze sněhu si vařím kafe a čaj a připadám si jako opravdový horal. Balím, mažu vosk a v 9 hodin vykračuji do stopy. Po pár stovkách metrů seznávám, že můj pokus o správné namazání selhal. Sundávám lyže a pokračuji pěšky. Po Obřím hřebenu pomalu nabírám metry ku Sněžce. Je krásně. Sluce svítí. Sníh se třpytí. Pod horami se táhne moře inverzní oblačnosti do nekonečna.
@@ -73,6 +77,7 @@ Zaleháme vedle sebe na patýrko. Pro jistotu dnes nasazuji oba spacáky a nohy 
 {% asset_img 11.jpg "Dva spacáky a pro jistotu ještě bunda přes nohy." %}
 
 ## K snídani mléko (neděle)
+
 [strava.com/activities/1414214908](https://www.strava.com/activities/1414214908)
 Budí mě světlo a kvílení větru. Nakouknu ven a vidím hustou mlhu. Přesněji, nevidím nic, než bílou tmu. Chumlám se zpátky do teplého spacáku a hypnotizuji sám sebe, abych ještě spal. Nedaří se mi to, a tak se přemáhám, vylézám ze spacáku a začínám studený ranní obřad. Obléct se, sbalit jeden a druhý spacák, smotat karimatku, sbalit batoh. Obout na kus ledu zmrzlé boty. Na dělání snídaně nemám ani pomyšlení. Čehokoli se dotknu studí a všechno jídlo co mám je stejně zmrzlé.
 

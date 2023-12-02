@@ -1,9 +1,10 @@
 ---
-title: {{ title }}
-date: {{ date }}
-featured: 
+title: { { title } }
+date: { { date } }
+featured:
 tags:
 ---
+
 <!-- {% asset_img . "" %} -->
 
 <!-- more -->

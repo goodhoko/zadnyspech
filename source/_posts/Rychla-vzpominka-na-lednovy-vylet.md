@@ -3,19 +3,21 @@ title: Rychlá vzpomínka na lednový výlet
 date: 2018-01-15 00:49:57
 featured: 05190005.jpg
 tags:
-- Praha
-- kolo
-- T9
-- defekt
-- fixedgear
-- Šimon K.
-- Vaverák
-- Kuba J.
-- Matouš
+  - Praha
+  - kolo
+  - T9
+  - defekt
+  - fixedgear
+  - Šimon K.
+  - Vaverák
+  - Kuba J.
+  - Matouš
 ---
+
 Rychlá vzpomínka na lednový výlet, když nás Petr přijel provětrat do Prahy.
 
 <!-- more -->
+
 T9 == město == Kinského sady == Strahov == Šárka == Nebušice == Únětice.
 První fotky z nového analogu, který jsem dostal k Vánocům pár dní před tím.
 [strava.com/activities/1329749431](https://www.strava.com/activities/1329749431)
@@ -25,6 +27,3 @@ První fotky z nového analogu, který jsem dostal k Vánocům pár dní před t
 {% asset_img 05190008.jpg "" %}
 {% asset_img 05190009.jpg "" %}
 {% asset_img 05190010.jpg "" %}
-
-
-

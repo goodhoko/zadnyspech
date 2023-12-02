@@ -3,13 +3,15 @@ title: Nákladní Vlaky s Hey Pedrem
 date: 2015-08-03 22:58:26
 featured: 11.jpg
 tags:
-- vlaky
-- nákladní vlaky
-- Valašsko
-- Kerouac
-- Matouš
+  - vlaky
+  - nákladní vlaky
+  - Valašsko
+  - Kerouac
+  - Matouš
 ---
+
 Kterak jsme nákladním vlakem dojeli na Valašsko, kde jsme okuli kobylu a poslechli si Karla Plíhala.
+
 <!-- more -->
 
 Setkání s Hey Pedrem bylo překvapivé. Nečekal jsem, že pojedu s bezdomovcem možná uprchlíkem.

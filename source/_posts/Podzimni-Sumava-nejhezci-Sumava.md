@@ -3,27 +3,31 @@ title: Podzimní Šumava – nejhezčí Šumava
 date: 2016-09-25 02:35:55
 featured: IMG_1222.jpg
 tags:
-- Šumava
-- Česko
-- chůze
-- lesy
-- Alžběta
+  - Šumava
+  - Česko
+  - chůze
+  - lesy
+  - Alžběta
 ---
+
 Šumavské kopce byly snad odjakživa mé nejoblíbenější. Neznám žádné jiné hory, kde by panoval takový utlumený klid. Řekli jsme si, že si Šumavu projdeme pešky v jejím nejlepším období - na podzim.
+
 <!-- more -->
 
-## Pátek ##
+## Pátek
+
 [strava.com/activities/722426207](https://www.strava.com/activities/722426207)
 
 Z autobusu vystupujeme v 6 hodin večer ovínění na Kvildě. Pekárna má zavřeno tak se hojíme dvanácterákem z pivovaru. Před smrákáním vyrážíme na Modravu. Kráčíme tichým lesem a užíváme si vlahý vzduch. Zima nám není, hřeje nás alkohol a nadšení.
 
 {% asset_img IMG_1221.jpg %}
 
-Těsně za Modravou na nás čeká první nouzové nocoviště. NP Šumava je zbudovala podél hlavní červené trasy napříč celou Šumavou. Každých 10 km tak můžete beztrestně  a bezstarostně ulehat přímo v první zóně národního parku. Malý travnatý plácek ohraničený dřevem s piknikovým stolem a jedním stanem. Ve tmě se přidáváme s tím naším. Při usínání slyším jen lehké oddychování vedle sebe a Roklanský potok vedle stanu.
+Těsně za Modravou na nás čeká první nouzové nocoviště. NP Šumava je zbudovala podél hlavní červené trasy napříč celou Šumavou. Každých 10 km tak můžete beztrestně a bezstarostně ulehat přímo v první zóně národního parku. Malý travnatý plácek ohraničený dřevem s piknikovým stolem a jedním stanem. Ve tmě se přidáváme s tím naším. Při usínání slyším jen lehké oddychování vedle sebe a Roklanský potok vedle stanu.
 
 Až na omrzlý nos mi je v péřovém spacáku dobře. Za to Bety trpí. Obléká na sebe, co může a snaží se usnout.
 
-## Sobota ##
+## Sobota
+
 [strava.com/activities/723291401](https://www.strava.com/activities/723291401)
 
 {% asset_img IMG_1250.jpg %}
@@ -43,7 +47,8 @@ Při pozdním odpoledni stoupáme na Poledník. Ne vrchu je škaredá rozhledna 
 Stavíme stan, vaříme torteliny v dešťové vodě, pijeme pivo z bufetu a užíváme si slunce před chladnou nocí. Vyprovázíme ho až za obzor. Skupinka lidí v krbu, který nabízí místní přístřešek na ohni opéká buřty. Krátce se ohřeju a jdeme si zadýchat stan.
 Slunce nás budí do...
 
-## Neděle ##
+## Neděle
+
 [strava.com/activities/724612775](https://www.strava.com/activities/724612775)
 
 {% asset_img IMG_1306.jpg %}
@@ -55,7 +60,3 @@ Slunce nás budí do...
 Smrky pomalu začínají nahrazovat i jiné druhy. Do Alžbětína už scházíme skrz doubravu. Tam nás vypékají České dráhy - neberou karty a jediný bankomat je na Německé straně, eura prý berou. Hm, tak dík. 20 € za čtyřhodinovou jízdu do Prahy. Jsme doma.
 
 {% asset_img IMG_1378.jpg %}
-
-
-
-

@@ -3,12 +3,14 @@ title: Novoroční neklid na Kralickym Sněžníku
 date: 2019-01-01 23:37:56
 featured: PC310059.jpg
 tags:
-- Kralický Sněžník
-- zima
-- Česko
-- chůze
+  - Kralický Sněžník
+  - zima
+  - Česko
+  - chůze
 ---
+
 Letos jsem chtěl hranici do dalšího roku překročit samotou. Vylízt někam daleko na kopec, do zimy a nečasu. Nahoře si dát jointa. Zapálit prskavku. Zkouknout ohňostroje z nadhledu a zachumlat se do závětří. Jenže tahle nuda se mi zase překlopila v příjemně nečekaný dobrodružství.
+
 <!-- more -->
 
 Ještě v kocovině vybírám na poslední chvíli na popud [Bety](https://tojedobry.home.blog/) Kralický Sněžník. Tam by měl být klid. Navíc kousíček do Polska údajně stojí chatka mysliwecka s kamínkama a pohodlím na patýrku. Jedem!
@@ -31,7 +33,7 @@ Pod vrcholem se konečně les rozevírá v holou sněžnou pláň. Je jasno, leh
 _„Ahoj! Pojď dovnitř!“_
 _„ummm...“_
 _„No dělej, pojď dovnitř!“_
-OK. Soukám se dovnitř. 
+OK. Soukám se dovnitř.
 
 Dva chlapi a žena. Ikdyž duchem spíš dva kluci a holka. Okamžitě dostávám dávku rumu. Jen polehávaj ve spacácích a dělaj si pěknej večer. Smějou se mi, jak jsem mladičkej. Každej z nich už má totiž děti v mym věku.
 _„Haha, a to jdeš takhle sám? Ty tady chceš někde přespat?“_
@@ -64,6 +66,6 @@ Prohodíme ještě pár vět a už jedu v kabině a vyptávám se na všechny mo
 
 {% asset_video P1010131.mp4 "Sorry, potřebuješ novější prohlížeč pro zobrazení tohodle videa." %}
 
-Klasickej příběh člověka, kterej má jasno: prostě chce jezdit s vlakem. Nejdřív to zkoušel přímo u drah. To nevyšlo a tak se dal k železniční policii a časem to dotáhl na toho fíru. Nakonec přešel k drahám a teď se zrovna na rok upsal, že bude jezdit tuhle trať.  A tak ji jezdí a spokojeně vozí lidi do hor a z hor.
+Klasickej příběh člověka, kterej má jasno: prostě chce jezdit s vlakem. Nejdřív to zkoušel přímo u drah. To nevyšlo a tak se dal k železniční policii a časem to dotáhl na toho fíru. Nakonec přešel k drahám a teď se zrovna na rok upsal, že bude jezdit tuhle trať. A tak ji jezdí a spokojeně vozí lidi do hor a z hor.
 
 {% asset_img P1010132.jpg %}

@@ -3,13 +3,15 @@ title: Front derailleur spacer
 date: 2020-12-03 13:21:54
 featured: model.png
 tags:
-- 3D printing
-- bicycle parts
-- handwork
-- coding
-- open source
+  - 3D printing
+  - bicycle parts
+  - handwork
+  - coding
+  - open source
 ---
+
 Recently, I got this steel frame to [build kind of a neo-retro road bike](/Silver-everything)) out of it. The frame has this perverse S-shaped seat tube. It looks cool but places the front derailleur too high and forward resulting in the chain rubbing against the bottom of the cage. I designed this little spacer that goes between the derailleur and the frame to move the derailleur back and down and to rotate it a few degrees - effectively rotating it around the cranks' axis.
+
 <!-- more -->
 
 It works roughly like this:

@@ -3,12 +3,14 @@ title: Řecko ve čtyřech
 date: 2017-05-05 16:20:19
 featured: tumblr_inline_oph915iEJ51uvqm6b_1280.jpg
 tags:
-- Řecko
-- Alžběta
-- Šimon K.
-- Madla
+  - Řecko
+  - Alžběta
+  - Šimon K.
+  - Madla
 ---
+
 Jednoduchý plán: Honza, Alžběta, Šimon a Magda - 4 kamarádi koupí levné letenky do Atén, půjčí si auto a projedou celé Řecko – Zas tak snadné to nebylo.
+
 <!-- more -->
 
 Odlet z Berlína v 6 ráno, to znamená příjezd busem den předem. Hold levný…OK. Dáváme muzeum, pár lahví vína, procházku po Berlíně a noc trávíme s dalším vínem na letišti. Kolem 4 ráno promneme oka a jdeme ke gatu. Šimon letí poprvé, necháváme mu místo u okýnka. Letíme nad mraky, akorát abychom sledovali východ slunce.
@@ -41,7 +43,7 @@ Přejedeme malý hrb směrem k pobřeží a jako bychom byli v jiné zemi. Nejsp
 
 {% asset_img tumblr_inline_oph8e7Y0hc1uvqm6b_1280.jpg %}
 
-Další ráno na pláži - zatím mě to neomrzelo. Jedeme do Athén vrátit auto. Vyčistit ho nemůžeme, protože v Řecku nemají vysavače na benzinkách a pokud náhodou mají, jediná šance jak ho použít je zaplatit týpkovi za to, že vám vyluxuje auto. Když zablácené, poškrábané, omlácené  a zaprasené auto vracíme, pán jen pozvedne obočí, poznamená, že máme “full coverage” a kývá, že OK. uf. Necháme se odvézt na letiště, kde zjišťujeme, že jsme idioti. Není 1. 3. ale 28. 2. vrátili jsme auto o den dřív. Samozřejmě nám vrácené auto už dát nemůžou. Kreténi , fakt. (my, ne oni, samozřejmě)
+Další ráno na pláži - zatím mě to neomrzelo. Jedeme do Athén vrátit auto. Vyčistit ho nemůžeme, protože v Řecku nemají vysavače na benzinkách a pokud náhodou mají, jediná šance jak ho použít je zaplatit týpkovi za to, že vám vyluxuje auto. Když zablácené, poškrábané, omlácené a zaprasené auto vracíme, pán jen pozvedne obočí, poznamená, že máme “full coverage” a kývá, že OK. uf. Necháme se odvézt na letiště, kde zjišťujeme, že jsme idioti. Není 1. 3. ale 28. 2. vrátili jsme auto o den dřív. Samozřejmě nám vrácené auto už dát nemůžou. Kreténi , fakt. (my, ne oni, samozřejmě)
 
 {% asset_img tumblr_inline_oph8z1rWZz1uvqm6b_1280.jpg %}
 
@@ -63,4 +65,4 @@ Po hektickém odbavení sedíme v letadle směr SFX Berlin. Letíme nad Olympem,
 
 {% asset_img tumblr_inline_oph95znRfj1uvqm6b_1280.jpg %}
 
-Po příletu si vychutnáváme Berlínský gemüse kebab. Ještě dnes večer nás se Šimonem čekají závody.  To už je ale jiný příběh.
+Po příletu si vychutnáváme Berlínský gemüse kebab. Ještě dnes večer nás se Šimonem čekají závody. To už je ale jiný příběh.

@@ -3,12 +3,14 @@ title: Na tripu v Cairngorms
 date: 2019-04-22 18:24:44
 featured: R1-26A.jpg
 tags:
-- Skotsko
-- Anna
-- Cairngorms
-- chůze
+  - Skotsko
+  - Anna
+  - Cairngorms
+  - chůze
 ---
+
 Pěkný, komfortní a bezpečný místo je prý to hlavní, když si vybíráte kam na tripa. Cairngorms jsou nádherný. Pocit bezpečí nám taky poskytly. Ale jejich nehostinnost má ke komfortu hodně daleko.
+
 <!-- more -->
 
 Prahu opouštim za vlahýho jarního včera. Jeden z těch večerů kdy stačí košile, nebe je zlatý a tráva mezi panelákama se dychtivě zelená. Uběhl přesně rok, co jsem naposled a poprvý jel [za Annou do Highlands](/Za-Annou-do-Highlands/). Zatímco v dubnu 2018 jsem vyrážel za neznámym dobrodužstvim, dnes se spíš vracim domů. Za Annou.
@@ -58,6 +60,7 @@ Představuju si, že tady -- vedle mě -- bude navždy. Představa věčnosti m�
 {% asset_img R1-06.jpg %}
 
 ## Pod jazykem je toho víc než na jazyku
+
 Sedíme na kameni zádama opřený o sebe, každej ve svym světě. Slunce se plíží za horizont a ten nepříjemnej knedlík v žaludku, co mě provázel celou dobu, začíná ustupovat. V malym jezírku skáčeme z kamene na kámen. Vracíme se nohama na zem.
 
 Jak slunce zaleze, vítr je fuč. Ihned. Najednou je ticho. Hladina Avonu nebouří a i těch vjemů už není zdaleka tolik. Uleháme do stanu. Konečně schopní verbální komunikace, pokoušíme si sdělovat, co jsme vlastně zažili. Moc nám to nejde. Slova jsou krátký. Naše věty, stejně jako tenhle zápisek jsou mělký. Prožitek byl ale někde jinde. Zvládáme si akorát tak upatlat večeři. Neotevřu oko až do rána. Mozek odpočívá.

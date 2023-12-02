@@ -3,12 +3,14 @@ title: Uhlík z Pekingu
 date: 2019-03-04 07:52:56
 featured: R1-22.jpg
 tags:
-- kolo
-- stavba kol
-- bikecheck
-- T9
+  - kolo
+  - stavba kol
+  - bikecheck
+  - T9
 ---
+
 Čistokrevná silnička je v určitym smyslu základ, kterej žádný jiný kolo nenahradí.
+
 <!-- more -->
 
 Cíl bylo kolo, který pojede fakt rychle, bude tuhý, lehký a moderní. Jo a taky musí mít komplet stříbrný osazení. Všechno se povedlo.

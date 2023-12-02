@@ -3,12 +3,14 @@ title: Ridley X-Ride v mramoru
 date: 2019-01-13 22:21:13
 featured: P1110002.jpg
 tags:
-- kolo
-- stavba kol
-- bikecheck
-- T9
+  - kolo
+  - stavba kol
+  - bikecheck
+  - T9
 ---
+
 Chtěl jsem kolo do terénu, ale nechtěl jsem aby bylo líný. Zároveň mám rád kola, který nejde jednoduše zařadit do žádný konvenční kategorie. Tohle je výsledek.
+
 <!-- more -->
 
 Cyklokrosovej rám X-Ride od Ridley postavenej „na horáka“. To znamená široký rovňáky na páčení kopců a vůbec kličkování mezi šutrama. Jednopřevodník, protože... to je prostě stejně nejlepší. XT hazka a kazeta s velkym rozsahem, protože na tom chci jet kudykoli a ne řešit kadenci. No a tak široký pláště, jak se tam jenom vejdou.

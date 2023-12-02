@@ -3,11 +3,13 @@ title: Silver everything
 date: 2020-10-30 22:11:10
 featured: R1-00085-030A.jpg
 tags:
-- bikecheck
-- kolo
-- stavba kol
+  - bikecheck
+  - kolo
+  - stavba kol
 ---
+
 When (as a god damn stoned idiot) I broke my [pinky carbon](/Uhlik-z-Pekingu) I was left with a complete bike minus the frameset. I envisioned some nice oldschool steel frame I'd just throw all the parts on to get that [neo/retro](https://www.pinterest.com/aeonchrist/neoretro/) look.
+
 <!-- more -->
 
 It was as easy as posting a single inquiry to the [Urbanvelo](https://www.facebook.com/groups/urbanvelo.unlimited/) group to get me this weird frame.

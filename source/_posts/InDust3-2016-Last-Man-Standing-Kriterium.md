@@ -3,14 +3,16 @@ title: InDust3 2016 ~ Last Man Standing Kriterium
 date: 2016-09-10 02:24:33
 featured: tumblr_inline_odvmsjqFxx1uvqm6b_1280.jpg
 tags:
-- indust3
-- fixedgear
-- criterium
-- Praha
-- kolo
-- závod
+  - indust3
+  - fixedgear
+  - criterium
+  - Praha
+  - kolo
+  - závod
 ---
+
 Letos se festival městské cyklisticky InDust3 odstřihl od všech sponzorů a obrovských ambicí. Zbyl jediný závod: kriterium. Kluci postavili trať v Holešovické tržnici. Hodně technický asi 800 metrů dlouhý okruh na nepříjemném povrchu. Jemný pracho-štěrk výhružně šustí pod koly v každé zatáčce. Jak si ale trať projíždíme rychleji a rychleji, hrubý asfalt, zdá se, nás všechny udrží.
+
 <!-- more -->
 
 Na start se staví 13 závodníků a 2 závodnice. Systém je jednoduchý: každé dvě kola poslední vypadává. Last Man Standing vyhrává.
@@ -38,7 +40,3 @@ Pokud bych chtěl hledat další závodníky tady, nehledal bych mezi městským
 Těším se na další rok!
 
 {% asset_img tumblr_inline_odx3esQKUv1uvqm6b_1280.jpg "Photo: Ben Minton" %}
-
-
-
-

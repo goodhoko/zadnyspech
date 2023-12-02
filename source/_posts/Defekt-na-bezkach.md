@@ -3,16 +3,18 @@ title: Defekt na běžkách
 date: 2019-02-15 22:27:30
 featured: R1-21.jpg
 tags:
-- defekt
-- běžky
-- Česko
-- Krušnohory
-- Vaverák
-- Šimon K.
-- Šimon M.
-- Čmelda
+  - defekt
+  - běžky
+  - Česko
+  - Krušnohory
+  - Vaverák
+  - Šimon K.
+  - Šimon M.
+  - Čmelda
 ---
+
 Běžky v defektim stylu. Pot, alkohol a THC.
+
 <!-- more -->
 
 Z Nonstopáče na Perštýně šlapu domů, abych na záda jen hodil batoh a nasedl do Auta ke klukům. Dávám si dvacet na zadní sedačce. Víc nepotřebuju, dneska mě živí láska.

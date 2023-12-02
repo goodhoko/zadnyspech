@@ -3,15 +3,16 @@ title: Díra času v Rychlebských horách
 date: 2018-08-30 09:35:56
 featured: R1-05693-020A.jpg
 tags:
-- Rychlebské hory
-- lesy
-- Jeseníky
-- Česko
-- Anna
-- chůze
+  - Rychlebské hory
+  - lesy
+  - Jeseníky
+  - Česko
+  - Anna
+  - chůze
 ---
 
 Nabírám Annu v Rychnově nad Kněžnou. Ghettokárou si krájíme tmu na silnici směr Horní Lipová. Nevím, kam jedeme. Mám jen slíbenou úžasnost v lesích.
+
 <!-- more -->
 
 Bouchnutí dvěří auta a už stoupáme korytem potoka v tmavém lese. Hluboce oddychujíc, škrábeme se ke Třem studánkám. Nádech, výdech a pouštíme se zase dolů. Po delším sestupu se u cesty zjeví srub zapadlý u potoka v údolí. Terasa má krb, ale jinak je zamčeno. Jsem lehce zklamán. Čekal jsem větší pecku. Pak už jen vidím, jak se mi Anna směje: _„Tak pojď, jdeme.“_ A vede mě ke skutečnému cíli.
