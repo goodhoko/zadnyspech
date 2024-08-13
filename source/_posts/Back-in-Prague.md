@@ -8,7 +8,7 @@ tags:
   - Česko
 ---
 
-We live in a society. Since yesterday, I once again live in a society that I can literally understand. But I share not only my native tongue with local people. We share the experience of local seasons.
+We live in a society. Since yesterday, I once again live in a society that I can literally understand. But tongue is not the only thing I share with local people. We share the experience of local seasons.
 
 <!-- more -->
 
