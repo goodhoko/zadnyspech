@@ -27,24 +27,20 @@ hexo.extend.filter.register(
 
 // CUSTOM TAGS //
 hexo.extend.tag.register("asset_video", function (args, content) {
-  var file = args[0] || "",
-    ext = path.extname(file),
-    alt =
-      args[1] ||
-      "Čas vylézt z jeskyně a začít používat prohlížeč, kterej umí zobrazit html5 video.";
+  const file = args[0] || "";
+  const ext = path.extname(file).substring(1);
+  const alt =
+    args[1] ||
+    "Čas vylézt z jeskyně a začít používat prohlížeč, kterej umí zobrazit html5 video.";
 
-  return (
-    '<div class="asset">' +
-    '<video width="100%" controls>' +
-    '<source src="./' +
-    file +
-    '"type="video/' +
-    ext +
-    '">' +
-    alt +
-    "</video>" +
-    "</div>"
-  );
+  return `
+    <div class="asset">
+      <video width="100%" controls>
+        <source src="./${file}" type="video/${ext}">
+        ${alt}
+      </video>
+    </div>
+    `;
 });
 
 hexo.extend.tag.register("asset_vimeo", function (args) {
