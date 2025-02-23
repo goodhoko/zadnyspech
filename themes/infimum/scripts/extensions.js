@@ -10,10 +10,16 @@ hexo.extend.filter.register(
 
     data.content = data.content.replace(/<img [^>]+>/g, (img) => {
       const src = img.match(/src="(.*?)"/)[1];
-      const thumbnail = path.join(
-        path.dirname(src),
-        `thumbnail_${path.basename(src)}`,
-      );
+      let thumbnail;
+      // Should be kept in sync with `responsive_images.pattern` in config.yml.
+      if (src.match(/.*\.(png|jpg|jpeg)$/i)) {
+        thumbnail = path.join(
+          path.dirname(src),
+          `thumbnail_${path.basename(src)}`,
+        );
+      } else {
+        thumbnail = src;
+      }
       let title = img.match(/title="(.*?)"/);
       title = title ? title[1] : "";
 
