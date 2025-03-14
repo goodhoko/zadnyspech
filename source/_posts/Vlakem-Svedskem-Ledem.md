@@ -106,6 +106,7 @@ Na většině plochy je led přitom zbytečně tlustý. Může mít klidně dvac
 
 Přes celý den pak objíždíme další čtyři jezera. [Tisnaren](https://www.strava.com/activities/13664273424), [Djulösjön](https://www.strava.com/activities/13664276673), [Förssjösjön](https://www.strava.com/activities/13664281192), [Hallbosjön](https://www.strava.com/activities/13664284872). Někde nás vede sníh, někde jen vlastní nos. Prohlížíme si led a jeho pukliny, spáry, bubliny, strukturu a orientaci krystalů, jak ji ve slunci odhalují polarizační brýle. Přesně to odpovídá dlaždicím, které se na ledě objeví, až začne obleva. Některé bubliny tvoří klikaté cestičky, asi jak nějaký korýš cestoval po dně a trávil.
 
+{% asset_img IMG_8028.gif "Jirka podjíždí strom spadlý na led." %}
 {% asset_img R1-30.jpg "Kry větrem nahrnuté do křivolaké a pichlavé brázdy." %}
 {% asset_img R1-31A.jpg "Stovky malých bublin zachycených v průzračném ledu. Na chvíli pozastaveny ve své krátké pouti časem." %}
 {% asset_img R1-35A.jpg "Vlásenkové praskliny v desítky centimetrů tlustém černém ledu." %}
