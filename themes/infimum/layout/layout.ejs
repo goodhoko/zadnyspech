@@ -11,17 +11,20 @@
 	<title><%= htmlUnescape(title) %></title>
 	<link rel="shortcut icon" type="image/png" href="<%- url_for('data/favicon.png') -%>"/>
 
-	<%- css('assets/css/fonts.css') %>
-	<%- css('assets/css/style.css') %>
-	<%- css('assets/css/lightgallery.min.css') %>
-	<%- css('assets/css/normalize.css') %>
-
 	<%- open_graph({
+		// Netlify serves (and redirects to) index.html on the directory path.
+		// Match the canonical URL to it to not confuse scrapers.
+		url: url.replace(/\/index.html$/, "/"),
 		image: page.featured || url_for(headerImgs('data/headers')[0]),
 		title: htmlUnescape(title),
 		description: is_home() ? config.description : null,
 		site_name: htmlUnescape(config.title)
 	}) %>
+
+	<%- css('assets/css/fonts.css') %>
+	<%- css('assets/css/style.css') %>
+	<%- css('assets/css/lightgallery.min.css') %>
+	<%- css('assets/css/normalize.css') %>
 </head>
 <body>
 	<%- body %>
