@@ -8,6 +8,14 @@ tags:
   - Anna
 ---
 
+TODO:
+
+- crop river skate video and convert to gif again
+- add analog pics
+- sort pics, include them in the article
+- add a photo from lago di Santa Giustina
+- publish!
+
 Zase jsme jednou svátky trávili v dodávce v Itálii. Když i v Toskánsku zašlo přes noc mrznout, vydali jsme se do Alp hledat Italské ledy.
 
 <!-- more -->
@@ -26,7 +34,6 @@ Hned další ráno jedeme na jistotu na plivátko jménem Laghetto Welsperg. Akt
 
 Lačný po opravdovém panenském ledě velím jízdu na Lago di Val Noana. Silnice je prosolená a suchá asi kilometr pod přehradu. Tam odkládáme samochod a pokračujeme sami chůzí. Z koruny hráze shlížíme na krásný, hluboce tyrkysový led bez jediné poskvrnky. Má to jedinou chybu: leží asi 40 metrů pod námi, protože přehrada je upuštěná. Sejít dolů po břehu nepřipadá v úvahu. Možná tak kdybychom s sebou měli lano.
 
-{% asset_img IMG_5134.jpg %}
 {% asset_img IMG_5122.jpg %}
 
 Stejně jako včera, nám zklamání vynahradí náhoda. O pár kilometrů dál na naší procházce narážíme na krátký úsek zamrzlého potoka. Mimo zimu je to docela bystřina, takže led je dokonce tak z kopce, že jedním směrem to jede samo. Tzv. [sjezdové bruslení](www.strava.com/activities/16947977389).
@@ -38,7 +45,6 @@ Jak už to na tomhle výletě je, neúspěch vždy střídá úspěch. Jen o 20 
 Nejedná se o žádnou velehorskou úchvatnost, ale ta bezstarostnost nám učaruje tak, že přespáváme opodál a vracíme se i druhý den. Anna bruslí a já si dávám [hike&fly](https://www.strava.com/activities/16969396185) z přilehlého kopce a přistávám přímo na led. Příště se musím za letu nandat brusle abych to dosednutí ustál.
 
 {% asset_img IMG_5237.jpg %}
-{% asset_img IMG_5248.jpg %}
 {% asset_img IMG_5252.jpg %}
 
 Poslední ledovou zastávkou cestou na Brenner je Vařící nebo Studené jezero podle toho jakým jazykem mluvíte - Lago di Caldaro nebo Kalterer See. Že by mohlo být zamrzlé zrovna tohle jezero by nás nikdy nenapadlo, kdyby se i tom Anna nedočetla v místním deníku. Všude jinde v Adižském údolí jasně panuje tekuté skupenství vody.
